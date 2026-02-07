@@ -1,0 +1,5071 @@
+country_name,year,health_index
+Afghanistan,2004,28.6
+Afghanistan,2005,28.3
+Afghanistan,2006,28.0
+Afghanistan,2007,28.4
+Afghanistan,2008,28.7
+Afghanistan,2009,28.8
+Afghanistan,2010,28.7
+Afghanistan,2011,28.4
+Afghanistan,2012,28.7
+Afghanistan,2013,28.3
+Afghanistan,2014,28.2
+Afghanistan,2015,28.7
+Afghanistan,2016,28.6
+Afghanistan,2017,28.8
+Afghanistan,2018,28.5
+Afghanistan,2019,27.9
+Afghanistan,2020,28.4
+Afghanistan,2021,28.8
+Afghanistan,2022,28.3
+Afghanistan,2023,28.1
+Afghanistan,2024,28.7
+Afghanistan,2025,28.6
+Afghanistan,2026,28.8
+Afghanistan,2027,28.6
+Afghanistan,2028,28.4
+Afghanistan,2029,28.5
+Afghanistan,2030,28.1
+Afghanistan,2031,28.7
+Afghanistan,2032,28.4
+Afghanistan,2033,28.9
+Albania,2004,45.1
+Albania,2005,45.8
+Albania,2006,46.1
+Albania,2007,45.3
+Albania,2008,45.9
+Albania,2009,45.7
+Albania,2010,45.9
+Albania,2011,45.3
+Albania,2012,45.4
+Albania,2013,45.8
+Albania,2014,46.0
+Albania,2015,45.6
+Albania,2016,46.1
+Albania,2017,45.6
+Albania,2018,45.3
+Albania,2019,46.2
+Albania,2020,45.6
+Albania,2021,45.0
+Albania,2022,46.1
+Albania,2023,45.5
+Albania,2024,45.8
+Albania,2025,46.0
+Albania,2026,45.3
+Albania,2027,45.5
+Albania,2028,45.6
+Albania,2029,45.6
+Albania,2030,46.0
+Albania,2031,45.8
+Albania,2032,45.5
+Albania,2033,45.8
+Algeria,2004,26.6
+Algeria,2005,26.5
+Algeria,2006,26.7
+Algeria,2007,26.3
+Algeria,2008,26.6
+Algeria,2009,26.3
+Algeria,2010,26.4
+Algeria,2011,26.6
+Algeria,2012,26.2
+Algeria,2013,26.8
+Algeria,2014,26.6
+Algeria,2015,26.3
+Algeria,2016,26.5
+Algeria,2017,26.2
+Algeria,2018,26.2
+Algeria,2019,26.8
+Algeria,2020,26.5
+Algeria,2021,26.2
+Algeria,2022,26.5
+Algeria,2023,26.6
+Algeria,2024,26.4
+Algeria,2025,26.4
+Algeria,2026,26.5
+Algeria,2027,26.4
+Algeria,2028,26.6
+Algeria,2029,26.2
+Algeria,2030,26.5
+Algeria,2031,26.5
+Algeria,2032,26.3
+Algeria,2033,26.5
+Andorra,2004,33.1
+Andorra,2005,32.8
+Andorra,2006,31.5
+Andorra,2007,33.1
+Andorra,2008,33.7
+Andorra,2009,31.6
+Andorra,2010,33.4
+Andorra,2011,31.3
+Andorra,2012,34.5
+Andorra,2013,34.2
+Andorra,2014,30.6
+Andorra,2015,32.9
+Andorra,2016,33.7
+Andorra,2017,34.1
+Andorra,2018,30.6
+Andorra,2019,30.5
+Andorra,2020,32.6
+Andorra,2021,34.7
+Andorra,2022,31.8
+Andorra,2023,33.7
+Andorra,2024,32.2
+Andorra,2025,32.8
+Andorra,2026,31.3
+Andorra,2027,30.3
+Andorra,2028,32.8
+Andorra,2029,32.0
+Andorra,2030,30.8
+Andorra,2031,34.3
+Andorra,2032,31.0
+Andorra,2033,34.6
+Angola,2004,26.1
+Angola,2005,26.2
+Angola,2006,25.3
+Angola,2007,28.4
+Angola,2008,27.2
+Angola,2009,25.6
+Angola,2010,27.8
+Angola,2011,28.1
+Angola,2012,27.4
+Angola,2013,25.9
+Angola,2014,28.6
+Angola,2015,25.7
+Angola,2016,26.4
+Angola,2017,25.8
+Angola,2018,28.0
+Angola,2019,25.2
+Angola,2020,27.2
+Angola,2021,29.1
+Angola,2022,26.8
+Angola,2023,27.1
+Angola,2024,26.7
+Angola,2025,24.9
+Angola,2026,28.1
+Angola,2027,25.7
+Angola,2028,25.8
+Angola,2029,27.9
+Angola,2030,26.2
+Angola,2031,28.6
+Angola,2032,26.1
+Angola,2033,26.0
+Antigua & Barbuda,2004,30.1
+Antigua & Barbuda,2005,30.2
+Antigua & Barbuda,2006,30.1
+Antigua & Barbuda,2007,30.1
+Antigua & Barbuda,2008,30.1
+Antigua & Barbuda,2009,30.0
+Antigua & Barbuda,2010,30.1
+Antigua & Barbuda,2011,30.1
+Antigua & Barbuda,2012,30.2
+Antigua & Barbuda,2013,30.0
+Antigua & Barbuda,2014,30.1
+Antigua & Barbuda,2015,30.0
+Antigua & Barbuda,2016,30.2
+Antigua & Barbuda,2017,30.1
+Antigua & Barbuda,2018,30.0
+Antigua & Barbuda,2019,30.2
+Antigua & Barbuda,2020,30.1
+Antigua & Barbuda,2021,30.0
+Antigua & Barbuda,2022,30.2
+Antigua & Barbuda,2023,30.1
+Antigua & Barbuda,2024,30.0
+Antigua & Barbuda,2025,30.1
+Antigua & Barbuda,2026,30.2
+Antigua & Barbuda,2027,30.1
+Antigua & Barbuda,2028,30.0
+Antigua & Barbuda,2029,30.1
+Antigua & Barbuda,2030,30.0
+Antigua & Barbuda,2031,30.2
+Antigua & Barbuda,2032,30.2
+Antigua & Barbuda,2033,30.1
+Argentina,2004,55.8
+Argentina,2005,55.0
+Argentina,2006,54.9
+Argentina,2007,56.0
+Argentina,2008,55.7
+Argentina,2009,54.8
+Argentina,2010,54.7
+Argentina,2011,54.8
+Argentina,2012,55.2
+Argentina,2013,56.1
+Argentina,2014,54.7
+Argentina,2015,54.9
+Argentina,2016,55.8
+Argentina,2017,55.1
+Argentina,2018,54.7
+Argentina,2019,56.1
+Argentina,2020,55.3
+Argentina,2021,54.4
+Argentina,2022,55.5
+Argentina,2023,55.5
+Argentina,2024,55.7
+Argentina,2025,54.7
+Argentina,2026,55.6
+Argentina,2027,55.6
+Argentina,2028,54.4
+Argentina,2029,55.2
+Argentina,2030,55.6
+Argentina,2031,55.9
+Argentina,2032,55.5
+Argentina,2033,55.4
+Armenia,2004,62.6
+Armenia,2005,62.2
+Armenia,2006,62.7
+Armenia,2007,62.2
+Armenia,2008,62.7
+Armenia,2009,62.2
+Armenia,2010,62.9
+Armenia,2011,62.4
+Armenia,2012,61.9
+Armenia,2013,62.7
+Armenia,2014,63.1
+Armenia,2015,62.0
+Armenia,2016,62.4
+Armenia,2017,61.9
+Armenia,2018,61.8
+Armenia,2019,63.2
+Armenia,2020,62.5
+Armenia,2021,61.8
+Armenia,2022,62.0
+Armenia,2023,62.9
+Armenia,2024,62.6
+Armenia,2025,62.6
+Armenia,2026,62.0
+Armenia,2027,63.1
+Armenia,2028,62.1
+Armenia,2029,62.5
+Armenia,2030,62.4
+Armenia,2031,62.5
+Armenia,2032,62.5
+Armenia,2033,62.6
+Australia,2004,72.7
+Australia,2005,71.8
+Australia,2006,71.2
+Australia,2007,71.4
+Australia,2008,72.9
+Australia,2009,72.3
+Australia,2010,71.1
+Australia,2011,72.0
+Australia,2012,72.8
+Australia,2013,72.2
+Australia,2014,71.1
+Australia,2015,71.8
+Australia,2016,72.6
+Australia,2017,73.1
+Australia,2018,71.3
+Australia,2019,73.2
+Australia,2020,72.2
+Australia,2021,71.1
+Australia,2022,71.5
+Australia,2023,71.9
+Australia,2024,73.0
+Australia,2025,71.7
+Australia,2026,71.4
+Australia,2027,72.2
+Australia,2028,71.8
+Australia,2029,72.9
+Australia,2030,72.0
+Australia,2031,72.2
+Australia,2032,71.7
+Australia,2033,71.0
+Austria,2004,57.1
+Austria,2005,57.0
+Austria,2006,57.2
+Austria,2007,57.3
+Austria,2008,57.3
+Austria,2009,57.2
+Austria,2010,57.3
+Austria,2011,57.1
+Austria,2012,57.1
+Austria,2013,57.3
+Austria,2014,57.0
+Austria,2015,56.9
+Austria,2016,57.4
+Austria,2017,56.9
+Austria,2018,57.1
+Austria,2019,57.4
+Austria,2020,57.2
+Austria,2021,56.9
+Austria,2022,56.9
+Austria,2023,57.1
+Austria,2024,56.9
+Austria,2025,57.2
+Austria,2026,57.0
+Austria,2027,57.2
+Austria,2028,57.1
+Austria,2029,57.1
+Austria,2030,57.0
+Austria,2031,57.1
+Austria,2032,57.3
+Austria,2033,57.2
+Azerbaijan,2004,34.5
+Azerbaijan,2005,34.3
+Azerbaijan,2006,34.4
+Azerbaijan,2007,34.3
+Azerbaijan,2008,34.7
+Azerbaijan,2009,34.7
+Azerbaijan,2010,34.3
+Azerbaijan,2011,34.6
+Azerbaijan,2012,34.4
+Azerbaijan,2013,34.3
+Azerbaijan,2014,34.4
+Azerbaijan,2015,34.6
+Azerbaijan,2016,34.3
+Azerbaijan,2017,34.4
+Azerbaijan,2018,34.4
+Azerbaijan,2019,34.2
+Azerbaijan,2020,34.5
+Azerbaijan,2021,34.7
+Azerbaijan,2022,34.2
+Azerbaijan,2023,34.3
+Azerbaijan,2024,34.6
+Azerbaijan,2025,34.3
+Azerbaijan,2026,34.6
+Azerbaijan,2027,34.5
+Azerbaijan,2028,34.6
+Azerbaijan,2029,34.6
+Azerbaijan,2030,34.3
+Azerbaijan,2031,34.3
+Azerbaijan,2032,34.4
+Azerbaijan,2033,34.4
+Bahrain,2004,36.6
+Bahrain,2005,38.5
+Bahrain,2006,36.6
+Bahrain,2007,36.8
+Bahrain,2008,38.5
+Bahrain,2009,37.7
+Bahrain,2010,36.8
+Bahrain,2011,36.5
+Bahrain,2012,38.8
+Bahrain,2013,37.7
+Bahrain,2014,36.6
+Bahrain,2015,38.9
+Bahrain,2016,38.3
+Bahrain,2017,38.2
+Bahrain,2018,37.3
+Bahrain,2019,38.9
+Bahrain,2020,37.6
+Bahrain,2021,36.3
+Bahrain,2022,38.1
+Bahrain,2023,37.3
+Bahrain,2024,36.8
+Bahrain,2025,39.0
+Bahrain,2026,37.8
+Bahrain,2027,37.3
+Bahrain,2028,36.8
+Bahrain,2029,37.8
+Bahrain,2030,37.2
+Bahrain,2031,36.8
+Bahrain,2032,37.2
+Bahrain,2033,37.4
+Bangladesh,2004,35.5
+Bangladesh,2005,35.5
+Bangladesh,2006,35.5
+Bangladesh,2007,35.4
+Bangladesh,2008,35.4
+Bangladesh,2009,35.4
+Bangladesh,2010,35.4
+Bangladesh,2011,35.5
+Bangladesh,2012,35.5
+Bangladesh,2013,35.4
+Bangladesh,2014,35.4
+Bangladesh,2015,35.4
+Bangladesh,2016,35.4
+Bangladesh,2017,35.4
+Bangladesh,2018,35.5
+Bangladesh,2019,35.4
+Bangladesh,2020,35.5
+Bangladesh,2021,35.5
+Bangladesh,2022,35.5
+Bangladesh,2023,35.5
+Bangladesh,2024,35.5
+Bangladesh,2025,35.5
+Bangladesh,2026,35.5
+Bangladesh,2027,35.5
+Bangladesh,2028,35.4
+Bangladesh,2029,35.4
+Bangladesh,2030,35.4
+Bangladesh,2031,35.4
+Bangladesh,2032,35.5
+Bangladesh,2033,35.5
+Belarus,2004,43.5
+Belarus,2005,42.0
+Belarus,2006,43.0
+Belarus,2007,43.2
+Belarus,2008,43.4
+Belarus,2009,41.9
+Belarus,2010,42.8
+Belarus,2011,42.5
+Belarus,2012,42.8
+Belarus,2013,42.7
+Belarus,2014,43.4
+Belarus,2015,42.4
+Belarus,2016,42.4
+Belarus,2017,41.9
+Belarus,2018,42.6
+Belarus,2019,41.8
+Belarus,2020,42.8
+Belarus,2021,43.9
+Belarus,2022,43.5
+Belarus,2023,42.6
+Belarus,2024,43.6
+Belarus,2025,42.1
+Belarus,2026,43.6
+Belarus,2027,43.2
+Belarus,2028,42.5
+Belarus,2029,43.2
+Belarus,2030,42.0
+Belarus,2031,42.8
+Belarus,2032,42.4
+Belarus,2033,43.0
+Belgium,2004,61.8
+Belgium,2005,61.9
+Belgium,2006,60.8
+Belgium,2007,61.6
+Belgium,2008,60.3
+Belgium,2009,60.9
+Belgium,2010,61.3
+Belgium,2011,59.6
+Belgium,2012,61.0
+Belgium,2013,60.1
+Belgium,2014,61.4
+Belgium,2015,61.8
+Belgium,2016,61.8
+Belgium,2017,60.5
+Belgium,2018,60.0
+Belgium,2019,61.9
+Belgium,2020,60.6
+Belgium,2021,59.3
+Belgium,2022,61.0
+Belgium,2023,60.9
+Belgium,2024,60.1
+Belgium,2025,61.9
+Belgium,2026,61.3
+Belgium,2027,61.2
+Belgium,2028,61.7
+Belgium,2029,59.9
+Belgium,2030,60.5
+Belgium,2031,60.8
+Belgium,2032,61.7
+Belgium,2033,61.4
+Belize,2004,30.0
+Belize,2005,30.0
+Belize,2006,30.1
+Belize,2007,29.9
+Belize,2008,30.1
+Belize,2009,30.1
+Belize,2010,30.0
+Belize,2011,30.1
+Belize,2012,29.8
+Belize,2013,29.9
+Belize,2014,30.0
+Belize,2015,29.9
+Belize,2016,29.8
+Belize,2017,29.7
+Belize,2018,30.0
+Belize,2019,30.2
+Belize,2020,30.0
+Belize,2021,29.7
+Belize,2022,30.0
+Belize,2023,30.1
+Belize,2024,30.1
+Belize,2025,30.0
+Belize,2026,30.2
+Belize,2027,30.2
+Belize,2028,30.0
+Belize,2029,30.0
+Belize,2030,29.9
+Belize,2031,30.2
+Belize,2032,30.1
+Belize,2033,30.0
+Benin,2004,26.0
+Benin,2005,26.9
+Benin,2006,25.7
+Benin,2007,25.8
+Benin,2008,26.8
+Benin,2009,26.9
+Benin,2010,26.5
+Benin,2011,26.6
+Benin,2012,25.4
+Benin,2013,26.0
+Benin,2014,26.5
+Benin,2015,26.5
+Benin,2016,26.9
+Benin,2017,25.6
+Benin,2018,26.6
+Benin,2019,27.0
+Benin,2020,26.2
+Benin,2021,25.4
+Benin,2022,26.7
+Benin,2023,26.4
+Benin,2024,25.5
+Benin,2025,27.1
+Benin,2026,26.8
+Benin,2027,26.4
+Benin,2028,25.9
+Benin,2029,25.8
+Benin,2030,26.6
+Benin,2031,25.7
+Benin,2032,25.8
+Benin,2033,27.1
+Bhutan,2004,40.8
+Bhutan,2005,40.8
+Bhutan,2006,40.8
+Bhutan,2007,40.6
+Bhutan,2008,40.2
+Bhutan,2009,40.7
+Bhutan,2010,40.6
+Bhutan,2011,40.6
+Bhutan,2012,39.8
+Bhutan,2013,40.7
+Bhutan,2014,40.6
+Bhutan,2015,40.2
+Bhutan,2016,40.5
+Bhutan,2017,39.8
+Bhutan,2018,40.1
+Bhutan,2019,40.8
+Bhutan,2020,40.3
+Bhutan,2021,39.8
+Bhutan,2022,40.6
+Bhutan,2023,40.1
+Bhutan,2024,40.1
+Bhutan,2025,40.6
+Bhutan,2026,39.9
+Bhutan,2027,40.3
+Bhutan,2028,40.3
+Bhutan,2029,41.0
+Bhutan,2030,40.6
+Bhutan,2031,40.8
+Bhutan,2032,40.7
+Bhutan,2033,40.9
+Bolivia,2004,30.9
+Bolivia,2005,30.4
+Bolivia,2006,30.7
+Bolivia,2007,30.2
+Bolivia,2008,30.6
+Bolivia,2009,31.3
+Bolivia,2010,30.1
+Bolivia,2011,31.8
+Bolivia,2012,31.8
+Bolivia,2013,29.9
+Bolivia,2014,30.8
+Bolivia,2015,31.5
+Bolivia,2016,31.8
+Bolivia,2017,31.9
+Bolivia,2018,30.7
+Bolivia,2019,32.0
+Bolivia,2020,31.0
+Bolivia,2021,29.9
+Bolivia,2022,31.5
+Bolivia,2023,31.1
+Bolivia,2024,31.0
+Bolivia,2025,31.7
+Bolivia,2026,30.4
+Bolivia,2027,31.2
+Bolivia,2028,30.9
+Bolivia,2029,29.8
+Bolivia,2030,29.8
+Bolivia,2031,31.5
+Bolivia,2032,31.8
+Bolivia,2033,30.5
+Bosnia & Herzegovina,2004,36.3
+Bosnia & Herzegovina,2005,36.2
+Bosnia & Herzegovina,2006,35.4
+Bosnia & Herzegovina,2007,35.5
+Bosnia & Herzegovina,2008,36.1
+Bosnia & Herzegovina,2009,35.6
+Bosnia & Herzegovina,2010,36.3
+Bosnia & Herzegovina,2011,35.9
+Bosnia & Herzegovina,2012,35.8
+Bosnia & Herzegovina,2013,35.8
+Bosnia & Herzegovina,2014,35.7
+Bosnia & Herzegovina,2015,36.0
+Bosnia & Herzegovina,2016,36.1
+Bosnia & Herzegovina,2017,35.5
+Bosnia & Herzegovina,2018,35.6
+Bosnia & Herzegovina,2019,36.4
+Bosnia & Herzegovina,2020,35.9
+Bosnia & Herzegovina,2021,35.4
+Bosnia & Herzegovina,2022,36.2
+Bosnia & Herzegovina,2023,35.9
+Bosnia & Herzegovina,2024,36.2
+Bosnia & Herzegovina,2025,36.0
+Bosnia & Herzegovina,2026,36.2
+Bosnia & Herzegovina,2027,36.3
+Bosnia & Herzegovina,2028,35.8
+Bosnia & Herzegovina,2029,36.1
+Bosnia & Herzegovina,2030,36.2
+Bosnia & Herzegovina,2031,35.7
+Bosnia & Herzegovina,2032,36.1
+Bosnia & Herzegovina,2033,35.6
+Botswana,2004,31.5
+Botswana,2005,32.9
+Botswana,2006,32.3
+Botswana,2007,31.2
+Botswana,2008,31.6
+Botswana,2009,32.8
+Botswana,2010,33.0
+Botswana,2011,31.6
+Botswana,2012,31.6
+Botswana,2013,32.2
+Botswana,2014,31.4
+Botswana,2015,31.8
+Botswana,2016,31.2
+Botswana,2017,32.4
+Botswana,2018,31.1
+Botswana,2019,31.1
+Botswana,2020,32.4
+Botswana,2021,33.6
+Botswana,2022,33.2
+Botswana,2023,32.6
+Botswana,2024,31.5
+Botswana,2025,33.5
+Botswana,2026,31.2
+Botswana,2027,31.9
+Botswana,2028,31.4
+Botswana,2029,33.1
+Botswana,2030,33.2
+Botswana,2031,31.7
+Botswana,2032,32.5
+Botswana,2033,32.1
+Brazil,2004,51.2
+Brazil,2005,51.2
+Brazil,2006,51.2
+Brazil,2007,51.1
+Brazil,2008,51.0
+Brazil,2009,51.2
+Brazil,2010,51.1
+Brazil,2011,51.1
+Brazil,2012,51.1
+Brazil,2013,51.0
+Brazil,2014,51.0
+Brazil,2015,51.0
+Brazil,2016,51.0
+Brazil,2017,51.1
+Brazil,2018,51.1
+Brazil,2019,51.0
+Brazil,2020,51.1
+Brazil,2021,51.2
+Brazil,2022,51.2
+Brazil,2023,51.1
+Brazil,2024,51.2
+Brazil,2025,51.0
+Brazil,2026,51.0
+Brazil,2027,51.1
+Brazil,2028,51.1
+Brazil,2029,51.1
+Brazil,2030,51.2
+Brazil,2031,51.1
+Brazil,2032,51.2
+Brazil,2033,51.1
+Brunei Darussalam,2004,36.9
+Brunei Darussalam,2005,36.9
+Brunei Darussalam,2006,38.6
+Brunei Darussalam,2007,33.1
+Brunei Darussalam,2008,39.5
+Brunei Darussalam,2009,41.0
+Brunei Darussalam,2010,41.6
+Brunei Darussalam,2011,39.4
+Brunei Darussalam,2012,39.0
+Brunei Darussalam,2013,34.0
+Brunei Darussalam,2014,43.1
+Brunei Darussalam,2015,36.9
+Brunei Darussalam,2016,36.8
+Brunei Darussalam,2017,38.1
+Brunei Darussalam,2018,34.7
+Brunei Darussalam,2019,33.0
+Brunei Darussalam,2020,38.3
+Brunei Darussalam,2021,43.5
+Brunei Darussalam,2022,36.6
+Brunei Darussalam,2023,42.8
+Brunei Darussalam,2024,34.8
+Brunei Darussalam,2025,37.4
+Brunei Darussalam,2026,36.5
+Brunei Darussalam,2027,38.9
+Brunei Darussalam,2028,39.3
+Brunei Darussalam,2029,43.1
+Brunei Darussalam,2030,35.0
+Brunei Darussalam,2031,42.5
+Brunei Darussalam,2032,37.0
+Brunei Darussalam,2033,39.2
+Bulgaria,2004,60.1
+Bulgaria,2005,61.0
+Bulgaria,2006,60.2
+Bulgaria,2007,60.1
+Bulgaria,2008,60.9
+Bulgaria,2009,60.0
+Bulgaria,2010,61.3
+Bulgaria,2011,60.0
+Bulgaria,2012,60.2
+Bulgaria,2013,61.3
+Bulgaria,2014,60.1
+Bulgaria,2015,60.2
+Bulgaria,2016,60.4
+Bulgaria,2017,60.3
+Bulgaria,2018,61.0
+Bulgaria,2019,61.4
+Bulgaria,2020,60.7
+Bulgaria,2021,59.9
+Bulgaria,2022,60.0
+Bulgaria,2023,60.0
+Bulgaria,2024,60.1
+Bulgaria,2025,59.9
+Bulgaria,2026,60.3
+Bulgaria,2027,60.6
+Bulgaria,2028,59.7
+Bulgaria,2029,60.6
+Bulgaria,2030,60.6
+Bulgaria,2031,60.1
+Bulgaria,2032,60.6
+Bulgaria,2033,60.9
+Burkina Faso,2004,32.7
+Burkina Faso,2005,32.0
+Burkina Faso,2006,32.6
+Burkina Faso,2007,32.2
+Burkina Faso,2008,31.8
+Burkina Faso,2009,31.3
+Burkina Faso,2010,31.7
+Burkina Faso,2011,34.2
+Burkina Faso,2012,31.1
+Burkina Faso,2013,31.2
+Burkina Faso,2014,30.6
+Burkina Faso,2015,34.2
+Burkina Faso,2016,33.8
+Burkina Faso,2017,30.0
+Burkina Faso,2018,32.9
+Burkina Faso,2019,34.4
+Burkina Faso,2020,32.1
+Burkina Faso,2021,29.8
+Burkina Faso,2022,30.9
+Burkina Faso,2023,30.9
+Burkina Faso,2024,30.9
+Burkina Faso,2025,31.3
+Burkina Faso,2026,30.7
+Burkina Faso,2027,30.9
+Burkina Faso,2028,33.4
+Burkina Faso,2029,31.1
+Burkina Faso,2030,33.9
+Burkina Faso,2031,31.1
+Burkina Faso,2032,30.3
+Burkina Faso,2033,32.0
+Burundi,2004,22.1
+Burundi,2005,22.1
+Burundi,2006,22.6
+Burundi,2007,22.2
+Burundi,2008,22.4
+Burundi,2009,22.3
+Burundi,2010,22.6
+Burundi,2011,22.6
+Burundi,2012,22.6
+Burundi,2013,22.6
+Burundi,2014,22.6
+Burundi,2015,22.6
+Burundi,2016,22.5
+Burundi,2017,22.5
+Burundi,2018,22.3
+Burundi,2019,22.7
+Burundi,2020,22.4
+Burundi,2021,22.1
+Burundi,2022,22.5
+Burundi,2023,22.4
+Burundi,2024,22.7
+Burundi,2025,22.4
+Burundi,2026,22.3
+Burundi,2027,22.3
+Burundi,2028,22.4
+Burundi,2029,22.2
+Burundi,2030,22.4
+Burundi,2031,22.4
+Burundi,2032,22.2
+Burundi,2033,22.5
+Cambodia,2004,31.1
+Cambodia,2005,31.0
+Cambodia,2006,31.1
+Cambodia,2007,31.0
+Cambodia,2008,31.1
+Cambodia,2009,31.1
+Cambodia,2010,31.1
+Cambodia,2011,31.0
+Cambodia,2012,31.0
+Cambodia,2013,31.1
+Cambodia,2014,31.0
+Cambodia,2015,31.0
+Cambodia,2016,31.0
+Cambodia,2017,31.0
+Cambodia,2018,31.1
+Cambodia,2019,31.0
+Cambodia,2020,31.1
+Cambodia,2021,31.1
+Cambodia,2022,31.1
+Cambodia,2023,31.1
+Cambodia,2024,31.1
+Cambodia,2025,31.1
+Cambodia,2026,31.1
+Cambodia,2027,31.1
+Cambodia,2028,31.0
+Cambodia,2029,31.0
+Cambodia,2030,31.0
+Cambodia,2031,31.0
+Cambodia,2032,31.1
+Cambodia,2033,31.1
+Cameroon,2004,29.6
+Cameroon,2005,30.3
+Cameroon,2006,29.6
+Cameroon,2007,31.0
+Cameroon,2008,31.7
+Cameroon,2009,29.7
+Cameroon,2010,31.4
+Cameroon,2011,31.3
+Cameroon,2012,31.7
+Cameroon,2013,29.9
+Cameroon,2014,30.7
+Cameroon,2015,31.9
+Cameroon,2016,28.8
+Cameroon,2017,29.0
+Cameroon,2018,29.2
+Cameroon,2019,32.2
+Cameroon,2020,30.4
+Cameroon,2021,28.6
+Cameroon,2022,30.0
+Cameroon,2023,28.8
+Cameroon,2024,31.2
+Cameroon,2025,29.4
+Cameroon,2026,29.9
+Cameroon,2027,31.6
+Cameroon,2028,31.2
+Cameroon,2029,29.1
+Cameroon,2030,30.2
+Cameroon,2031,29.9
+Cameroon,2032,30.6
+Cameroon,2033,30.0
+Canada,2004,68.2
+Canada,2005,67.8
+Canada,2006,68.0
+Canada,2007,68.7
+Canada,2008,67.9
+Canada,2009,69.2
+Canada,2010,68.5
+Canada,2011,69.7
+Canada,2012,68.4
+Canada,2013,68.2
+Canada,2014,68.6
+Canada,2015,69.0
+Canada,2016,69.5
+Canada,2017,69.5
+Canada,2018,68.0
+Canada,2019,67.6
+Canada,2020,68.7
+Canada,2021,69.8
+Canada,2022,68.9
+Canada,2023,67.7
+Canada,2024,68.4
+Canada,2025,68.1
+Canada,2026,69.4
+Canada,2027,69.4
+Canada,2028,68.3
+Canada,2029,68.1
+Canada,2030,68.8
+Canada,2031,67.7
+Canada,2032,67.3
+Canada,2033,68.6
+Chad,2004,24.4
+Chad,2005,24.0
+Chad,2006,24.4
+Chad,2007,24.2
+Chad,2008,23.9
+Chad,2009,24.3
+Chad,2010,24.1
+Chad,2011,23.9
+Chad,2012,24.0
+Chad,2013,24.2
+Chad,2014,24.4
+Chad,2015,24.2
+Chad,2016,24.4
+Chad,2017,24.3
+Chad,2018,24.4
+Chad,2019,24.5
+Chad,2020,24.2
+Chad,2021,23.9
+Chad,2022,23.9
+Chad,2023,24.1
+Chad,2024,24.0
+Chad,2025,24.4
+Chad,2026,24.4
+Chad,2027,24.1
+Chad,2028,24.4
+Chad,2029,24.3
+Chad,2030,24.0
+Chad,2031,24.0
+Chad,2032,24.3
+Chad,2033,24.0
+Chile,2004,55.1
+Chile,2005,56.0
+Chile,2006,53.3
+Chile,2007,54.6
+Chile,2008,53.7
+Chile,2009,56.0
+Chile,2010,53.1
+Chile,2011,54.8
+Chile,2012,54.3
+Chile,2013,55.3
+Chile,2014,55.1
+Chile,2015,56.2
+Chile,2016,53.6
+Chile,2017,54.9
+Chile,2018,53.7
+Chile,2019,53.0
+Chile,2020,54.6
+Chile,2021,56.2
+Chile,2022,55.1
+Chile,2023,53.0
+Chile,2024,53.5
+Chile,2025,54.7
+Chile,2026,53.9
+Chile,2027,55.6
+Chile,2028,55.2
+Chile,2029,54.0
+Chile,2030,55.4
+Chile,2031,55.3
+Chile,2032,54.5
+Chile,2033,54.9
+China,2004,48.4
+China,2005,48.2
+China,2006,47.8
+China,2007,48.6
+China,2008,47.5
+China,2009,48.8
+China,2010,48.8
+China,2011,48.0
+China,2012,48.8
+China,2013,47.7
+China,2014,48.2
+China,2015,48.7
+China,2016,47.9
+China,2017,48.6
+China,2018,48.9
+China,2019,49.0
+China,2020,48.3
+China,2021,47.5
+China,2022,48.7
+China,2023,48.5
+China,2024,48.3
+China,2025,48.2
+China,2026,48.9
+China,2027,48.2
+China,2028,48.5
+China,2029,47.6
+China,2030,48.7
+China,2031,48.0
+China,2032,48.5
+China,2033,48.7
+Colombia,2004,52.6
+Colombia,2005,50.4
+Colombia,2006,51.5
+Colombia,2007,51.7
+Colombia,2008,50.2
+Colombia,2009,53.1
+Colombia,2010,50.1
+Colombia,2011,52.5
+Colombia,2012,51.0
+Colombia,2013,50.9
+Colombia,2014,51.1
+Colombia,2015,50.2
+Colombia,2016,50.5
+Colombia,2017,52.3
+Colombia,2018,52.2
+Colombia,2019,50.0
+Colombia,2020,51.6
+Colombia,2021,53.2
+Colombia,2022,52.8
+Colombia,2023,50.7
+Colombia,2024,53.2
+Colombia,2025,51.3
+Colombia,2026,50.5
+Colombia,2027,52.7
+Colombia,2028,51.0
+Colombia,2029,51.4
+Colombia,2030,52.7
+Colombia,2031,51.1
+Colombia,2032,52.1
+Colombia,2033,50.6
+"Congo, Dem. Rep.",2004,26.0
+"Congo, Dem. Rep.",2005,26.1
+"Congo, Dem. Rep.",2006,26.1
+"Congo, Dem. Rep.",2007,26.0
+"Congo, Dem. Rep.",2008,26.0
+"Congo, Dem. Rep.",2009,26.0
+"Congo, Dem. Rep.",2010,26.1
+"Congo, Dem. Rep.",2011,26.1
+"Congo, Dem. Rep.",2012,26.1
+"Congo, Dem. Rep.",2013,26.1
+"Congo, Dem. Rep.",2014,26.0
+"Congo, Dem. Rep.",2015,26.0
+"Congo, Dem. Rep.",2016,26.0
+"Congo, Dem. Rep.",2017,26.0
+"Congo, Dem. Rep.",2018,26.0
+"Congo, Dem. Rep.",2019,26.0
+"Congo, Dem. Rep.",2020,26.1
+"Congo, Dem. Rep.",2021,26.1
+"Congo, Dem. Rep.",2022,26.0
+"Congo, Dem. Rep.",2023,26.1
+"Congo, Dem. Rep.",2024,26.0
+"Congo, Dem. Rep.",2025,26.0
+"Congo, Dem. Rep.",2026,26.1
+"Congo, Dem. Rep.",2027,26.1
+"Congo, Dem. Rep.",2028,26.0
+"Congo, Dem. Rep.",2029,26.0
+"Congo, Dem. Rep.",2030,26.1
+"Congo, Dem. Rep.",2031,26.0
+"Congo, Dem. Rep.",2032,26.0
+"Congo, Dem. Rep.",2033,26.0
+Costa Rica,2004,40.8
+Costa Rica,2005,40.7
+Costa Rica,2006,40.7
+Costa Rica,2007,40.7
+Costa Rica,2008,40.8
+Costa Rica,2009,40.5
+Costa Rica,2010,40.8
+Costa Rica,2011,40.6
+Costa Rica,2012,40.6
+Costa Rica,2013,40.6
+Costa Rica,2014,40.8
+Costa Rica,2015,40.6
+Costa Rica,2016,40.7
+Costa Rica,2017,40.5
+Costa Rica,2018,40.7
+Costa Rica,2019,40.5
+Costa Rica,2020,40.7
+Costa Rica,2021,40.8
+Costa Rica,2022,40.6
+Costa Rica,2023,40.5
+Costa Rica,2024,40.6
+Costa Rica,2025,40.7
+Costa Rica,2026,40.6
+Costa Rica,2027,40.6
+Costa Rica,2028,40.6
+Costa Rica,2029,40.6
+Costa Rica,2030,40.8
+Costa Rica,2031,40.8
+Costa Rica,2032,40.7
+Costa Rica,2033,40.8
+Cote d'Ivoire,2004,31.4
+Cote d'Ivoire,2005,31.4
+Cote d'Ivoire,2006,31.5
+Cote d'Ivoire,2007,31.3
+Cote d'Ivoire,2008,31.9
+Cote d'Ivoire,2009,32.9
+Cote d'Ivoire,2010,31.4
+Cote d'Ivoire,2011,32.1
+Cote d'Ivoire,2012,32.1
+Cote d'Ivoire,2013,31.6
+Cote d'Ivoire,2014,31.4
+Cote d'Ivoire,2015,32.4
+Cote d'Ivoire,2016,32.7
+Cote d'Ivoire,2017,32.0
+Cote d'Ivoire,2018,31.9
+Cote d'Ivoire,2019,32.9
+Cote d'Ivoire,2020,32.1
+Cote d'Ivoire,2021,31.2
+Cote d'Ivoire,2022,32.0
+Cote d'Ivoire,2023,31.3
+Cote d'Ivoire,2024,32.7
+Cote d'Ivoire,2025,31.9
+Cote d'Ivoire,2026,31.9
+Cote d'Ivoire,2027,32.7
+Cote d'Ivoire,2028,32.5
+Cote d'Ivoire,2029,31.0
+Cote d'Ivoire,2030,31.7
+Cote d'Ivoire,2031,31.8
+Cote d'Ivoire,2032,31.4
+Cote d'Ivoire,2033,31.8
+Croatia,2004,49.1
+Croatia,2005,49.1
+Croatia,2006,49.4
+Croatia,2007,49.6
+Croatia,2008,48.8
+Croatia,2009,49.5
+Croatia,2010,49.3
+Croatia,2011,49.5
+Croatia,2012,48.9
+Croatia,2013,49.1
+Croatia,2014,49.3
+Croatia,2015,49.1
+Croatia,2016,48.9
+Croatia,2017,49.3
+Croatia,2018,48.9
+Croatia,2019,49.8
+Croatia,2020,49.3
+Croatia,2021,48.8
+Croatia,2022,49.6
+Croatia,2023,49.0
+Croatia,2024,49.0
+Croatia,2025,49.7
+Croatia,2026,49.6
+Croatia,2027,48.9
+Croatia,2028,49.2
+Croatia,2029,49.3
+Croatia,2030,49.0
+Croatia,2031,49.2
+Croatia,2032,49.1
+Croatia,2033,49.4
+Cuba,2004,31.2
+Cuba,2005,31.8
+Cuba,2006,30.5
+Cuba,2007,30.9
+Cuba,2008,31.9
+Cuba,2009,32.1
+Cuba,2010,30.6
+Cuba,2011,31.5
+Cuba,2012,30.9
+Cuba,2013,31.5
+Cuba,2014,31.9
+Cuba,2015,30.6
+Cuba,2016,32.1
+Cuba,2017,31.6
+Cuba,2018,32.0
+Cuba,2019,32.3
+Cuba,2020,31.4
+Cuba,2021,30.5
+Cuba,2022,31.7
+Cuba,2023,30.7
+Cuba,2024,31.4
+Cuba,2025,32.4
+Cuba,2026,31.4
+Cuba,2027,31.9
+Cuba,2028,30.9
+Cuba,2029,32.0
+Cuba,2030,30.3
+Cuba,2031,32.2
+Cuba,2032,31.0
+Cuba,2033,31.4
+Cyprus,2004,42.0
+Cyprus,2005,42.1
+Cyprus,2006,41.9
+Cyprus,2007,42.2
+Cyprus,2008,42.2
+Cyprus,2009,42.2
+Cyprus,2010,42.0
+Cyprus,2011,42.1
+Cyprus,2012,42.1
+Cyprus,2013,42.3
+Cyprus,2014,42.1
+Cyprus,2015,41.9
+Cyprus,2016,41.9
+Cyprus,2017,42.0
+Cyprus,2018,42.0
+Cyprus,2019,42.3
+Cyprus,2020,42.1
+Cyprus,2021,41.9
+Cyprus,2022,42.0
+Cyprus,2023,41.9
+Cyprus,2024,42.0
+Cyprus,2025,42.0
+Cyprus,2026,42.2
+Cyprus,2027,42.3
+Cyprus,2028,42.3
+Cyprus,2029,42.0
+Cyprus,2030,42.0
+Cyprus,2031,42.1
+Cyprus,2032,42.1
+Cyprus,2033,42.3
+Czech Republic,2004,54.3
+Czech Republic,2005,54.6
+Czech Republic,2006,53.2
+Czech Republic,2007,53.6
+Czech Republic,2008,53.0
+Czech Republic,2009,53.1
+Czech Republic,2010,53.9
+Czech Republic,2011,54.7
+Czech Republic,2012,54.3
+Czech Republic,2013,54.6
+Czech Republic,2014,54.1
+Czech Republic,2015,54.5
+Czech Republic,2016,54.0
+Czech Republic,2017,54.8
+Czech Republic,2018,53.4
+Czech Republic,2019,55.0
+Czech Republic,2020,53.9
+Czech Republic,2021,52.8
+Czech Republic,2022,54.6
+Czech Republic,2023,53.7
+Czech Republic,2024,53.1
+Czech Republic,2025,53.1
+Czech Republic,2026,54.0
+Czech Republic,2027,53.8
+Czech Republic,2028,52.9
+Czech Republic,2029,53.8
+Czech Republic,2030,53.4
+Czech Republic,2031,53.6
+Czech Republic,2032,54.1
+Czech Republic,2033,54.3
+Denmark,2004,65.3
+Denmark,2005,64.7
+Denmark,2006,66.3
+Denmark,2007,66.9
+Denmark,2008,66.5
+Denmark,2009,65.5
+Denmark,2010,65.0
+Denmark,2011,64.9
+Denmark,2012,66.9
+Denmark,2013,65.0
+Denmark,2014,67.1
+Denmark,2015,67.0
+Denmark,2016,66.1
+Denmark,2017,66.8
+Denmark,2018,65.7
+Denmark,2019,67.3
+Denmark,2020,65.9
+Denmark,2021,64.4
+Denmark,2022,65.8
+Denmark,2023,66.6
+Denmark,2024,65.5
+Denmark,2025,65.9
+Denmark,2026,67.1
+Denmark,2027,67.1
+Denmark,2028,65.1
+Denmark,2029,64.5
+Denmark,2030,66.1
+Denmark,2031,65.7
+Denmark,2032,65.8
+Denmark,2033,66.1
+Djibouti,2004,24.4
+Djibouti,2005,24.0
+Djibouti,2006,24.6
+Djibouti,2007,24.4
+Djibouti,2008,24.1
+Djibouti,2009,25.1
+Djibouti,2010,24.5
+Djibouti,2011,24.4
+Djibouti,2012,24.0
+Djibouti,2013,24.3
+Djibouti,2014,25.1
+Djibouti,2015,24.6
+Djibouti,2016,25.0
+Djibouti,2017,24.8
+Djibouti,2018,24.5
+Djibouti,2019,23.9
+Djibouti,2020,24.5
+Djibouti,2021,25.2
+Djibouti,2022,24.8
+Djibouti,2023,25.2
+Djibouti,2024,24.1
+Djibouti,2025,24.6
+Djibouti,2026,24.6
+Djibouti,2027,24.1
+Djibouti,2028,24.8
+Djibouti,2029,24.3
+Djibouti,2030,25.0
+Djibouti,2031,24.3
+Djibouti,2032,24.0
+Djibouti,2033,24.6
+Dominican Republic,2004,34.7
+Dominican Republic,2005,35.7
+Dominican Republic,2006,35.1
+Dominican Republic,2007,35.7
+Dominican Republic,2008,35.4
+Dominican Republic,2009,34.9
+Dominican Republic,2010,34.7
+Dominican Republic,2011,35.7
+Dominican Republic,2012,35.7
+Dominican Republic,2013,35.3
+Dominican Republic,2014,35.6
+Dominican Republic,2015,35.0
+Dominican Republic,2016,35.1
+Dominican Republic,2017,35.2
+Dominican Republic,2018,35.1
+Dominican Republic,2019,35.8
+Dominican Republic,2020,35.2
+Dominican Republic,2021,34.5
+Dominican Republic,2022,34.9
+Dominican Republic,2023,35.0
+Dominican Republic,2024,34.7
+Dominican Republic,2025,35.8
+Dominican Republic,2026,35.7
+Dominican Republic,2027,35.2
+Dominican Republic,2028,35.8
+Dominican Republic,2029,34.8
+Dominican Republic,2030,34.6
+Dominican Republic,2031,34.7
+Dominican Republic,2032,35.2
+Dominican Republic,2033,35.2
+Ecuador,2004,50.3
+Ecuador,2005,50.7
+Ecuador,2006,49.3
+Ecuador,2007,50.6
+Ecuador,2008,49.0
+Ecuador,2009,49.0
+Ecuador,2010,49.3
+Ecuador,2011,50.1
+Ecuador,2012,49.5
+Ecuador,2013,49.6
+Ecuador,2014,50.1
+Ecuador,2015,49.1
+Ecuador,2016,49.2
+Ecuador,2017,49.4
+Ecuador,2018,50.3
+Ecuador,2019,48.2
+Ecuador,2020,49.5
+Ecuador,2021,50.8
+Ecuador,2022,48.8
+Ecuador,2023,50.0
+Ecuador,2024,49.0
+Ecuador,2025,50.1
+Ecuador,2026,49.2
+Ecuador,2027,50.4
+Ecuador,2028,48.6
+Ecuador,2029,49.1
+Ecuador,2030,50.1
+Ecuador,2031,48.6
+Ecuador,2032,49.4
+Ecuador,2033,49.2
+Egypt,2004,30.1
+Egypt,2005,28.7
+Egypt,2006,29.2
+Egypt,2007,30.1
+Egypt,2008,29.3
+Egypt,2009,29.4
+Egypt,2010,29.8
+Egypt,2011,28.2
+Egypt,2012,29.0
+Egypt,2013,28.3
+Egypt,2014,28.6
+Egypt,2015,29.3
+Egypt,2016,28.3
+Egypt,2017,30.1
+Egypt,2018,30.1
+Egypt,2019,30.3
+Egypt,2020,29.2
+Egypt,2021,28.0
+Egypt,2022,28.1
+Egypt,2023,28.0
+Egypt,2024,29.3
+Egypt,2025,29.9
+Egypt,2026,28.7
+Egypt,2027,29.8
+Egypt,2028,29.2
+Egypt,2029,28.7
+Egypt,2030,29.3
+Egypt,2031,29.4
+Egypt,2032,28.6
+Egypt,2033,29.1
+El Salvador,2004,40.9
+El Salvador,2005,40.9
+El Salvador,2006,41.9
+El Salvador,2007,41.4
+El Salvador,2008,41.1
+El Salvador,2009,42.3
+El Salvador,2010,41.2
+El Salvador,2011,41.7
+El Salvador,2012,40.9
+El Salvador,2013,41.8
+El Salvador,2014,42.3
+El Salvador,2015,41.3
+El Salvador,2016,41.3
+El Salvador,2017,42.3
+El Salvador,2018,41.8
+El Salvador,2019,42.9
+El Salvador,2020,41.8
+El Salvador,2021,40.8
+El Salvador,2022,42.4
+El Salvador,2023,42.6
+El Salvador,2024,41.3
+El Salvador,2025,42.0
+El Salvador,2026,42.3
+El Salvador,2027,41.2
+El Salvador,2028,41.7
+El Salvador,2029,41.6
+El Salvador,2030,41.7
+El Salvador,2031,42.0
+El Salvador,2032,41.6
+El Salvador,2033,41.3
+Equatorial Guinea,2004,17.5
+Equatorial Guinea,2005,17.8
+Equatorial Guinea,2006,17.6
+Equatorial Guinea,2007,17.4
+Equatorial Guinea,2008,17.6
+Equatorial Guinea,2009,17.7
+Equatorial Guinea,2010,17.7
+Equatorial Guinea,2011,17.5
+Equatorial Guinea,2012,17.8
+Equatorial Guinea,2013,17.6
+Equatorial Guinea,2014,17.5
+Equatorial Guinea,2015,17.7
+Equatorial Guinea,2016,17.5
+Equatorial Guinea,2017,17.8
+Equatorial Guinea,2018,17.5
+Equatorial Guinea,2019,18.0
+Equatorial Guinea,2020,17.7
+Equatorial Guinea,2021,17.4
+Equatorial Guinea,2022,17.7
+Equatorial Guinea,2023,17.9
+Equatorial Guinea,2024,17.7
+Equatorial Guinea,2025,17.8
+Equatorial Guinea,2026,17.5
+Equatorial Guinea,2027,17.7
+Equatorial Guinea,2028,17.8
+Equatorial Guinea,2029,17.6
+Equatorial Guinea,2030,17.7
+Equatorial Guinea,2031,17.8
+Equatorial Guinea,2032,17.7
+Equatorial Guinea,2033,17.5
+Estonia,2004,55.5
+Estonia,2005,55.6
+Estonia,2006,55.6
+Estonia,2007,55.6
+Estonia,2008,55.6
+Estonia,2009,55.6
+Estonia,2010,55.6
+Estonia,2011,55.5
+Estonia,2012,55.6
+Estonia,2013,55.5
+Estonia,2014,55.6
+Estonia,2015,55.5
+Estonia,2016,55.5
+Estonia,2017,55.6
+Estonia,2018,55.5
+Estonia,2019,55.6
+Estonia,2020,55.6
+Estonia,2021,55.5
+Estonia,2022,55.6
+Estonia,2023,55.6
+Estonia,2024,55.6
+Estonia,2025,55.6
+Estonia,2026,55.6
+Estonia,2027,55.6
+Estonia,2028,55.6
+Estonia,2029,55.6
+Estonia,2030,55.6
+Estonia,2031,55.6
+Estonia,2032,55.6
+Estonia,2033,55.6
+Ethiopia,2004,37.6
+Ethiopia,2005,37.7
+Ethiopia,2006,37.5
+Ethiopia,2007,37.5
+Ethiopia,2008,37.6
+Ethiopia,2009,37.8
+Ethiopia,2010,37.5
+Ethiopia,2011,37.6
+Ethiopia,2012,37.8
+Ethiopia,2013,37.7
+Ethiopia,2014,37.6
+Ethiopia,2015,37.7
+Ethiopia,2016,37.7
+Ethiopia,2017,37.6
+Ethiopia,2018,37.5
+Ethiopia,2019,37.4
+Ethiopia,2020,37.6
+Ethiopia,2021,37.8
+Ethiopia,2022,37.6
+Ethiopia,2023,37.4
+Ethiopia,2024,37.7
+Ethiopia,2025,37.6
+Ethiopia,2026,37.7
+Ethiopia,2027,37.6
+Ethiopia,2028,37.5
+Ethiopia,2029,37.7
+Ethiopia,2030,37.7
+Ethiopia,2031,37.7
+Ethiopia,2032,37.7
+Ethiopia,2033,37.8
+Finland,2004,71.0
+Finland,2005,71.9
+Finland,2006,70.9
+Finland,2007,71.3
+Finland,2008,71.3
+Finland,2009,71.2
+Finland,2010,71.5
+Finland,2011,71.1
+Finland,2012,71.2
+Finland,2013,71.7
+Finland,2014,71.1
+Finland,2015,71.0
+Finland,2016,71.2
+Finland,2017,71.6
+Finland,2018,71.5
+Finland,2019,72.0
+Finland,2020,71.5
+Finland,2021,70.9
+Finland,2022,70.9
+Finland,2023,71.8
+Finland,2024,71.1
+Finland,2025,71.4
+Finland,2026,71.1
+Finland,2027,71.5
+Finland,2028,71.3
+Finland,2029,71.0
+Finland,2030,71.3
+Finland,2031,71.2
+Finland,2032,71.2
+Finland,2033,71.1
+France,2004,62.3
+France,2005,62.6
+France,2006,62.5
+France,2007,62.6
+France,2008,62.0
+France,2009,62.1
+France,2010,62.2
+France,2011,62.6
+France,2012,62.3
+France,2013,62.5
+France,2014,62.6
+France,2015,62.3
+France,2016,62.3
+France,2017,62.0
+France,2018,62.5
+France,2019,62.6
+France,2020,62.3
+France,2021,61.9
+France,2022,62.4
+France,2023,62.0
+France,2024,62.4
+France,2025,62.6
+France,2026,62.2
+France,2027,62.1
+France,2028,62.2
+France,2029,62.2
+France,2030,62.1
+France,2031,62.5
+France,2032,62.3
+France,2033,62.4
+Gambia,2004,28.8
+Gambia,2005,29.1
+Gambia,2006,28.8
+Gambia,2007,28.8
+Gambia,2008,29.1
+Gambia,2009,29.4
+Gambia,2010,28.7
+Gambia,2011,29.5
+Gambia,2012,28.9
+Gambia,2013,29.0
+Gambia,2014,29.1
+Gambia,2015,28.9
+Gambia,2016,29.1
+Gambia,2017,28.8
+Gambia,2018,29.3
+Gambia,2019,29.5
+Gambia,2020,29.1
+Gambia,2021,28.7
+Gambia,2022,28.9
+Gambia,2023,29.2
+Gambia,2024,29.3
+Gambia,2025,29.3
+Gambia,2026,29.0
+Gambia,2027,29.0
+Gambia,2028,29.4
+Gambia,2029,29.0
+Gambia,2030,29.1
+Gambia,2031,28.7
+Gambia,2032,28.8
+Gambia,2033,29.2
+Georgia,2004,50.4
+Georgia,2005,50.6
+Georgia,2006,49.7
+Georgia,2007,52.2
+Georgia,2008,49.2
+Georgia,2009,50.2
+Georgia,2010,50.9
+Georgia,2011,48.7
+Georgia,2012,49.0
+Georgia,2013,52.5
+Georgia,2014,52.5
+Georgia,2015,51.1
+Georgia,2016,49.9
+Georgia,2017,51.3
+Georgia,2018,48.9
+Georgia,2019,48.2
+Georgia,2020,50.4
+Georgia,2021,52.6
+Georgia,2022,50.4
+Georgia,2023,51.9
+Georgia,2024,51.8
+Georgia,2025,49.5
+Georgia,2026,51.3
+Georgia,2027,51.6
+Georgia,2028,50.7
+Georgia,2029,51.7
+Georgia,2030,50.6
+Georgia,2031,51.6
+Georgia,2032,49.2
+Georgia,2033,48.8
+Germany,2004,65.5
+Germany,2005,65.6
+Germany,2006,65.7
+Germany,2007,65.7
+Germany,2008,65.6
+Germany,2009,65.7
+Germany,2010,65.7
+Germany,2011,65.7
+Germany,2012,65.5
+Germany,2013,65.5
+Germany,2014,65.6
+Germany,2015,65.5
+Germany,2016,65.5
+Germany,2017,65.7
+Germany,2018,65.5
+Germany,2019,65.7
+Germany,2020,65.6
+Germany,2021,65.5
+Germany,2022,65.7
+Germany,2023,65.7
+Germany,2024,65.6
+Germany,2025,65.7
+Germany,2026,65.5
+Germany,2027,65.5
+Germany,2028,65.6
+Germany,2029,65.6
+Germany,2030,65.6
+Germany,2031,65.5
+Germany,2032,65.6
+Germany,2033,65.5
+Ghana,2004,32.3
+Ghana,2005,32.9
+Ghana,2006,33.7
+Ghana,2007,32.1
+Ghana,2008,32.2
+Ghana,2009,33.2
+Ghana,2010,33.1
+Ghana,2011,32.8
+Ghana,2012,31.7
+Ghana,2013,32.0
+Ghana,2014,33.3
+Ghana,2015,32.5
+Ghana,2016,32.1
+Ghana,2017,33.1
+Ghana,2018,33.8
+Ghana,2019,31.6
+Ghana,2020,33.0
+Ghana,2021,34.3
+Ghana,2022,31.6
+Ghana,2023,32.0
+Ghana,2024,32.3
+Ghana,2025,32.6
+Ghana,2026,33.7
+Ghana,2027,32.3
+Ghana,2028,31.7
+Ghana,2029,32.0
+Ghana,2030,32.4
+Ghana,2031,32.5
+Ghana,2032,33.6
+Ghana,2033,33.6
+Greece,2004,51.5
+Greece,2005,51.3
+Greece,2006,50.9
+Greece,2007,51.0
+Greece,2008,51.4
+Greece,2009,51.0
+Greece,2010,51.4
+Greece,2011,51.0
+Greece,2012,51.5
+Greece,2013,51.1
+Greece,2014,50.7
+Greece,2015,50.9
+Greece,2016,51.0
+Greece,2017,50.9
+Greece,2018,50.9
+Greece,2019,50.6
+Greece,2020,51.1
+Greece,2021,51.5
+Greece,2022,51.3
+Greece,2023,51.3
+Greece,2024,50.8
+Greece,2025,51.5
+Greece,2026,50.9
+Greece,2027,51.1
+Greece,2028,51.4
+Greece,2029,51.1
+Greece,2030,51.0
+Greece,2031,51.5
+Greece,2032,51.2
+Greece,2033,51.5
+Guatemala,2004,30.3
+Guatemala,2005,29.4
+Guatemala,2006,29.6
+Guatemala,2007,29.5
+Guatemala,2008,30.0
+Guatemala,2009,30.3
+Guatemala,2010,30.6
+Guatemala,2011,29.7
+Guatemala,2012,29.7
+Guatemala,2013,29.4
+Guatemala,2014,31.0
+Guatemala,2015,30.5
+Guatemala,2016,29.1
+Guatemala,2017,30.8
+Guatemala,2018,30.7
+Guatemala,2019,31.0
+Guatemala,2020,30.1
+Guatemala,2021,29.1
+Guatemala,2022,29.8
+Guatemala,2023,30.3
+Guatemala,2024,29.9
+Guatemala,2025,30.7
+Guatemala,2026,29.3
+Guatemala,2027,29.9
+Guatemala,2028,31.1
+Guatemala,2029,29.8
+Guatemala,2030,29.7
+Guatemala,2031,30.6
+Guatemala,2032,29.4
+Guatemala,2033,29.7
+Guinea,2004,26.9
+Guinea,2005,28.3
+Guinea,2006,27.5
+Guinea,2007,28.4
+Guinea,2008,28.4
+Guinea,2009,27.8
+Guinea,2010,26.9
+Guinea,2011,27.2
+Guinea,2012,28.5
+Guinea,2013,26.8
+Guinea,2014,27.4
+Guinea,2015,27.1
+Guinea,2016,27.4
+Guinea,2017,26.9
+Guinea,2018,27.0
+Guinea,2019,28.5
+Guinea,2020,27.7
+Guinea,2021,26.8
+Guinea,2022,28.2
+Guinea,2023,27.2
+Guinea,2024,27.8
+Guinea,2025,28.6
+Guinea,2026,26.9
+Guinea,2027,26.9
+Guinea,2028,26.7
+Guinea,2029,27.6
+Guinea,2030,27.9
+Guinea,2031,27.6
+Guinea,2032,27.3
+Guinea,2033,27.9
+Guinea-Bissau,2004,21.2
+Guinea-Bissau,2005,19.8
+Guinea-Bissau,2006,19.5
+Guinea-Bissau,2007,20.2
+Guinea-Bissau,2008,19.6
+Guinea-Bissau,2009,20.7
+Guinea-Bissau,2010,20.2
+Guinea-Bissau,2011,20.9
+Guinea-Bissau,2012,20.1
+Guinea-Bissau,2013,20.6
+Guinea-Bissau,2014,19.7
+Guinea-Bissau,2015,19.8
+Guinea-Bissau,2016,20.8
+Guinea-Bissau,2017,21.4
+Guinea-Bissau,2018,20.9
+Guinea-Bissau,2019,19.3
+Guinea-Bissau,2020,20.4
+Guinea-Bissau,2021,21.4
+Guinea-Bissau,2022,20.8
+Guinea-Bissau,2023,19.6
+Guinea-Bissau,2024,20.4
+Guinea-Bissau,2025,20.5
+Guinea-Bissau,2026,20.0
+Guinea-Bissau,2027,19.6
+Guinea-Bissau,2028,20.9
+Guinea-Bissau,2029,20.3
+Guinea-Bissau,2030,19.4
+Guinea-Bissau,2031,20.1
+Guinea-Bissau,2032,20.3
+Guinea-Bissau,2033,21.4
+Guyana,2004,30.5
+Guyana,2005,30.5
+Guyana,2006,30.0
+Guyana,2007,30.4
+Guyana,2008,30.0
+Guyana,2009,30.5
+Guyana,2010,30.1
+Guyana,2011,30.5
+Guyana,2012,30.1
+Guyana,2013,30.5
+Guyana,2014,30.4
+Guyana,2015,30.4
+Guyana,2016,30.6
+Guyana,2017,30.3
+Guyana,2018,30.4
+Guyana,2019,30.0
+Guyana,2020,30.4
+Guyana,2021,30.8
+Guyana,2022,30.4
+Guyana,2023,30.5
+Guyana,2024,30.3
+Guyana,2025,30.2
+Guyana,2026,30.4
+Guyana,2027,30.3
+Guyana,2028,30.3
+Guyana,2029,30.6
+Guyana,2030,30.1
+Guyana,2031,30.4
+Guyana,2032,30.2
+Guyana,2033,30.4
+Haiti,2004,30.2
+Haiti,2005,30.3
+Haiti,2006,30.2
+Haiti,2007,30.3
+Haiti,2008,30.2
+Haiti,2009,30.4
+Haiti,2010,30.3
+Haiti,2011,30.2
+Haiti,2012,30.2
+Haiti,2013,30.1
+Haiti,2014,30.3
+Haiti,2015,30.3
+Haiti,2016,30.2
+Haiti,2017,30.3
+Haiti,2018,30.1
+Haiti,2019,30.1
+Haiti,2020,30.3
+Haiti,2021,30.4
+Haiti,2022,30.4
+Haiti,2023,30.3
+Haiti,2024,30.3
+Haiti,2025,30.2
+Haiti,2026,30.3
+Haiti,2027,30.2
+Haiti,2028,30.3
+Haiti,2029,30.2
+Haiti,2030,30.3
+Haiti,2031,30.2
+Haiti,2032,30.3
+Haiti,2033,30.2
+Honduras,2004,26.3
+Honduras,2005,26.3
+Honduras,2006,26.2
+Honduras,2007,26.3
+Honduras,2008,26.2
+Honduras,2009,26.2
+Honduras,2010,26.3
+Honduras,2011,26.3
+Honduras,2012,26.3
+Honduras,2013,26.3
+Honduras,2014,26.2
+Honduras,2015,26.2
+Honduras,2016,26.2
+Honduras,2017,26.2
+Honduras,2018,26.2
+Honduras,2019,26.3
+Honduras,2020,26.3
+Honduras,2021,26.2
+Honduras,2022,26.3
+Honduras,2023,26.2
+Honduras,2024,26.3
+Honduras,2025,26.2
+Honduras,2026,26.3
+Honduras,2027,26.2
+Honduras,2028,26.2
+Honduras,2029,26.3
+Honduras,2030,26.2
+Honduras,2031,26.3
+Honduras,2032,26.2
+Honduras,2033,26.2
+Hungary,2004,54.8
+Hungary,2005,54.6
+Hungary,2006,54.8
+Hungary,2007,54.6
+Hungary,2008,54.8
+Hungary,2009,54.9
+Hungary,2010,54.8
+Hungary,2011,54.9
+Hungary,2012,54.7
+Hungary,2013,54.7
+Hungary,2014,54.8
+Hungary,2015,54.4
+Hungary,2016,55.0
+Hungary,2017,54.8
+Hungary,2018,54.6
+Hungary,2019,55.0
+Hungary,2020,54.7
+Hungary,2021,54.4
+Hungary,2022,54.5
+Hungary,2023,54.8
+Hungary,2024,54.5
+Hungary,2025,54.4
+Hungary,2026,54.8
+Hungary,2027,54.5
+Hungary,2028,54.7
+Hungary,2029,54.6
+Hungary,2030,54.7
+Hungary,2031,54.6
+Hungary,2032,54.7
+Hungary,2033,55.0
+Iceland,2004,48.3
+Iceland,2005,47.8
+Iceland,2006,48.4
+Iceland,2007,48.1
+Iceland,2008,47.7
+Iceland,2009,47.7
+Iceland,2010,48.2
+Iceland,2011,47.8
+Iceland,2012,48.0
+Iceland,2013,48.3
+Iceland,2014,47.7
+Iceland,2015,48.1
+Iceland,2016,47.7
+Iceland,2017,47.7
+Iceland,2018,48.1
+Iceland,2019,47.6
+Iceland,2020,48.1
+Iceland,2021,48.5
+Iceland,2022,48.2
+Iceland,2023,47.8
+Iceland,2024,47.7
+Iceland,2025,48.0
+Iceland,2026,47.6
+Iceland,2027,48.0
+Iceland,2028,47.7
+Iceland,2029,47.8
+Iceland,2030,47.8
+Iceland,2031,48.1
+Iceland,2032,48.3
+Iceland,2033,48.2
+India,2004,42.9
+India,2005,42.8
+India,2006,43.5
+India,2007,43.1
+India,2008,43.5
+India,2009,43.0
+India,2010,43.6
+India,2011,42.9
+India,2012,43.2
+India,2013,43.4
+India,2014,43.1
+India,2015,42.9
+India,2016,43.4
+India,2017,42.8
+India,2018,42.9
+India,2019,43.6
+India,2020,43.2
+India,2021,42.8
+India,2022,43.2
+India,2023,43.1
+India,2024,43.1
+India,2025,43.4
+India,2026,43.2
+India,2027,43.1
+India,2028,43.5
+India,2029,42.7
+India,2030,43.1
+India,2031,43.4
+India,2032,43.3
+India,2033,42.9
+Indonesia,2004,49.6
+Indonesia,2005,49.5
+Indonesia,2006,49.7
+Indonesia,2007,50.4
+Indonesia,2008,49.3
+Indonesia,2009,49.2
+Indonesia,2010,49.3
+Indonesia,2011,49.3
+Indonesia,2012,50.3
+Indonesia,2013,50.0
+Indonesia,2014,49.6
+Indonesia,2015,49.3
+Indonesia,2016,50.2
+Indonesia,2017,50.0
+Indonesia,2018,50.2
+Indonesia,2019,49.2
+Indonesia,2020,49.8
+Indonesia,2021,50.4
+Indonesia,2022,49.4
+Indonesia,2023,50.0
+Indonesia,2024,49.3
+Indonesia,2025,49.8
+Indonesia,2026,50.0
+Indonesia,2027,50.0
+Indonesia,2028,49.8
+Indonesia,2029,49.2
+Indonesia,2030,49.5
+Indonesia,2031,49.6
+Indonesia,2032,50.2
+Indonesia,2033,49.8
+Iran,2004,38.6
+Iran,2005,36.8
+Iran,2006,37.3
+Iran,2007,38.8
+Iran,2008,38.4
+Iran,2009,38.2
+Iran,2010,38.1
+Iran,2011,37.7
+Iran,2012,39.4
+Iran,2013,37.4
+Iran,2014,38.9
+Iran,2015,36.8
+Iran,2016,37.4
+Iran,2017,37.6
+Iran,2018,39.3
+Iran,2019,39.5
+Iran,2020,38.0
+Iran,2021,36.5
+Iran,2022,38.1
+Iran,2023,39.0
+Iran,2024,38.0
+Iran,2025,38.7
+Iran,2026,36.9
+Iran,2027,37.0
+Iran,2028,38.1
+Iran,2029,38.3
+Iran,2030,38.7
+Iran,2031,37.5
+Iran,2032,38.8
+Iran,2033,39.1
+Iraq,2004,24.0
+Iraq,2005,23.4
+Iraq,2006,23.5
+Iraq,2007,23.7
+Iraq,2008,23.5
+Iraq,2009,23.7
+Iraq,2010,23.4
+Iraq,2011,23.5
+Iraq,2012,23.9
+Iraq,2013,24.0
+Iraq,2014,23.6
+Iraq,2015,23.6
+Iraq,2016,23.7
+Iraq,2017,23.9
+Iraq,2018,23.8
+Iraq,2019,23.3
+Iraq,2020,23.7
+Iraq,2021,24.0
+Iraq,2022,23.9
+Iraq,2023,23.7
+Iraq,2024,23.7
+Iraq,2025,23.4
+Iraq,2026,23.7
+Iraq,2027,23.6
+Iraq,2028,23.4
+Iraq,2029,23.9
+Iraq,2030,23.7
+Iraq,2031,23.9
+Iraq,2032,23.5
+Iraq,2033,23.8
+Ireland,2004,55.3
+Ireland,2005,55.3
+Ireland,2006,55.2
+Ireland,2007,55.2
+Ireland,2008,55.3
+Ireland,2009,55.2
+Ireland,2010,55.2
+Ireland,2011,55.2
+Ireland,2012,55.2
+Ireland,2013,55.2
+Ireland,2014,55.1
+Ireland,2015,55.2
+Ireland,2016,55.3
+Ireland,2017,55.3
+Ireland,2018,55.2
+Ireland,2019,55.1
+Ireland,2020,55.2
+Ireland,2021,55.3
+Ireland,2022,55.2
+Ireland,2023,55.3
+Ireland,2024,55.3
+Ireland,2025,55.2
+Ireland,2026,55.2
+Ireland,2027,55.2
+Ireland,2028,55.2
+Ireland,2029,55.3
+Ireland,2030,55.2
+Ireland,2031,55.2
+Ireland,2032,55.3
+Ireland,2033,55.2
+Israel,2004,49.4
+Israel,2005,49.2
+Israel,2006,48.1
+Israel,2007,50.0
+Israel,2008,47.6
+Israel,2009,47.7
+Israel,2010,47.6
+Israel,2011,47.6
+Israel,2012,50.5
+Israel,2013,47.8
+Israel,2014,47.8
+Israel,2015,49.8
+Israel,2016,47.6
+Israel,2017,48.3
+Israel,2018,47.8
+Israel,2019,50.7
+Israel,2020,49.0
+Israel,2021,47.2
+Israel,2022,48.0
+Israel,2023,48.7
+Israel,2024,47.5
+Israel,2025,49.6
+Israel,2026,48.1
+Israel,2027,48.9
+Israel,2028,48.6
+Israel,2029,48.7
+Israel,2030,48.2
+Israel,2031,48.2
+Israel,2032,49.5
+Israel,2033,49.4
+Italy,2004,51.9
+Italy,2005,51.9
+Italy,2006,51.9
+Italy,2007,51.9
+Italy,2008,51.9
+Italy,2009,51.9
+Italy,2010,51.9
+Italy,2011,51.9
+Italy,2012,51.9
+Italy,2013,51.9
+Italy,2014,51.9
+Italy,2015,51.9
+Italy,2016,51.9
+Italy,2017,51.9
+Italy,2018,51.9
+Italy,2019,51.9
+Italy,2020,51.9
+Italy,2021,51.9
+Italy,2022,51.9
+Italy,2023,51.9
+Italy,2024,51.9
+Italy,2025,51.9
+Italy,2026,51.9
+Italy,2027,51.9
+Italy,2028,51.9
+Italy,2029,51.9
+Italy,2030,51.9
+Italy,2031,51.9
+Italy,2032,51.9
+Italy,2033,51.9
+Jamaica,2004,31.6
+Jamaica,2005,31.3
+Jamaica,2006,31.7
+Jamaica,2007,31.5
+Jamaica,2008,31.1
+Jamaica,2009,31.3
+Jamaica,2010,31.1
+Jamaica,2011,30.9
+Jamaica,2012,31.3
+Jamaica,2013,31.1
+Jamaica,2014,30.9
+Jamaica,2015,31.1
+Jamaica,2016,30.9
+Jamaica,2017,31.5
+Jamaica,2018,31.5
+Jamaica,2019,30.9
+Jamaica,2020,31.4
+Jamaica,2021,31.8
+Jamaica,2022,31.4
+Jamaica,2023,31.3
+Jamaica,2024,30.9
+Jamaica,2025,31.5
+Jamaica,2026,31.1
+Jamaica,2027,31.0
+Jamaica,2028,31.5
+Jamaica,2029,31.0
+Jamaica,2030,31.4
+Jamaica,2031,31.3
+Jamaica,2032,31.1
+Jamaica,2033,31.8
+Japan,2004,59.0
+Japan,2005,58.9
+Japan,2006,59.5
+Japan,2007,60.3
+Japan,2008,60.0
+Japan,2009,59.4
+Japan,2010,59.8
+Japan,2011,59.5
+Japan,2012,59.3
+Japan,2013,59.9
+Japan,2014,59.0
+Japan,2015,59.7
+Japan,2016,59.7
+Japan,2017,60.0
+Japan,2018,59.3
+Japan,2019,58.8
+Japan,2020,59.7
+Japan,2021,60.5
+Japan,2022,59.9
+Japan,2023,60.3
+Japan,2024,58.7
+Japan,2025,59.1
+Japan,2026,59.8
+Japan,2027,59.2
+Japan,2028,59.7
+Japan,2029,59.3
+Japan,2030,60.3
+Japan,2031,59.8
+Japan,2032,59.6
+Japan,2033,59.9
+Jordan,2004,41.3
+Jordan,2005,41.8
+Jordan,2006,41.9
+Jordan,2007,42.5
+Jordan,2008,42.6
+Jordan,2009,41.4
+Jordan,2010,42.0
+Jordan,2011,42.4
+Jordan,2012,42.0
+Jordan,2013,42.3
+Jordan,2014,42.2
+Jordan,2015,41.4
+Jordan,2016,42.3
+Jordan,2017,41.7
+Jordan,2018,42.1
+Jordan,2019,41.2
+Jordan,2020,42.0
+Jordan,2021,42.8
+Jordan,2022,42.8
+Jordan,2023,42.6
+Jordan,2024,41.6
+Jordan,2025,42.7
+Jordan,2026,41.4
+Jordan,2027,41.2
+Jordan,2028,42.1
+Jordan,2029,42.3
+Jordan,2030,42.4
+Jordan,2031,42.8
+Jordan,2032,42.6
+Jordan,2033,42.6
+Kazakhstan,2004,45.1
+Kazakhstan,2005,45.6
+Kazakhstan,2006,45.9
+Kazakhstan,2007,45.2
+Kazakhstan,2008,45.6
+Kazakhstan,2009,45.7
+Kazakhstan,2010,44.7
+Kazakhstan,2011,45.3
+Kazakhstan,2012,45.3
+Kazakhstan,2013,44.8
+Kazakhstan,2014,45.5
+Kazakhstan,2015,45.8
+Kazakhstan,2016,44.7
+Kazakhstan,2017,45.0
+Kazakhstan,2018,45.5
+Kazakhstan,2019,44.7
+Kazakhstan,2020,45.4
+Kazakhstan,2021,46.1
+Kazakhstan,2022,45.2
+Kazakhstan,2023,46.1
+Kazakhstan,2024,45.3
+Kazakhstan,2025,46.2
+Kazakhstan,2026,45.7
+Kazakhstan,2027,45.6
+Kazakhstan,2028,45.5
+Kazakhstan,2029,45.0
+Kazakhstan,2030,45.1
+Kazakhstan,2031,45.5
+Kazakhstan,2032,45.2
+Kazakhstan,2033,45.6
+Kenya,2004,41.9
+Kenya,2005,42.4
+Kenya,2006,39.2
+Kenya,2007,43.1
+Kenya,2008,40.3
+Kenya,2009,42.5
+Kenya,2010,41.1
+Kenya,2011,43.1
+Kenya,2012,42.2
+Kenya,2013,40.8
+Kenya,2014,42.1
+Kenya,2015,42.1
+Kenya,2016,40.6
+Kenya,2017,41.4
+Kenya,2018,42.1
+Kenya,2019,43.1
+Kenya,2020,41.0
+Kenya,2021,38.8
+Kenya,2022,41.8
+Kenya,2023,42.9
+Kenya,2024,42.4
+Kenya,2025,41.2
+Kenya,2026,42.9
+Kenya,2027,42.1
+Kenya,2028,39.9
+Kenya,2029,42.2
+Kenya,2030,41.3
+Kenya,2031,41.4
+Kenya,2032,40.5
+Kenya,2033,40.6
+Kiribati,2004,26.2
+Kiribati,2005,25.8
+Kiribati,2006,24.8
+Kiribati,2007,24.3
+Kiribati,2008,23.4
+Kiribati,2009,25.2
+Kiribati,2010,25.1
+Kiribati,2011,21.7
+Kiribati,2012,25.3
+Kiribati,2013,25.5
+Kiribati,2014,22.0
+Kiribati,2015,25.5
+Kiribati,2016,23.5
+Kiribati,2017,24.6
+Kiribati,2018,24.0
+Kiribati,2019,21.6
+Kiribati,2020,23.9
+Kiribati,2021,26.2
+Kiribati,2022,25.4
+Kiribati,2023,25.9
+Kiribati,2024,25.6
+Kiribati,2025,25.2
+Kiribati,2026,24.9
+Kiribati,2027,23.6
+Kiribati,2028,25.9
+Kiribati,2029,23.7
+Kiribati,2030,25.9
+Kiribati,2031,23.8
+Kiribati,2032,26.2
+Kiribati,2033,23.4
+Kuwait,2004,37.1
+Kuwait,2005,37.4
+Kuwait,2006,40.0
+Kuwait,2007,37.1
+Kuwait,2008,38.3
+Kuwait,2009,38.8
+Kuwait,2010,36.9
+Kuwait,2011,37.4
+Kuwait,2012,38.4
+Kuwait,2013,39.0
+Kuwait,2014,39.4
+Kuwait,2015,36.9
+Kuwait,2016,38.4
+Kuwait,2017,39.2
+Kuwait,2018,38.8
+Kuwait,2019,40.1
+Kuwait,2020,38.5
+Kuwait,2021,36.8
+Kuwait,2022,39.5
+Kuwait,2023,38.9
+Kuwait,2024,37.5
+Kuwait,2025,38.8
+Kuwait,2026,38.6
+Kuwait,2027,38.1
+Kuwait,2028,38.6
+Kuwait,2029,36.7
+Kuwait,2030,38.0
+Kuwait,2031,38.6
+Kuwait,2032,36.9
+Kuwait,2033,38.1
+Kyrgyz Republic,2004,42.8
+Kyrgyz Republic,2005,42.6
+Kyrgyz Republic,2006,42.9
+Kyrgyz Republic,2007,42.8
+Kyrgyz Republic,2008,42.8
+Kyrgyz Republic,2009,42.8
+Kyrgyz Republic,2010,42.7
+Kyrgyz Republic,2011,42.6
+Kyrgyz Republic,2012,42.6
+Kyrgyz Republic,2013,42.8
+Kyrgyz Republic,2014,42.6
+Kyrgyz Republic,2015,42.9
+Kyrgyz Republic,2016,42.6
+Kyrgyz Republic,2017,42.8
+Kyrgyz Republic,2018,42.9
+Kyrgyz Republic,2019,43.0
+Kyrgyz Republic,2020,42.7
+Kyrgyz Republic,2021,42.4
+Kyrgyz Republic,2022,42.7
+Kyrgyz Republic,2023,42.7
+Kyrgyz Republic,2024,42.9
+Kyrgyz Republic,2025,42.5
+Kyrgyz Republic,2026,42.7
+Kyrgyz Republic,2027,42.8
+Kyrgyz Republic,2028,42.6
+Kyrgyz Republic,2029,42.8
+Kyrgyz Republic,2030,42.5
+Kyrgyz Republic,2031,42.9
+Kyrgyz Republic,2032,42.7
+Kyrgyz Republic,2033,42.6
+Laos,2004,34.5
+Laos,2005,33.3
+Laos,2006,33.0
+Laos,2007,33.7
+Laos,2008,33.6
+Laos,2009,34.6
+Laos,2010,33.2
+Laos,2011,34.3
+Laos,2012,32.9
+Laos,2013,32.8
+Laos,2014,33.1
+Laos,2015,32.9
+Laos,2016,33.9
+Laos,2017,32.8
+Laos,2018,34.7
+Laos,2019,32.8
+Laos,2020,33.8
+Laos,2021,34.8
+Laos,2022,33.5
+Laos,2023,33.3
+Laos,2024,34.5
+Laos,2025,34.2
+Laos,2026,32.7
+Laos,2027,34.0
+Laos,2028,32.9
+Laos,2029,34.7
+Laos,2030,33.4
+Laos,2031,33.6
+Laos,2032,32.5
+Laos,2033,32.4
+Latvia,2004,60.1
+Latvia,2005,59.9
+Latvia,2006,61.7
+Latvia,2007,61.8
+Latvia,2008,61.6
+Latvia,2009,61.8
+Latvia,2010,60.5
+Latvia,2011,60.0
+Latvia,2012,60.2
+Latvia,2013,60.7
+Latvia,2014,61.0
+Latvia,2015,61.5
+Latvia,2016,60.9
+Latvia,2017,61.1
+Latvia,2018,60.0
+Latvia,2019,59.8
+Latvia,2020,60.8
+Latvia,2021,61.9
+Latvia,2022,60.4
+Latvia,2023,60.8
+Latvia,2024,61.5
+Latvia,2025,59.8
+Latvia,2026,61.3
+Latvia,2027,61.6
+Latvia,2028,60.5
+Latvia,2029,61.4
+Latvia,2030,60.2
+Latvia,2031,60.7
+Latvia,2032,60.6
+Latvia,2033,60.3
+Lebanon,2004,34.6
+Lebanon,2005,34.1
+Lebanon,2006,36.7
+Lebanon,2007,33.7
+Lebanon,2008,33.5
+Lebanon,2009,36.1
+Lebanon,2010,34.2
+Lebanon,2011,34.9
+Lebanon,2012,33.9
+Lebanon,2013,34.5
+Lebanon,2014,33.5
+Lebanon,2015,36.0
+Lebanon,2016,35.8
+Lebanon,2017,36.0
+Lebanon,2018,34.5
+Lebanon,2019,36.8
+Lebanon,2020,35.1
+Lebanon,2021,33.4
+Lebanon,2022,33.8
+Lebanon,2023,34.3
+Lebanon,2024,35.5
+Lebanon,2025,34.4
+Lebanon,2026,33.6
+Lebanon,2027,35.0
+Lebanon,2028,34.6
+Lebanon,2029,34.5
+Lebanon,2030,34.1
+Lebanon,2031,33.0
+Lebanon,2032,33.8
+Lebanon,2033,33.1
+Lesotho,2004,32.6
+Lesotho,2005,31.2
+Lesotho,2006,31.5
+Lesotho,2007,32.4
+Lesotho,2008,31.3
+Lesotho,2009,31.4
+Lesotho,2010,30.9
+Lesotho,2011,32.5
+Lesotho,2012,31.5
+Lesotho,2013,32.5
+Lesotho,2014,31.4
+Lesotho,2015,31.7
+Lesotho,2016,32.1
+Lesotho,2017,31.8
+Lesotho,2018,31.9
+Lesotho,2019,32.6
+Lesotho,2020,31.8
+Lesotho,2021,30.9
+Lesotho,2022,31.0
+Lesotho,2023,32.4
+Lesotho,2024,32.7
+Lesotho,2025,31.5
+Lesotho,2026,30.7
+Lesotho,2027,31.2
+Lesotho,2028,31.8
+Lesotho,2029,32.2
+Lesotho,2030,31.2
+Lesotho,2031,31.7
+Lesotho,2032,32.2
+Lesotho,2033,32.0
+Liberia,2004,34.7
+Liberia,2005,35.3
+Liberia,2006,35.4
+Liberia,2007,35.4
+Liberia,2008,34.7
+Liberia,2009,35.4
+Liberia,2010,35.6
+Liberia,2011,34.8
+Liberia,2012,35.4
+Liberia,2013,34.8
+Liberia,2014,34.9
+Liberia,2015,34.7
+Liberia,2016,35.2
+Liberia,2017,35.6
+Liberia,2018,35.2
+Liberia,2019,34.5
+Liberia,2020,35.1
+Liberia,2021,35.7
+Liberia,2022,35.6
+Liberia,2023,35.3
+Liberia,2024,35.2
+Liberia,2025,35.0
+Liberia,2026,35.3
+Liberia,2027,35.5
+Liberia,2028,35.3
+Liberia,2029,34.6
+Liberia,2030,34.8
+Liberia,2031,35.0
+Liberia,2032,35.5
+Liberia,2033,35.3
+Libya,2004,23.3
+Libya,2005,23.8
+Libya,2006,23.8
+Libya,2007,24.8
+Libya,2008,24.0
+Libya,2009,24.3
+Libya,2010,23.4
+Libya,2011,25.0
+Libya,2012,23.5
+Libya,2013,24.2
+Libya,2014,24.9
+Libya,2015,23.9
+Libya,2016,24.7
+Libya,2017,24.2
+Libya,2018,23.3
+Libya,2019,23.3
+Libya,2020,24.3
+Libya,2021,25.3
+Libya,2022,23.7
+Libya,2023,23.8
+Libya,2024,22.9
+Libya,2025,23.2
+Libya,2026,23.8
+Libya,2027,23.8
+Libya,2028,24.0
+Libya,2029,24.0
+Libya,2030,24.1
+Libya,2031,23.8
+Libya,2032,23.7
+Libya,2033,23.3
+Lithuania,2004,58.3
+Lithuania,2005,58.0
+Lithuania,2006,58.1
+Lithuania,2007,55.4
+Lithuania,2008,58.1
+Lithuania,2009,55.6
+Lithuania,2010,59.1
+Lithuania,2011,56.4
+Lithuania,2012,55.5
+Lithuania,2013,56.0
+Lithuania,2014,58.9
+Lithuania,2015,59.2
+Lithuania,2016,58.9
+Lithuania,2017,56.6
+Lithuania,2018,58.3
+Lithuania,2019,54.9
+Lithuania,2020,57.2
+Lithuania,2021,59.5
+Lithuania,2022,55.9
+Lithuania,2023,57.8
+Lithuania,2024,58.2
+Lithuania,2025,59.4
+Lithuania,2026,56.8
+Lithuania,2027,58.9
+Lithuania,2028,58.0
+Lithuania,2029,58.6
+Lithuania,2030,56.5
+Lithuania,2031,58.4
+Lithuania,2032,56.5
+Lithuania,2033,55.1
+Luxembourg,2004,48.6
+Luxembourg,2005,48.6
+Luxembourg,2006,48.4
+Luxembourg,2007,48.5
+Luxembourg,2008,48.6
+Luxembourg,2009,48.4
+Luxembourg,2010,48.5
+Luxembourg,2011,48.4
+Luxembourg,2012,48.4
+Luxembourg,2013,48.4
+Luxembourg,2014,48.5
+Luxembourg,2015,48.5
+Luxembourg,2016,48.5
+Luxembourg,2017,48.4
+Luxembourg,2018,48.6
+Luxembourg,2019,48.6
+Luxembourg,2020,48.5
+Luxembourg,2021,48.4
+Luxembourg,2022,48.4
+Luxembourg,2023,48.4
+Luxembourg,2024,48.5
+Luxembourg,2025,48.5
+Luxembourg,2026,48.5
+Luxembourg,2027,48.4
+Luxembourg,2028,48.6
+Luxembourg,2029,48.4
+Luxembourg,2030,48.6
+Luxembourg,2031,48.6
+Luxembourg,2032,48.6
+Luxembourg,2033,48.5
+Madagascar,2004,30.9
+Madagascar,2005,30.7
+Madagascar,2006,30.9
+Madagascar,2007,30.9
+Madagascar,2008,30.5
+Madagascar,2009,30.5
+Madagascar,2010,30.7
+Madagascar,2011,30.5
+Madagascar,2012,30.9
+Madagascar,2013,30.7
+Madagascar,2014,30.8
+Madagascar,2015,30.7
+Madagascar,2016,30.6
+Madagascar,2017,30.7
+Madagascar,2018,30.7
+Madagascar,2019,30.9
+Madagascar,2020,30.7
+Madagascar,2021,30.4
+Madagascar,2022,30.6
+Madagascar,2023,30.6
+Madagascar,2024,30.8
+Madagascar,2025,30.8
+Madagascar,2026,30.4
+Madagascar,2027,30.9
+Madagascar,2028,30.9
+Madagascar,2029,30.8
+Madagascar,2030,30.9
+Madagascar,2031,30.7
+Madagascar,2032,30.5
+Madagascar,2033,30.8
+Malawi,2004,28.1
+Malawi,2005,27.9
+Malawi,2006,28.4
+Malawi,2007,27.9
+Malawi,2008,28.4
+Malawi,2009,28.5
+Malawi,2010,28.0
+Malawi,2011,28.0
+Malawi,2012,28.1
+Malawi,2013,28.5
+Malawi,2014,28.4
+Malawi,2015,28.1
+Malawi,2016,28.3
+Malawi,2017,28.4
+Malawi,2018,28.0
+Malawi,2019,27.8
+Malawi,2020,28.2
+Malawi,2021,28.5
+Malawi,2022,28.0
+Malawi,2023,28.1
+Malawi,2024,28.1
+Malawi,2025,28.0
+Malawi,2026,27.9
+Malawi,2027,28.6
+Malawi,2028,28.1
+Malawi,2029,28.0
+Malawi,2030,28.0
+Malawi,2031,28.2
+Malawi,2032,28.1
+Malawi,2033,28.3
+Malaysia,2004,55.8
+Malaysia,2005,55.4
+Malaysia,2006,55.2
+Malaysia,2007,56.2
+Malaysia,2008,55.4
+Malaysia,2009,55.2
+Malaysia,2010,55.2
+Malaysia,2011,55.3
+Malaysia,2012,55.5
+Malaysia,2013,55.3
+Malaysia,2014,55.6
+Malaysia,2015,56.2
+Malaysia,2016,56.2
+Malaysia,2017,56.2
+Malaysia,2018,56.1
+Malaysia,2019,55.1
+Malaysia,2020,55.8
+Malaysia,2021,56.4
+Malaysia,2022,55.8
+Malaysia,2023,55.5
+Malaysia,2024,55.6
+Malaysia,2025,55.2
+Malaysia,2026,55.4
+Malaysia,2027,55.9
+Malaysia,2028,55.6
+Malaysia,2029,55.5
+Malaysia,2030,55.9
+Malaysia,2031,55.8
+Malaysia,2032,55.1
+Malaysia,2033,56.0
+Maldives,2004,30.9
+Maldives,2005,31.9
+Maldives,2006,31.6
+Maldives,2007,31.6
+Maldives,2008,31.5
+Maldives,2009,31.7
+Maldives,2010,31.7
+Maldives,2011,31.3
+Maldives,2012,31.7
+Maldives,2013,31.0
+Maldives,2014,31.1
+Maldives,2015,31.9
+Maldives,2016,31.7
+Maldives,2017,30.9
+Maldives,2018,31.3
+Maldives,2019,30.8
+Maldives,2020,31.4
+Maldives,2021,32.0
+Maldives,2022,31.6
+Maldives,2023,30.8
+Maldives,2024,31.7
+Maldives,2025,31.3
+Maldives,2026,31.2
+Maldives,2027,30.7
+Maldives,2028,31.6
+Maldives,2029,31.9
+Maldives,2030,31.5
+Maldives,2031,31.6
+Maldives,2032,31.2
+Maldives,2033,31.5
+Mali,2004,29.5
+Mali,2005,30.2
+Mali,2006,29.7
+Mali,2007,30.0
+Mali,2008,29.3
+Mali,2009,29.1
+Mali,2010,29.7
+Mali,2011,30.1
+Mali,2012,29.1
+Mali,2013,29.1
+Mali,2014,30.1
+Mali,2015,30.4
+Mali,2016,30.4
+Mali,2017,30.1
+Mali,2018,30.5
+Mali,2019,30.6
+Mali,2020,29.8
+Mali,2021,29.0
+Mali,2022,30.3
+Mali,2023,29.8
+Mali,2024,30.0
+Mali,2025,29.1
+Mali,2026,29.3
+Mali,2027,29.7
+Mali,2028,30.2
+Mali,2029,30.6
+Mali,2030,29.6
+Mali,2031,30.1
+Mali,2032,28.9
+Mali,2033,29.6
+Malta,2004,39.6
+Malta,2005,39.7
+Malta,2006,40.1
+Malta,2007,40.0
+Malta,2008,40.1
+Malta,2009,39.3
+Malta,2010,40.2
+Malta,2011,39.5
+Malta,2012,39.8
+Malta,2013,39.8
+Malta,2014,39.5
+Malta,2015,39.4
+Malta,2016,40.2
+Malta,2017,40.0
+Malta,2018,39.3
+Malta,2019,39.3
+Malta,2020,39.8
+Malta,2021,40.2
+Malta,2022,39.8
+Malta,2023,39.9
+Malta,2024,39.8
+Malta,2025,39.8
+Malta,2026,40.2
+Malta,2027,39.8
+Malta,2028,40.0
+Malta,2029,39.7
+Malta,2030,39.4
+Malta,2031,39.8
+Malta,2032,39.7
+Malta,2033,40.0
+Mauritania,2004,25.5
+Mauritania,2005,25.9
+Mauritania,2006,26.0
+Mauritania,2007,25.8
+Mauritania,2008,25.5
+Mauritania,2009,26.1
+Mauritania,2010,26.1
+Mauritania,2011,25.8
+Mauritania,2012,25.9
+Mauritania,2013,25.5
+Mauritania,2014,25.8
+Mauritania,2015,26.0
+Mauritania,2016,26.0
+Mauritania,2017,25.9
+Mauritania,2018,25.5
+Mauritania,2019,25.4
+Mauritania,2020,25.8
+Mauritania,2021,26.2
+Mauritania,2022,25.5
+Mauritania,2023,25.7
+Mauritania,2024,25.8
+Mauritania,2025,26.1
+Mauritania,2026,26.0
+Mauritania,2027,26.2
+Mauritania,2028,26.1
+Mauritania,2029,25.8
+Mauritania,2030,25.8
+Mauritania,2031,25.7
+Mauritania,2032,25.9
+Mauritania,2033,26.0
+Mauritius,2004,39.2
+Mauritius,2005,38.6
+Mauritius,2006,38.5
+Mauritius,2007,39.5
+Mauritius,2008,39.5
+Mauritius,2009,38.3
+Mauritius,2010,39.0
+Mauritius,2011,38.3
+Mauritius,2012,39.4
+Mauritius,2013,39.6
+Mauritius,2014,39.6
+Mauritius,2015,39.1
+Mauritius,2016,39.2
+Mauritius,2017,39.4
+Mauritius,2018,38.8
+Mauritius,2019,38.3
+Mauritius,2020,39.0
+Mauritius,2021,39.7
+Mauritius,2022,39.7
+Mauritius,2023,39.2
+Mauritius,2024,39.5
+Mauritius,2025,39.9
+Mauritius,2026,38.8
+Mauritius,2027,38.7
+Mauritius,2028,38.4
+Mauritius,2029,39.7
+Mauritius,2030,38.6
+Mauritius,2031,39.0
+Mauritius,2032,38.5
+Mauritius,2033,39.2
+Mexico,2004,56.5
+Mexico,2005,55.6
+Mexico,2006,55.2
+Mexico,2007,55.7
+Mexico,2008,56.0
+Mexico,2009,55.8
+Mexico,2010,55.8
+Mexico,2011,56.1
+Mexico,2012,56.3
+Mexico,2013,56.4
+Mexico,2014,55.8
+Mexico,2015,56.8
+Mexico,2016,56.9
+Mexico,2017,55.2
+Mexico,2018,56.9
+Mexico,2019,55.1
+Mexico,2020,56.1
+Mexico,2021,57.0
+Mexico,2022,55.3
+Mexico,2023,56.1
+Mexico,2024,55.8
+Mexico,2025,56.0
+Mexico,2026,56.3
+Mexico,2027,55.6
+Mexico,2028,55.4
+Mexico,2029,55.8
+Mexico,2030,56.0
+Mexico,2031,55.9
+Mexico,2032,55.5
+Mexico,2033,56.9
+Micronesia,2004,30.3
+Micronesia,2005,30.1
+Micronesia,2006,30.4
+Micronesia,2007,29.4
+Micronesia,2008,29.2
+Micronesia,2009,30.3
+Micronesia,2010,29.6
+Micronesia,2011,29.6
+Micronesia,2012,29.9
+Micronesia,2013,29.0
+Micronesia,2014,29.5
+Micronesia,2015,29.5
+Micronesia,2016,29.9
+Micronesia,2017,29.4
+Micronesia,2018,28.7
+Micronesia,2019,30.5
+Micronesia,2020,29.5
+Micronesia,2021,28.5
+Micronesia,2022,30.4
+Micronesia,2023,28.7
+Micronesia,2024,29.0
+Micronesia,2025,29.7
+Micronesia,2026,29.2
+Micronesia,2027,30.2
+Micronesia,2028,29.5
+Micronesia,2029,28.9
+Micronesia,2030,30.1
+Micronesia,2031,30.1
+Micronesia,2032,29.2
+Micronesia,2033,29.3
+Moldova,2004,41.0
+Moldova,2005,41.0
+Moldova,2006,40.9
+Moldova,2007,40.9
+Moldova,2008,40.9
+Moldova,2009,40.9
+Moldova,2010,40.8
+Moldova,2011,41.0
+Moldova,2012,41.0
+Moldova,2013,40.9
+Moldova,2014,40.9
+Moldova,2015,41.0
+Moldova,2016,40.9
+Moldova,2017,40.9
+Moldova,2018,40.8
+Moldova,2019,40.8
+Moldova,2020,40.9
+Moldova,2021,41.0
+Moldova,2022,41.0
+Moldova,2023,40.9
+Moldova,2024,40.9
+Moldova,2025,40.8
+Moldova,2026,41.0
+Moldova,2027,40.9
+Moldova,2028,40.9
+Moldova,2029,40.8
+Moldova,2030,41.0
+Moldova,2031,40.9
+Moldova,2032,41.0
+Moldova,2033,41.0
+Monaco,2004,33.5
+Monaco,2005,33.5
+Monaco,2006,33.4
+Monaco,2007,33.3
+Monaco,2008,33.8
+Monaco,2009,33.8
+Monaco,2010,33.3
+Monaco,2011,33.4
+Monaco,2012,33.8
+Monaco,2013,33.7
+Monaco,2014,33.7
+Monaco,2015,33.6
+Monaco,2016,33.5
+Monaco,2017,33.4
+Monaco,2018,33.6
+Monaco,2019,33.8
+Monaco,2020,33.6
+Monaco,2021,33.3
+Monaco,2022,33.6
+Monaco,2023,33.5
+Monaco,2024,33.6
+Monaco,2025,33.8
+Monaco,2026,33.6
+Monaco,2027,33.4
+Monaco,2028,33.8
+Monaco,2029,33.5
+Monaco,2030,33.5
+Monaco,2031,33.5
+Monaco,2032,33.4
+Monaco,2033,33.8
+Mongolia,2004,41.0
+Mongolia,2005,41.0
+Mongolia,2006,41.0
+Mongolia,2007,40.9
+Mongolia,2008,40.9
+Mongolia,2009,40.9
+Mongolia,2010,41.0
+Mongolia,2011,40.9
+Mongolia,2012,40.9
+Mongolia,2013,41.0
+Mongolia,2014,41.0
+Mongolia,2015,41.0
+Mongolia,2016,41.0
+Mongolia,2017,41.0
+Mongolia,2018,41.0
+Mongolia,2019,40.9
+Mongolia,2020,41.0
+Mongolia,2021,41.0
+Mongolia,2022,41.0
+Mongolia,2023,40.9
+Mongolia,2024,40.9
+Mongolia,2025,40.9
+Mongolia,2026,40.9
+Mongolia,2027,40.9
+Mongolia,2028,41.0
+Mongolia,2029,41.0
+Mongolia,2030,40.9
+Mongolia,2031,40.9
+Mongolia,2032,41.0
+Mongolia,2033,40.9
+Montenegro,2004,42.7
+Montenegro,2005,42.1
+Montenegro,2006,42.2
+Montenegro,2007,42.7
+Montenegro,2008,41.1
+Montenegro,2009,42.3
+Montenegro,2010,42.8
+Montenegro,2011,41.2
+Montenegro,2012,41.4
+Montenegro,2013,42.0
+Montenegro,2014,43.3
+Montenegro,2015,41.9
+Montenegro,2016,41.6
+Montenegro,2017,43.7
+Montenegro,2018,42.2
+Montenegro,2019,40.8
+Montenegro,2020,42.5
+Montenegro,2021,44.1
+Montenegro,2022,41.2
+Montenegro,2023,42.1
+Montenegro,2024,42.4
+Montenegro,2025,41.6
+Montenegro,2026,42.3
+Montenegro,2027,42.5
+Montenegro,2028,42.0
+Montenegro,2029,41.7
+Montenegro,2030,42.7
+Montenegro,2031,43.2
+Montenegro,2032,42.6
+Montenegro,2033,41.5
+Morocco,2004,35.4
+Morocco,2005,35.0
+Morocco,2006,34.3
+Morocco,2007,35.6
+Morocco,2008,33.9
+Morocco,2009,34.1
+Morocco,2010,34.4
+Morocco,2011,35.4
+Morocco,2012,33.8
+Morocco,2013,34.5
+Morocco,2014,34.7
+Morocco,2015,34.6
+Morocco,2016,34.4
+Morocco,2017,34.5
+Morocco,2018,33.7
+Morocco,2019,35.6
+Morocco,2020,34.6
+Morocco,2021,33.6
+Morocco,2022,33.7
+Morocco,2023,35.2
+Morocco,2024,35.2
+Morocco,2025,34.9
+Morocco,2026,33.3
+Morocco,2027,35.2
+Morocco,2028,33.5
+Morocco,2029,33.4
+Morocco,2030,34.8
+Morocco,2031,35.1
+Morocco,2032,35.1
+Morocco,2033,34.4
+Mozambique,2004,29.7
+Mozambique,2005,30.2
+Mozambique,2006,30.0
+Mozambique,2007,30.0
+Mozambique,2008,30.3
+Mozambique,2009,30.2
+Mozambique,2010,29.9
+Mozambique,2011,29.7
+Mozambique,2012,29.7
+Mozambique,2013,30.0
+Mozambique,2014,29.6
+Mozambique,2015,30.3
+Mozambique,2016,30.0
+Mozambique,2017,29.8
+Mozambique,2018,29.7
+Mozambique,2019,29.6
+Mozambique,2020,30.0
+Mozambique,2021,30.4
+Mozambique,2022,29.7
+Mozambique,2023,30.1
+Mozambique,2024,29.9
+Mozambique,2025,30.1
+Mozambique,2026,29.7
+Mozambique,2027,29.9
+Mozambique,2028,29.9
+Mozambique,2029,29.6
+Mozambique,2030,30.1
+Mozambique,2031,30.3
+Mozambique,2032,30.0
+Mozambique,2033,30.1
+Myanmar,2004,38.3
+Myanmar,2005,38.1
+Myanmar,2006,37.9
+Myanmar,2007,38.0
+Myanmar,2008,38.1
+Myanmar,2009,38.3
+Myanmar,2010,38.1
+Myanmar,2011,38.1
+Myanmar,2012,37.8
+Myanmar,2013,38.2
+Myanmar,2014,37.9
+Myanmar,2015,38.2
+Myanmar,2016,38.0
+Myanmar,2017,38.2
+Myanmar,2018,38.2
+Myanmar,2019,37.8
+Myanmar,2020,38.1
+Myanmar,2021,38.3
+Myanmar,2022,38.0
+Myanmar,2023,37.9
+Myanmar,2024,38.0
+Myanmar,2025,38.0
+Myanmar,2026,37.9
+Myanmar,2027,38.1
+Myanmar,2028,38.1
+Myanmar,2029,37.9
+Myanmar,2030,38.2
+Myanmar,2031,38.1
+Myanmar,2032,37.8
+Myanmar,2033,38.3
+Namibia,2004,30.7
+Namibia,2005,30.6
+Namibia,2006,30.4
+Namibia,2007,30.3
+Namibia,2008,30.8
+Namibia,2009,30.8
+Namibia,2010,30.9
+Namibia,2011,30.8
+Namibia,2012,30.7
+Namibia,2013,30.8
+Namibia,2014,30.4
+Namibia,2015,30.6
+Namibia,2016,30.7
+Namibia,2017,30.4
+Namibia,2018,30.7
+Namibia,2019,30.9
+Namibia,2020,30.6
+Namibia,2021,30.3
+Namibia,2022,30.3
+Namibia,2023,30.8
+Namibia,2024,30.5
+Namibia,2025,30.9
+Namibia,2026,30.6
+Namibia,2027,30.7
+Namibia,2028,30.4
+Namibia,2029,30.4
+Namibia,2030,30.7
+Namibia,2031,30.7
+Namibia,2032,30.8
+Namibia,2033,30.6
+Nepal,2004,35.4
+Nepal,2005,35.2
+Nepal,2006,34.7
+Nepal,2007,34.5
+Nepal,2008,34.9
+Nepal,2009,35.2
+Nepal,2010,34.6
+Nepal,2011,35.4
+Nepal,2012,34.7
+Nepal,2013,34.1
+Nepal,2014,34.7
+Nepal,2015,34.0
+Nepal,2016,34.2
+Nepal,2017,34.5
+Nepal,2018,35.3
+Nepal,2019,35.6
+Nepal,2020,34.8
+Nepal,2021,34.0
+Nepal,2022,34.8
+Nepal,2023,34.8
+Nepal,2024,34.6
+Nepal,2025,34.7
+Nepal,2026,35.0
+Nepal,2027,34.5
+Nepal,2028,34.1
+Nepal,2029,35.0
+Nepal,2030,35.1
+Nepal,2031,34.3
+Nepal,2032,35.3
+Nepal,2033,35.2
+Netherlands,2004,66.6
+Netherlands,2005,65.9
+Netherlands,2006,65.7
+Netherlands,2007,65.9
+Netherlands,2008,64.8
+Netherlands,2009,66.2
+Netherlands,2010,65.1
+Netherlands,2011,64.9
+Netherlands,2012,66.9
+Netherlands,2013,67.4
+Netherlands,2014,66.0
+Netherlands,2015,67.0
+Netherlands,2016,66.7
+Netherlands,2017,66.0
+Netherlands,2018,64.8
+Netherlands,2019,67.7
+Netherlands,2020,66.2
+Netherlands,2021,64.7
+Netherlands,2022,67.1
+Netherlands,2023,66.8
+Netherlands,2024,66.5
+Netherlands,2025,65.2
+Netherlands,2026,66.0
+Netherlands,2027,65.7
+Netherlands,2028,65.5
+Netherlands,2029,65.5
+Netherlands,2030,66.5
+Netherlands,2031,66.4
+Netherlands,2032,65.8
+Netherlands,2033,65.5
+New Caledonia,2004,60.1
+New Caledonia,2005,60.8
+New Caledonia,2006,57.3
+New Caledonia,2007,56.6
+New Caledonia,2008,58.8
+New Caledonia,2009,59.1
+New Caledonia,2010,58.9
+New Caledonia,2011,61.4
+New Caledonia,2012,59.1
+New Caledonia,2013,59.2
+New Caledonia,2014,60.0
+New Caledonia,2015,60.2
+New Caledonia,2016,56.5
+New Caledonia,2017,56.5
+New Caledonia,2018,59.3
+New Caledonia,2019,55.8
+New Caledonia,2020,59.2
+New Caledonia,2021,62.5
+New Caledonia,2022,58.1
+New Caledonia,2023,55.8
+New Caledonia,2024,58.7
+New Caledonia,2025,58.8
+New Caledonia,2026,59.9
+New Caledonia,2027,58.5
+New Caledonia,2028,56.8
+New Caledonia,2029,59.2
+New Caledonia,2030,59.2
+New Caledonia,2031,58.6
+New Caledonia,2032,56.5
+New Caledonia,2033,57.7
+New Zealand,2004,56.2
+New Zealand,2005,61.7
+New Zealand,2006,60.8
+New Zealand,2007,61.9
+New Zealand,2008,60.1
+New Zealand,2009,61.1
+New Zealand,2010,59.5
+New Zealand,2011,61.9
+New Zealand,2012,56.0
+New Zealand,2013,58.8
+New Zealand,2014,62.1
+New Zealand,2015,60.0
+New Zealand,2016,62.0
+New Zealand,2017,59.6
+New Zealand,2018,59.5
+New Zealand,2019,55.8
+New Zealand,2020,59.2
+New Zealand,2021,62.5
+New Zealand,2022,59.5
+New Zealand,2023,61.9
+New Zealand,2024,60.5
+New Zealand,2025,61.5
+New Zealand,2026,59.1
+New Zealand,2027,60.7
+New Zealand,2028,61.4
+New Zealand,2029,60.2
+New Zealand,2030,62.0
+New Zealand,2031,60.3
+New Zealand,2032,56.4
+New Zealand,2033,62.0
+Nicaragua,2004,37.6
+Nicaragua,2005,39.8
+Nicaragua,2006,37.3
+Nicaragua,2007,39.1
+Nicaragua,2008,37.3
+Nicaragua,2009,39.9
+Nicaragua,2010,39.7
+Nicaragua,2011,37.8
+Nicaragua,2012,40.0
+Nicaragua,2013,39.3
+Nicaragua,2014,36.4
+Nicaragua,2015,38.0
+Nicaragua,2016,38.5
+Nicaragua,2017,37.9
+Nicaragua,2018,39.6
+Nicaragua,2019,40.0
+Nicaragua,2020,38.2
+Nicaragua,2021,36.3
+Nicaragua,2022,39.8
+Nicaragua,2023,36.6
+Nicaragua,2024,38.7
+Nicaragua,2025,39.6
+Nicaragua,2026,39.0
+Nicaragua,2027,36.1
+Nicaragua,2028,37.1
+Nicaragua,2029,38.3
+Nicaragua,2030,39.0
+Nicaragua,2031,36.8
+Nicaragua,2032,38.9
+Nicaragua,2033,39.5
+Niger,2004,28.9
+Niger,2005,29.5
+Niger,2006,29.4
+Niger,2007,29.6
+Niger,2008,28.8
+Niger,2009,28.9
+Niger,2010,28.8
+Niger,2011,29.1
+Niger,2012,29.4
+Niger,2013,29.0
+Niger,2014,29.3
+Niger,2015,29.5
+Niger,2016,29.4
+Niger,2017,29.6
+Niger,2018,28.9
+Niger,2019,29.7
+Niger,2020,29.2
+Niger,2021,28.7
+Niger,2022,29.4
+Niger,2023,29.1
+Niger,2024,29.3
+Niger,2025,29.0
+Niger,2026,29.6
+Niger,2027,28.9
+Niger,2028,29.1
+Niger,2029,29.7
+Niger,2030,29.2
+Niger,2031,29.4
+Niger,2032,29.2
+Niger,2033,29.1
+Nigeria,2004,37.5
+Nigeria,2005,37.4
+Nigeria,2006,37.3
+Nigeria,2007,37.8
+Nigeria,2008,37.1
+Nigeria,2009,37.5
+Nigeria,2010,37.8
+Nigeria,2011,37.4
+Nigeria,2012,37.6
+Nigeria,2013,37.7
+Nigeria,2014,37.9
+Nigeria,2015,37.5
+Nigeria,2016,37.4
+Nigeria,2017,37.8
+Nigeria,2018,37.1
+Nigeria,2019,37.0
+Nigeria,2020,37.5
+Nigeria,2021,38.0
+Nigeria,2022,37.7
+Nigeria,2023,37.6
+Nigeria,2024,37.5
+Nigeria,2025,37.5
+Nigeria,2026,37.7
+Nigeria,2027,37.2
+Nigeria,2028,37.5
+Nigeria,2029,37.6
+Nigeria,2030,37.4
+Nigeria,2031,37.3
+Nigeria,2032,37.9
+Nigeria,2033,37.3
+North Macedonia,2004,40.1
+North Macedonia,2005,41.6
+North Macedonia,2006,42.1
+North Macedonia,2007,41.6
+North Macedonia,2008,42.1
+North Macedonia,2009,40.7
+North Macedonia,2010,40.4
+North Macedonia,2011,40.5
+North Macedonia,2012,40.6
+North Macedonia,2013,40.9
+North Macedonia,2014,40.5
+North Macedonia,2015,41.8
+North Macedonia,2016,41.1
+North Macedonia,2017,41.8
+North Macedonia,2018,40.2
+North Macedonia,2019,40.1
+North Macedonia,2020,41.2
+North Macedonia,2021,42.2
+North Macedonia,2022,42.0
+North Macedonia,2023,41.4
+North Macedonia,2024,41.1
+North Macedonia,2025,42.2
+North Macedonia,2026,42.1
+North Macedonia,2027,41.3
+North Macedonia,2028,41.7
+North Macedonia,2029,40.0
+North Macedonia,2030,40.7
+North Macedonia,2031,42.0
+North Macedonia,2032,41.7
+North Macedonia,2033,40.8
+Norway,2004,60.5
+Norway,2005,60.6
+Norway,2006,60.8
+Norway,2007,60.7
+Norway,2008,60.8
+Norway,2009,61.1
+Norway,2010,60.6
+Norway,2011,60.6
+Norway,2012,60.4
+Norway,2013,60.4
+Norway,2014,61.1
+Norway,2015,60.9
+Norway,2016,61.1
+Norway,2017,60.8
+Norway,2018,60.8
+Norway,2019,61.4
+Norway,2020,60.8
+Norway,2021,60.2
+Norway,2022,61.2
+Norway,2023,60.7
+Norway,2024,61.2
+Norway,2025,61.0
+Norway,2026,60.2
+Norway,2027,60.6
+Norway,2028,61.0
+Norway,2029,61.3
+Norway,2030,60.9
+Norway,2031,60.5
+Norway,2032,60.4
+Norway,2033,60.2
+Oman,2004,39.6
+Oman,2005,40.5
+Oman,2006,40.0
+Oman,2007,40.3
+Oman,2008,40.5
+Oman,2009,40.2
+Oman,2010,39.6
+Oman,2011,39.5
+Oman,2012,39.8
+Oman,2013,40.1
+Oman,2014,40.2
+Oman,2015,40.7
+Oman,2016,39.2
+Oman,2017,39.6
+Oman,2018,40.4
+Oman,2019,40.9
+Oman,2020,40.0
+Oman,2021,39.1
+Oman,2022,39.2
+Oman,2023,40.5
+Oman,2024,39.9
+Oman,2025,39.8
+Oman,2026,39.9
+Oman,2027,39.0
+Oman,2028,39.7
+Oman,2029,40.1
+Oman,2030,40.3
+Oman,2031,39.2
+Oman,2032,39.9
+Oman,2033,39.3
+Pakistan,2004,30.7
+Pakistan,2005,31.2
+Pakistan,2006,31.1
+Pakistan,2007,30.7
+Pakistan,2008,31.3
+Pakistan,2009,31.0
+Pakistan,2010,31.1
+Pakistan,2011,30.8
+Pakistan,2012,30.7
+Pakistan,2013,31.1
+Pakistan,2014,31.3
+Pakistan,2015,31.2
+Pakistan,2016,30.6
+Pakistan,2017,30.7
+Pakistan,2018,30.8
+Pakistan,2019,31.3
+Pakistan,2020,30.9
+Pakistan,2021,30.4
+Pakistan,2022,30.5
+Pakistan,2023,31.2
+Pakistan,2024,30.5
+Pakistan,2025,31.0
+Pakistan,2026,30.4
+Pakistan,2027,31.1
+Pakistan,2028,31.4
+Pakistan,2029,30.9
+Pakistan,2030,30.9
+Pakistan,2031,30.8
+Pakistan,2032,31.0
+Pakistan,2033,31.1
+Panama,2004,53.4
+Panama,2005,50.9
+Panama,2006,50.6
+Panama,2007,50.8
+Panama,2008,51.1
+Panama,2009,52.9
+Panama,2010,51.0
+Panama,2011,51.9
+Panama,2012,52.8
+Panama,2013,52.4
+Panama,2014,51.0
+Panama,2015,50.8
+Panama,2016,50.5
+Panama,2017,51.8
+Panama,2018,52.7
+Panama,2019,50.4
+Panama,2020,52.0
+Panama,2021,53.5
+Panama,2022,52.3
+Panama,2023,52.4
+Panama,2024,51.2
+Panama,2025,50.7
+Panama,2026,52.6
+Panama,2027,51.8
+Panama,2028,53.1
+Panama,2029,52.2
+Panama,2030,52.5
+Panama,2031,51.4
+Panama,2032,52.2
+Panama,2033,51.3
+Papua New Guinea,2004,25.8
+Papua New Guinea,2005,25.7
+Papua New Guinea,2006,25.3
+Papua New Guinea,2007,25.8
+Papua New Guinea,2008,25.6
+Papua New Guinea,2009,25.4
+Papua New Guinea,2010,25.5
+Papua New Guinea,2011,25.3
+Papua New Guinea,2012,25.7
+Papua New Guinea,2013,26.1
+Papua New Guinea,2014,26.2
+Papua New Guinea,2015,25.7
+Papua New Guinea,2016,26.3
+Papua New Guinea,2017,25.4
+Papua New Guinea,2018,25.7
+Papua New Guinea,2019,26.3
+Papua New Guinea,2020,25.7
+Papua New Guinea,2021,25.0
+Papua New Guinea,2022,25.5
+Papua New Guinea,2023,25.6
+Papua New Guinea,2024,25.5
+Papua New Guinea,2025,25.5
+Papua New Guinea,2026,25.4
+Papua New Guinea,2027,25.6
+Papua New Guinea,2028,25.9
+Papua New Guinea,2029,25.5
+Papua New Guinea,2030,25.7
+Papua New Guinea,2031,25.7
+Papua New Guinea,2032,25.3
+Papua New Guinea,2033,25.8
+Paraguay,2004,39.9
+Paraguay,2005,39.9
+Paraguay,2006,40.0
+Paraguay,2007,39.9
+Paraguay,2008,40.2
+Paraguay,2009,40.3
+Paraguay,2010,40.0
+Paraguay,2011,40.1
+Paraguay,2012,39.9
+Paraguay,2013,40.0
+Paraguay,2014,40.2
+Paraguay,2015,40.1
+Paraguay,2016,39.8
+Paraguay,2017,40.2
+Paraguay,2018,39.8
+Paraguay,2019,39.8
+Paraguay,2020,40.1
+Paraguay,2021,40.3
+Paraguay,2022,40.0
+Paraguay,2023,40.0
+Paraguay,2024,40.0
+Paraguay,2025,40.2
+Paraguay,2026,40.0
+Paraguay,2027,40.0
+Paraguay,2028,39.8
+Paraguay,2029,40.1
+Paraguay,2030,39.9
+Paraguay,2031,40.0
+Paraguay,2032,40.2
+Paraguay,2033,40.2
+Peru,2004,54.4
+Peru,2005,54.3
+Peru,2006,54.2
+Peru,2007,54.1
+Peru,2008,54.0
+Peru,2009,54.4
+Peru,2010,53.8
+Peru,2011,54.0
+Peru,2012,54.3
+Peru,2013,54.6
+Peru,2014,54.3
+Peru,2015,54.6
+Peru,2016,54.5
+Peru,2017,54.0
+Peru,2018,54.0
+Peru,2019,53.8
+Peru,2020,54.3
+Peru,2021,54.9
+Peru,2022,54.7
+Peru,2023,53.9
+Peru,2024,53.7
+Peru,2025,53.7
+Peru,2026,54.8
+Peru,2027,54.1
+Peru,2028,53.7
+Peru,2029,54.3
+Peru,2030,54.1
+Peru,2031,54.2
+Peru,2032,54.3
+Peru,2033,54.5
+Philippines,2004,43.8
+Philippines,2005,44.9
+Philippines,2006,44.0
+Philippines,2007,44.9
+Philippines,2008,45.5
+Philippines,2009,45.3
+Philippines,2010,44.7
+Philippines,2011,44.9
+Philippines,2012,45.6
+Philippines,2013,45.3
+Philippines,2014,44.5
+Philippines,2015,45.2
+Philippines,2016,45.6
+Philippines,2017,45.0
+Philippines,2018,44.8
+Philippines,2019,43.5
+Philippines,2020,44.6
+Philippines,2021,45.7
+Philippines,2022,45.2
+Philippines,2023,44.0
+Philippines,2024,44.7
+Philippines,2025,44.8
+Philippines,2026,44.3
+Philippines,2027,45.0
+Philippines,2028,45.8
+Philippines,2029,44.4
+Philippines,2030,44.7
+Philippines,2031,45.0
+Philippines,2032,45.4
+Philippines,2033,44.4
+Poland,2004,54.7
+Poland,2005,55.0
+Poland,2006,55.4
+Poland,2007,55.4
+Poland,2008,55.3
+Poland,2009,54.9
+Poland,2010,55.5
+Poland,2011,55.6
+Poland,2012,54.6
+Poland,2013,54.9
+Poland,2014,55.0
+Poland,2015,55.0
+Poland,2016,55.0
+Poland,2017,54.9
+Poland,2018,54.8
+Poland,2019,54.3
+Poland,2020,55.0
+Poland,2021,55.7
+Poland,2022,54.9
+Poland,2023,54.4
+Poland,2024,54.7
+Poland,2025,54.5
+Poland,2026,54.6
+Poland,2027,55.5
+Poland,2028,55.2
+Poland,2029,55.4
+Poland,2030,55.0
+Poland,2031,55.3
+Poland,2032,55.1
+Poland,2033,54.8
+Portugal,2004,56.6
+Portugal,2005,57.8
+Portugal,2006,57.4
+Portugal,2007,57.1
+Portugal,2008,57.6
+Portugal,2009,54.7
+Portugal,2010,58.0
+Portugal,2011,58.4
+Portugal,2012,55.0
+Portugal,2013,55.8
+Portugal,2014,58.4
+Portugal,2015,56.6
+Portugal,2016,55.0
+Portugal,2017,58.3
+Portugal,2018,56.6
+Portugal,2019,58.7
+Portugal,2020,56.7
+Portugal,2021,54.7
+Portugal,2022,58.0
+Portugal,2023,56.3
+Portugal,2024,56.4
+Portugal,2025,55.9
+Portugal,2026,57.0
+Portugal,2027,56.2
+Portugal,2028,56.1
+Portugal,2029,56.0
+Portugal,2030,56.8
+Portugal,2031,56.6
+Portugal,2032,58.4
+Portugal,2033,57.7
+Puerto Rico,2004,31.7
+Puerto Rico,2005,31.4
+Puerto Rico,2006,31.5
+Puerto Rico,2007,30.7
+Puerto Rico,2008,31.4
+Puerto Rico,2009,30.8
+Puerto Rico,2010,31.4
+Puerto Rico,2011,31.6
+Puerto Rico,2012,32.1
+Puerto Rico,2013,32.1
+Puerto Rico,2014,30.8
+Puerto Rico,2015,31.7
+Puerto Rico,2016,30.6
+Puerto Rico,2017,31.6
+Puerto Rico,2018,31.8
+Puerto Rico,2019,32.3
+Puerto Rico,2020,31.4
+Puerto Rico,2021,30.5
+Puerto Rico,2022,30.7
+Puerto Rico,2023,32.2
+Puerto Rico,2024,31.8
+Puerto Rico,2025,30.8
+Puerto Rico,2026,32.0
+Puerto Rico,2027,32.0
+Puerto Rico,2028,31.9
+Puerto Rico,2029,31.6
+Puerto Rico,2030,31.4
+Puerto Rico,2031,30.6
+Puerto Rico,2032,30.5
+Puerto Rico,2033,31.6
+Qatar,2004,45.9
+Qatar,2005,47.0
+Qatar,2006,46.8
+Qatar,2007,47.2
+Qatar,2008,47.8
+Qatar,2009,47.6
+Qatar,2010,46.2
+Qatar,2011,45.6
+Qatar,2012,46.8
+Qatar,2013,46.5
+Qatar,2014,48.4
+Qatar,2015,47.3
+Qatar,2016,45.9
+Qatar,2017,45.5
+Qatar,2018,48.4
+Qatar,2019,45.1
+Qatar,2020,46.9
+Qatar,2021,48.7
+Qatar,2022,46.0
+Qatar,2023,48.4
+Qatar,2024,45.4
+Qatar,2025,46.4
+Qatar,2026,46.1
+Qatar,2027,47.5
+Qatar,2028,47.1
+Qatar,2029,46.9
+Qatar,2030,47.7
+Qatar,2031,47.1
+Qatar,2032,47.2
+Qatar,2033,47.4
+Romania,2004,45.6
+Romania,2005,45.6
+Romania,2006,45.5
+Romania,2007,45.6
+Romania,2008,45.5
+Romania,2009,45.5
+Romania,2010,45.7
+Romania,2011,45.6
+Romania,2012,45.6
+Romania,2013,45.6
+Romania,2014,45.6
+Romania,2015,45.6
+Romania,2016,45.6
+Romania,2017,45.6
+Romania,2018,45.5
+Romania,2019,45.5
+Romania,2020,45.6
+Romania,2021,45.7
+Romania,2022,45.5
+Romania,2023,45.6
+Romania,2024,45.6
+Romania,2025,45.6
+Romania,2026,45.6
+Romania,2027,45.5
+Romania,2028,45.7
+Romania,2029,45.6
+Romania,2030,45.5
+Romania,2031,45.6
+Romania,2032,45.5
+Romania,2033,45.6
+Russia,2004,47.5
+Russia,2005,48.8
+Russia,2006,48.6
+Russia,2007,48.5
+Russia,2008,48.4
+Russia,2009,48.6
+Russia,2010,47.3
+Russia,2011,48.3
+Russia,2012,48.5
+Russia,2013,47.4
+Russia,2014,48.2
+Russia,2015,48.5
+Russia,2016,48.9
+Russia,2017,48.8
+Russia,2018,48.6
+Russia,2019,47.1
+Russia,2020,48.1
+Russia,2021,49.1
+Russia,2022,47.5
+Russia,2023,48.0
+Russia,2024,47.9
+Russia,2025,47.8
+Russia,2026,48.8
+Russia,2027,48.7
+Russia,2028,48.6
+Russia,2029,49.0
+Russia,2030,47.3
+Russia,2031,48.2
+Russia,2032,48.0
+Russia,2033,49.0
+Rwanda,2004,31.1
+Rwanda,2005,31.8
+Rwanda,2006,31.7
+Rwanda,2007,31.8
+Rwanda,2008,31.6
+Rwanda,2009,32.6
+Rwanda,2010,31.4
+Rwanda,2011,31.7
+Rwanda,2012,32.4
+Rwanda,2013,31.7
+Rwanda,2014,32.2
+Rwanda,2015,32.6
+Rwanda,2016,31.2
+Rwanda,2017,31.6
+Rwanda,2018,32.2
+Rwanda,2019,31.1
+Rwanda,2020,32.1
+Rwanda,2021,33.1
+Rwanda,2022,32.9
+Rwanda,2023,32.5
+Rwanda,2024,31.9
+Rwanda,2025,30.9
+Rwanda,2026,33.0
+Rwanda,2027,31.8
+Rwanda,2028,32.2
+Rwanda,2029,31.2
+Rwanda,2030,31.7
+Rwanda,2031,32.4
+Rwanda,2032,32.3
+Rwanda,2033,33.0
+San Marino,2004,32.9
+San Marino,2005,32.6
+San Marino,2006,32.8
+San Marino,2007,32.5
+San Marino,2008,32.5
+San Marino,2009,32.4
+San Marino,2010,32.4
+San Marino,2011,32.9
+San Marino,2012,32.4
+San Marino,2013,32.6
+San Marino,2014,32.8
+San Marino,2015,32.6
+San Marino,2016,32.4
+San Marino,2017,32.4
+San Marino,2018,32.3
+San Marino,2019,32.2
+San Marino,2020,32.6
+San Marino,2021,32.9
+San Marino,2022,32.6
+San Marino,2023,32.8
+San Marino,2024,32.3
+San Marino,2025,32.4
+San Marino,2026,32.4
+San Marino,2027,32.8
+San Marino,2028,32.5
+San Marino,2029,32.5
+San Marino,2030,32.5
+San Marino,2031,32.2
+San Marino,2032,32.4
+San Marino,2033,32.7
+Saudi Arabia,2004,45.0
+Saudi Arabia,2005,44.9
+Saudi Arabia,2006,44.9
+Saudi Arabia,2007,45.0
+Saudi Arabia,2008,44.9
+Saudi Arabia,2009,44.9
+Saudi Arabia,2010,44.9
+Saudi Arabia,2011,44.9
+Saudi Arabia,2012,44.9
+Saudi Arabia,2013,44.9
+Saudi Arabia,2014,44.9
+Saudi Arabia,2015,44.9
+Saudi Arabia,2016,45.0
+Saudi Arabia,2017,45.0
+Saudi Arabia,2018,44.9
+Saudi Arabia,2019,45.0
+Saudi Arabia,2020,45.0
+Saudi Arabia,2021,44.9
+Saudi Arabia,2022,44.9
+Saudi Arabia,2023,44.9
+Saudi Arabia,2024,44.9
+Saudi Arabia,2025,44.9
+Saudi Arabia,2026,45.0
+Saudi Arabia,2027,44.9
+Saudi Arabia,2028,45.0
+Saudi Arabia,2029,44.9
+Saudi Arabia,2030,44.9
+Saudi Arabia,2031,45.0
+Saudi Arabia,2032,44.9
+Saudi Arabia,2033,44.9
+Senegal,2004,34.0
+Senegal,2005,33.6
+Senegal,2006,33.6
+Senegal,2007,35.0
+Senegal,2008,35.3
+Senegal,2009,32.9
+Senegal,2010,33.7
+Senegal,2011,33.9
+Senegal,2012,34.0
+Senegal,2013,35.3
+Senegal,2014,34.3
+Senegal,2015,35.1
+Senegal,2016,34.6
+Senegal,2017,35.0
+Senegal,2018,35.7
+Senegal,2019,35.9
+Senegal,2020,34.3
+Senegal,2021,32.8
+Senegal,2022,35.7
+Senegal,2023,34.8
+Senegal,2024,34.3
+Senegal,2025,33.6
+Senegal,2026,35.2
+Senegal,2027,34.6
+Senegal,2028,34.2
+Senegal,2029,33.8
+Senegal,2030,33.7
+Senegal,2031,35.3
+Senegal,2032,34.4
+Senegal,2033,33.0
+Serbia,2004,45.0
+Serbia,2005,45.0
+Serbia,2006,45.0
+Serbia,2007,45.0
+Serbia,2008,45.0
+Serbia,2009,45.0
+Serbia,2010,45.0
+Serbia,2011,45.0
+Serbia,2012,45.0
+Serbia,2013,45.0
+Serbia,2014,45.0
+Serbia,2015,45.0
+Serbia,2016,45.0
+Serbia,2017,45.0
+Serbia,2018,45.0
+Serbia,2019,45.0
+Serbia,2020,45.0
+Serbia,2021,45.0
+Serbia,2022,45.0
+Serbia,2023,45.0
+Serbia,2024,45.0
+Serbia,2025,45.0
+Serbia,2026,45.0
+Serbia,2027,45.0
+Serbia,2028,45.0
+Serbia,2029,45.0
+Serbia,2030,45.0
+Serbia,2031,45.0
+Serbia,2032,45.0
+Serbia,2033,45.0
+Sierra Leone,2004,34.1
+Sierra Leone,2005,32.8
+Sierra Leone,2006,34.0
+Sierra Leone,2007,33.1
+Sierra Leone,2008,33.1
+Sierra Leone,2009,33.3
+Sierra Leone,2010,32.9
+Sierra Leone,2011,33.1
+Sierra Leone,2012,33.5
+Sierra Leone,2013,33.2
+Sierra Leone,2014,34.0
+Sierra Leone,2015,34.0
+Sierra Leone,2016,33.9
+Sierra Leone,2017,33.7
+Sierra Leone,2018,34.0
+Sierra Leone,2019,34.1
+Sierra Leone,2020,33.4
+Sierra Leone,2021,32.7
+Sierra Leone,2022,33.1
+Sierra Leone,2023,34.0
+Sierra Leone,2024,32.9
+Sierra Leone,2025,33.5
+Sierra Leone,2026,33.4
+Sierra Leone,2027,33.5
+Sierra Leone,2028,33.2
+Sierra Leone,2029,33.7
+Sierra Leone,2030,33.3
+Sierra Leone,2031,34.2
+Sierra Leone,2032,33.7
+Sierra Leone,2033,33.5
+Singapore,2004,56.9
+Singapore,2005,56.2
+Singapore,2006,56.6
+Singapore,2007,56.5
+Singapore,2008,56.7
+Singapore,2009,56.7
+Singapore,2010,55.8
+Singapore,2011,57.1
+Singapore,2012,57.0
+Singapore,2013,56.2
+Singapore,2014,56.5
+Singapore,2015,55.9
+Singapore,2016,57.0
+Singapore,2017,57.3
+Singapore,2018,56.7
+Singapore,2019,55.8
+Singapore,2020,56.6
+Singapore,2021,57.4
+Singapore,2022,57.1
+Singapore,2023,57.0
+Singapore,2024,56.1
+Singapore,2025,56.6
+Singapore,2026,57.0
+Singapore,2027,56.8
+Singapore,2028,57.2
+Singapore,2029,56.6
+Singapore,2030,56.2
+Singapore,2031,57.3
+Singapore,2032,56.7
+Singapore,2033,56.5
+Slovakia,2004,52.8
+Slovakia,2005,52.1
+Slovakia,2006,54.4
+Slovakia,2007,53.6
+Slovakia,2008,52.5
+Slovakia,2009,53.1
+Slovakia,2010,53.2
+Slovakia,2011,52.3
+Slovakia,2012,53.6
+Slovakia,2013,54.1
+Slovakia,2014,53.0
+Slovakia,2015,52.5
+Slovakia,2016,53.5
+Slovakia,2017,54.0
+Slovakia,2018,53.0
+Slovakia,2019,52.0
+Slovakia,2020,53.2
+Slovakia,2021,54.4
+Slovakia,2022,52.5
+Slovakia,2023,53.7
+Slovakia,2024,53.0
+Slovakia,2025,53.7
+Slovakia,2026,52.8
+Slovakia,2027,52.7
+Slovakia,2028,52.9
+Slovakia,2029,53.8
+Slovakia,2030,52.5
+Slovakia,2031,53.3
+Slovakia,2032,53.8
+Slovakia,2033,53.7
+Slovenia,2004,68.5
+Slovenia,2005,68.3
+Slovenia,2006,68.3
+Slovenia,2007,67.8
+Slovenia,2008,68.1
+Slovenia,2009,68.3
+Slovenia,2010,68.6
+Slovenia,2011,68.5
+Slovenia,2012,68.3
+Slovenia,2013,68.3
+Slovenia,2014,67.8
+Slovenia,2015,68.5
+Slovenia,2016,68.3
+Slovenia,2017,68.3
+Slovenia,2018,68.1
+Slovenia,2019,68.6
+Slovenia,2020,68.2
+Slovenia,2021,67.8
+Slovenia,2022,68.2
+Slovenia,2023,68.3
+Slovenia,2024,68.5
+Slovenia,2025,68.3
+Slovenia,2026,68.1
+Slovenia,2027,68.0
+Slovenia,2028,68.0
+Slovenia,2029,68.4
+Slovenia,2030,68.1
+Slovenia,2031,68.0
+Slovenia,2032,68.1
+Slovenia,2033,68.1
+Somalia,2004,16.4
+Somalia,2005,16.3
+Somalia,2006,17.3
+Somalia,2007,17.9
+Somalia,2008,16.4
+Somalia,2009,16.9
+Somalia,2010,16.6
+Somalia,2011,16.6
+Somalia,2012,17.2
+Somalia,2013,17.6
+Somalia,2014,16.4
+Somalia,2015,17.2
+Somalia,2016,17.4
+Somalia,2017,16.1
+Somalia,2018,17.6
+Somalia,2019,17.9
+Somalia,2020,17.0
+Somalia,2021,16.0
+Somalia,2022,17.3
+Somalia,2023,16.7
+Somalia,2024,17.0
+Somalia,2025,16.4
+Somalia,2026,17.5
+Somalia,2027,17.9
+Somalia,2028,17.5
+Somalia,2029,16.4
+Somalia,2030,17.4
+Somalia,2031,16.9
+Somalia,2032,17.6
+Somalia,2033,17.1
+South Africa,2004,47.4
+South Africa,2005,45.9
+South Africa,2006,46.9
+South Africa,2007,46.2
+South Africa,2008,46.3
+South Africa,2009,46.9
+South Africa,2010,46.9
+South Africa,2011,47.0
+South Africa,2012,47.1
+South Africa,2013,46.2
+South Africa,2014,46.0
+South Africa,2015,46.2
+South Africa,2016,46.6
+South Africa,2017,46.2
+South Africa,2018,47.1
+South Africa,2019,47.5
+South Africa,2020,46.7
+South Africa,2021,45.8
+South Africa,2022,46.6
+South Africa,2023,47.1
+South Africa,2024,46.7
+South Africa,2025,46.4
+South Africa,2026,46.8
+South Africa,2027,47.2
+South Africa,2028,46.2
+South Africa,2029,46.5
+South Africa,2030,46.9
+South Africa,2031,46.3
+South Africa,2032,46.9
+South Africa,2033,46.7
+South Korea,2004,65.6
+South Korea,2005,65.9
+South Korea,2006,65.7
+South Korea,2007,65.7
+South Korea,2008,65.6
+South Korea,2009,65.8
+South Korea,2010,65.5
+South Korea,2011,65.7
+South Korea,2012,65.5
+South Korea,2013,65.9
+South Korea,2014,65.7
+South Korea,2015,65.7
+South Korea,2016,65.8
+South Korea,2017,65.6
+South Korea,2018,65.5
+South Korea,2019,65.9
+South Korea,2020,65.7
+South Korea,2021,65.4
+South Korea,2022,65.7
+South Korea,2023,65.6
+South Korea,2024,65.6
+South Korea,2025,65.8
+South Korea,2026,65.5
+South Korea,2027,65.5
+South Korea,2028,65.6
+South Korea,2029,65.6
+South Korea,2030,65.9
+South Korea,2031,65.7
+South Korea,2032,65.6
+South Korea,2033,65.9
+South Sudan,2004,21.5
+South Sudan,2005,21.5
+South Sudan,2006,21.6
+South Sudan,2007,21.4
+South Sudan,2008,21.4
+South Sudan,2009,21.4
+South Sudan,2010,21.4
+South Sudan,2011,21.3
+South Sudan,2012,21.4
+South Sudan,2013,21.5
+South Sudan,2014,21.4
+South Sudan,2015,21.4
+South Sudan,2016,21.6
+South Sudan,2017,21.5
+South Sudan,2018,21.4
+South Sudan,2019,21.6
+South Sudan,2020,21.5
+South Sudan,2021,21.3
+South Sudan,2022,21.4
+South Sudan,2023,21.4
+South Sudan,2024,21.3
+South Sudan,2025,21.4
+South Sudan,2026,21.4
+South Sudan,2027,21.5
+South Sudan,2028,21.3
+South Sudan,2029,21.6
+South Sudan,2030,21.4
+South Sudan,2031,21.4
+South Sudan,2032,21.3
+South Sudan,2033,21.5
+Spain,2004,60.6
+Spain,2005,60.7
+Spain,2006,60.7
+Spain,2007,60.7
+Spain,2008,60.7
+Spain,2009,60.7
+Spain,2010,60.9
+Spain,2011,60.6
+Spain,2012,60.9
+Spain,2013,60.4
+Spain,2014,60.6
+Spain,2015,60.6
+Spain,2016,60.8
+Spain,2017,60.6
+Spain,2018,60.6
+Spain,2019,60.4
+Spain,2020,60.7
+Spain,2021,60.9
+Spain,2022,60.7
+Spain,2023,60.7
+Spain,2024,60.7
+Spain,2025,60.7
+Spain,2026,60.6
+Spain,2027,60.6
+Spain,2028,60.5
+Spain,2029,60.6
+Spain,2030,60.6
+Spain,2031,60.6
+Spain,2032,60.7
+Spain,2033,60.5
+Sri Lanka,2004,33.2
+Sri Lanka,2005,34.1
+Sri Lanka,2006,33.4
+Sri Lanka,2007,34.1
+Sri Lanka,2008,33.7
+Sri Lanka,2009,33.6
+Sri Lanka,2010,33.3
+Sri Lanka,2011,33.9
+Sri Lanka,2012,33.5
+Sri Lanka,2013,33.5
+Sri Lanka,2014,34.1
+Sri Lanka,2015,33.2
+Sri Lanka,2016,33.4
+Sri Lanka,2017,33.6
+Sri Lanka,2018,33.4
+Sri Lanka,2019,33.1
+Sri Lanka,2020,33.6
+Sri Lanka,2021,34.1
+Sri Lanka,2022,33.6
+Sri Lanka,2023,34.1
+Sri Lanka,2024,33.5
+Sri Lanka,2025,33.3
+Sri Lanka,2026,33.8
+Sri Lanka,2027,33.5
+Sri Lanka,2028,34.1
+Sri Lanka,2029,33.9
+Sri Lanka,2030,33.2
+Sri Lanka,2031,33.8
+Sri Lanka,2032,33.3
+Sri Lanka,2033,33.5
+Sudan,2004,28.4
+Sudan,2005,28.7
+Sudan,2006,30.0
+Sudan,2007,28.6
+Sudan,2008,29.6
+Sudan,2009,29.8
+Sudan,2010,28.6
+Sudan,2011,28.9
+Sudan,2012,28.8
+Sudan,2013,29.3
+Sudan,2014,29.5
+Sudan,2015,29.4
+Sudan,2016,29.2
+Sudan,2017,29.5
+Sudan,2018,29.2
+Sudan,2019,30.0
+Sudan,2020,29.2
+Sudan,2021,28.3
+Sudan,2022,29.9
+Sudan,2023,29.7
+Sudan,2024,29.5
+Sudan,2025,30.1
+Sudan,2026,29.6
+Sudan,2027,28.7
+Sudan,2028,29.4
+Sudan,2029,29.6
+Sudan,2030,28.7
+Sudan,2031,29.9
+Sudan,2032,29.5
+Sudan,2033,30.1
+Sweden,2004,65.7
+Sweden,2005,65.3
+Sweden,2006,66.0
+Sweden,2007,66.0
+Sweden,2008,66.0
+Sweden,2009,66.0
+Sweden,2010,66.0
+Sweden,2011,65.6
+Sweden,2012,66.2
+Sweden,2013,65.4
+Sweden,2014,65.1
+Sweden,2015,65.0
+Sweden,2016,65.2
+Sweden,2017,65.3
+Sweden,2018,65.8
+Sweden,2019,66.4
+Sweden,2020,65.7
+Sweden,2021,64.9
+Sweden,2022,66.2
+Sweden,2023,65.1
+Sweden,2024,65.8
+Sweden,2025,65.3
+Sweden,2026,65.4
+Sweden,2027,65.6
+Sweden,2028,65.3
+Sweden,2029,66.1
+Sweden,2030,65.4
+Sweden,2031,64.8
+Sweden,2032,65.7
+Sweden,2033,66.1
+Switzerland,2004,58.9
+Switzerland,2005,59.1
+Switzerland,2006,59.3
+Switzerland,2007,59.2
+Switzerland,2008,59.0
+Switzerland,2009,60.1
+Switzerland,2010,59.5
+Switzerland,2011,59.1
+Switzerland,2012,60.3
+Switzerland,2013,59.7
+Switzerland,2014,59.2
+Switzerland,2015,59.0
+Switzerland,2016,60.1
+Switzerland,2017,59.5
+Switzerland,2018,59.4
+Switzerland,2019,60.4
+Switzerland,2020,59.6
+Switzerland,2021,58.8
+Switzerland,2022,60.3
+Switzerland,2023,60.4
+Switzerland,2024,60.5
+Switzerland,2025,60.0
+Switzerland,2026,60.1
+Switzerland,2027,59.1
+Switzerland,2028,59.2
+Switzerland,2029,60.2
+Switzerland,2030,60.2
+Switzerland,2031,59.1
+Switzerland,2032,59.3
+Switzerland,2033,60.0
+Syrian Arab Republic,2004,18.1
+Syrian Arab Republic,2005,17.9
+Syrian Arab Republic,2006,17.8
+Syrian Arab Republic,2007,18.6
+Syrian Arab Republic,2008,17.9
+Syrian Arab Republic,2009,18.6
+Syrian Arab Republic,2010,18.5
+Syrian Arab Republic,2011,17.3
+Syrian Arab Republic,2012,18.0
+Syrian Arab Republic,2013,16.8
+Syrian Arab Republic,2014,17.0
+Syrian Arab Republic,2015,16.8
+Syrian Arab Republic,2016,17.3
+Syrian Arab Republic,2017,18.1
+Syrian Arab Republic,2018,16.9
+Syrian Arab Republic,2019,18.7
+Syrian Arab Republic,2020,17.7
+Syrian Arab Republic,2021,16.7
+Syrian Arab Republic,2022,18.0
+Syrian Arab Republic,2023,18.0
+Syrian Arab Republic,2024,17.5
+Syrian Arab Republic,2025,17.6
+Syrian Arab Republic,2026,16.7
+Syrian Arab Republic,2027,17.9
+Syrian Arab Republic,2028,17.8
+Syrian Arab Republic,2029,17.4
+Syrian Arab Republic,2030,17.9
+Syrian Arab Republic,2031,18.2
+Syrian Arab Republic,2032,17.6
+Syrian Arab Republic,2033,17.5
+Tajikistan,2004,29.8
+Tajikistan,2005,29.8
+Tajikistan,2006,29.4
+Tajikistan,2007,29.8
+Tajikistan,2008,29.4
+Tajikistan,2009,29.4
+Tajikistan,2010,29.5
+Tajikistan,2011,29.7
+Tajikistan,2012,29.8
+Tajikistan,2013,29.8
+Tajikistan,2014,29.4
+Tajikistan,2015,29.5
+Tajikistan,2016,29.5
+Tajikistan,2017,29.7
+Tajikistan,2018,29.3
+Tajikistan,2019,29.8
+Tajikistan,2020,29.6
+Tajikistan,2021,29.3
+Tajikistan,2022,29.5
+Tajikistan,2023,29.4
+Tajikistan,2024,29.4
+Tajikistan,2025,29.6
+Tajikistan,2026,29.8
+Tajikistan,2027,29.6
+Tajikistan,2028,29.4
+Tajikistan,2029,29.3
+Tajikistan,2030,29.6
+Tajikistan,2031,29.7
+Tajikistan,2032,29.6
+Tajikistan,2033,29.5
+Tanzania,2004,31.9
+Tanzania,2005,31.4
+Tanzania,2006,32.0
+Tanzania,2007,31.6
+Tanzania,2008,31.7
+Tanzania,2009,31.7
+Tanzania,2010,31.9
+Tanzania,2011,32.2
+Tanzania,2012,32.2
+Tanzania,2013,31.5
+Tanzania,2014,31.9
+Tanzania,2015,31.3
+Tanzania,2016,31.4
+Tanzania,2017,32.1
+Tanzania,2018,32.1
+Tanzania,2019,32.2
+Tanzania,2020,31.8
+Tanzania,2021,31.3
+Tanzania,2022,31.5
+Tanzania,2023,32.1
+Tanzania,2024,31.5
+Tanzania,2025,32.4
+Tanzania,2026,32.3
+Tanzania,2027,31.3
+Tanzania,2028,31.9
+Tanzania,2029,31.7
+Tanzania,2030,32.2
+Tanzania,2031,31.7
+Tanzania,2032,31.5
+Tanzania,2033,31.7
+Thailand,2004,68.5
+Thailand,2005,68.7
+Thailand,2006,68.6
+Thailand,2007,68.7
+Thailand,2008,68.3
+Thailand,2009,68.4
+Thailand,2010,68.6
+Thailand,2011,68.3
+Thailand,2012,68.3
+Thailand,2013,68.6
+Thailand,2014,68.7
+Thailand,2015,68.6
+Thailand,2016,68.3
+Thailand,2017,68.6
+Thailand,2018,68.5
+Thailand,2019,68.9
+Thailand,2020,68.6
+Thailand,2021,68.2
+Thailand,2022,68.4
+Thailand,2023,68.6
+Thailand,2024,68.2
+Thailand,2025,68.3
+Thailand,2026,68.5
+Thailand,2027,68.6
+Thailand,2028,68.8
+Thailand,2029,68.6
+Thailand,2030,68.7
+Thailand,2031,68.6
+Thailand,2032,68.4
+Thailand,2033,68.6
+The Bahamas,2004,30.0
+The Bahamas,2005,29.7
+The Bahamas,2006,30.0
+The Bahamas,2007,29.9
+The Bahamas,2008,29.7
+The Bahamas,2009,29.6
+The Bahamas,2010,30.0
+The Bahamas,2011,30.1
+The Bahamas,2012,29.7
+The Bahamas,2013,29.9
+The Bahamas,2014,29.6
+The Bahamas,2015,29.9
+The Bahamas,2016,30.1
+The Bahamas,2017,30.0
+The Bahamas,2018,29.8
+The Bahamas,2019,29.6
+The Bahamas,2020,29.9
+The Bahamas,2021,30.1
+The Bahamas,2022,29.9
+The Bahamas,2023,29.9
+The Bahamas,2024,29.8
+The Bahamas,2025,29.7
+The Bahamas,2026,29.9
+The Bahamas,2027,29.9
+The Bahamas,2028,29.8
+The Bahamas,2029,29.8
+The Bahamas,2030,30.0
+The Bahamas,2031,29.9
+The Bahamas,2032,29.9
+The Bahamas,2033,29.7
+Timor-Leste,2004,26.8
+Timor-Leste,2005,26.1
+Timor-Leste,2006,25.2
+Timor-Leste,2007,24.8
+Timor-Leste,2008,25.9
+Timor-Leste,2009,27.5
+Timor-Leste,2010,27.7
+Timor-Leste,2011,25.1
+Timor-Leste,2012,25.1
+Timor-Leste,2013,25.0
+Timor-Leste,2014,26.4
+Timor-Leste,2015,25.4
+Timor-Leste,2016,26.8
+Timor-Leste,2017,24.9
+Timor-Leste,2018,27.7
+Timor-Leste,2019,24.2
+Timor-Leste,2020,26.0
+Timor-Leste,2021,27.8
+Timor-Leste,2022,25.2
+Timor-Leste,2023,25.1
+Timor-Leste,2024,24.0
+Timor-Leste,2025,24.8
+Timor-Leste,2026,24.0
+Timor-Leste,2027,25.9
+Timor-Leste,2028,24.5
+Timor-Leste,2029,26.1
+Timor-Leste,2030,25.5
+Timor-Leste,2031,26.9
+Timor-Leste,2032,27.2
+Timor-Leste,2033,25.8
+Togo,2004,26.8
+Togo,2005,27.5
+Togo,2006,27.7
+Togo,2007,26.3
+Togo,2008,26.3
+Togo,2009,26.7
+Togo,2010,26.1
+Togo,2011,26.8
+Togo,2012,26.6
+Togo,2013,26.2
+Togo,2014,27.3
+Togo,2015,27.2
+Togo,2016,26.7
+Togo,2017,26.6
+Togo,2018,26.2
+Togo,2019,26.1
+Togo,2020,27.0
+Togo,2021,27.8
+Togo,2022,26.5
+Togo,2023,27.1
+Togo,2024,27.1
+Togo,2025,25.9
+Togo,2026,26.6
+Togo,2027,27.5
+Togo,2028,26.5
+Togo,2029,26.2
+Togo,2030,26.3
+Togo,2031,27.3
+Togo,2032,26.9
+Togo,2033,27.0
+Tonga,2004,25.0
+Tonga,2005,25.7
+Tonga,2006,26.3
+Tonga,2007,25.3
+Tonga,2008,25.7
+Tonga,2009,25.6
+Tonga,2010,26.4
+Tonga,2011,24.8
+Tonga,2012,25.7
+Tonga,2013,24.7
+Tonga,2014,25.3
+Tonga,2015,25.1
+Tonga,2016,25.7
+Tonga,2017,26.0
+Tonga,2018,24.5
+Tonga,2019,24.5
+Tonga,2020,25.5
+Tonga,2021,26.4
+Tonga,2022,26.2
+Tonga,2023,26.4
+Tonga,2024,25.6
+Tonga,2025,25.9
+Tonga,2026,24.5
+Tonga,2027,24.8
+Tonga,2028,25.8
+Tonga,2029,25.8
+Tonga,2030,25.7
+Tonga,2031,26.2
+Tonga,2032,26.0
+Tonga,2033,25.1
+Trinidad and Tobago,2004,37.3
+Trinidad and Tobago,2005,36.9
+Trinidad and Tobago,2006,37.4
+Trinidad and Tobago,2007,37.2
+Trinidad and Tobago,2008,37.0
+Trinidad and Tobago,2009,37.0
+Trinidad and Tobago,2010,37.3
+Trinidad and Tobago,2011,37.0
+Trinidad and Tobago,2012,36.9
+Trinidad and Tobago,2013,37.6
+Trinidad and Tobago,2014,37.4
+Trinidad and Tobago,2015,37.3
+Trinidad and Tobago,2016,37.7
+Trinidad and Tobago,2017,37.6
+Trinidad and Tobago,2018,36.8
+Trinidad and Tobago,2019,37.7
+Trinidad and Tobago,2020,37.3
+Trinidad and Tobago,2021,36.8
+Trinidad and Tobago,2022,37.2
+Trinidad and Tobago,2023,37.2
+Trinidad and Tobago,2024,37.4
+Trinidad and Tobago,2025,37.0
+Trinidad and Tobago,2026,37.3
+Trinidad and Tobago,2027,37.3
+Trinidad and Tobago,2028,36.9
+Trinidad and Tobago,2029,37.1
+Trinidad and Tobago,2030,37.7
+Trinidad and Tobago,2031,37.1
+Trinidad and Tobago,2032,37.0
+Trinidad and Tobago,2033,37.6
+Tunisia,2004,32.0
+Tunisia,2005,31.8
+Tunisia,2006,31.8
+Tunisia,2007,31.6
+Tunisia,2008,31.8
+Tunisia,2009,31.9
+Tunisia,2010,31.5
+Tunisia,2011,31.6
+Tunisia,2012,31.9
+Tunisia,2013,31.7
+Tunisia,2014,32.0
+Tunisia,2015,32.0
+Tunisia,2016,31.8
+Tunisia,2017,32.0
+Tunisia,2018,31.9
+Tunisia,2019,32.1
+Tunisia,2020,31.8
+Tunisia,2021,31.5
+Tunisia,2022,31.5
+Tunisia,2023,31.6
+Tunisia,2024,31.9
+Tunisia,2025,31.8
+Tunisia,2026,32.0
+Tunisia,2027,31.7
+Tunisia,2028,31.5
+Tunisia,2029,32.1
+Tunisia,2030,31.6
+Tunisia,2031,31.9
+Tunisia,2032,32.0
+Tunisia,2033,31.7
+Turkey,2004,49.9
+Turkey,2005,49.9
+Turkey,2006,49.8
+Turkey,2007,49.9
+Turkey,2008,49.8
+Turkey,2009,49.9
+Turkey,2010,49.9
+Turkey,2011,50.0
+Turkey,2012,49.9
+Turkey,2013,49.9
+Turkey,2014,49.9
+Turkey,2015,49.9
+Turkey,2016,50.0
+Turkey,2017,49.9
+Turkey,2018,49.9
+Turkey,2019,49.8
+Turkey,2020,49.9
+Turkey,2021,50.0
+Turkey,2022,49.8
+Turkey,2023,49.9
+Turkey,2024,49.8
+Turkey,2025,49.9
+Turkey,2026,50.0
+Turkey,2027,49.9
+Turkey,2028,49.9
+Turkey,2029,49.9
+Turkey,2030,49.9
+Turkey,2031,49.9
+Turkey,2032,49.9
+Turkey,2033,49.9
+Uganda,2004,37.8
+Uganda,2005,37.6
+Uganda,2006,37.2
+Uganda,2007,36.6
+Uganda,2008,38.5
+Uganda,2009,36.7
+Uganda,2010,37.9
+Uganda,2011,39.0
+Uganda,2012,37.2
+Uganda,2013,38.9
+Uganda,2014,38.8
+Uganda,2015,37.0
+Uganda,2016,38.0
+Uganda,2017,38.5
+Uganda,2018,38.2
+Uganda,2019,39.0
+Uganda,2020,37.8
+Uganda,2021,36.5
+Uganda,2022,36.6
+Uganda,2023,38.1
+Uganda,2024,37.5
+Uganda,2025,38.1
+Uganda,2026,36.6
+Uganda,2027,37.4
+Uganda,2028,36.8
+Uganda,2029,36.9
+Uganda,2030,36.8
+Uganda,2031,37.5
+Uganda,2032,36.5
+Uganda,2033,38.2
+Ukraine,2004,37.0
+Ukraine,2005,38.6
+Ukraine,2006,37.4
+Ukraine,2007,37.5
+Ukraine,2008,38.2
+Ukraine,2009,38.8
+Ukraine,2010,38.8
+Ukraine,2011,38.5
+Ukraine,2012,38.7
+Ukraine,2013,37.3
+Ukraine,2014,37.0
+Ukraine,2015,38.7
+Ukraine,2016,38.6
+Ukraine,2017,38.6
+Ukraine,2018,37.9
+Ukraine,2019,36.9
+Ukraine,2020,37.9
+Ukraine,2021,38.9
+Ukraine,2022,37.4
+Ukraine,2023,37.6
+Ukraine,2024,36.9
+Ukraine,2025,38.9
+Ukraine,2026,38.2
+Ukraine,2027,37.8
+Ukraine,2028,36.8
+Ukraine,2029,37.7
+Ukraine,2030,36.8
+Ukraine,2031,37.6
+Ukraine,2032,38.6
+Ukraine,2033,37.4
+United Arab Emirates,2004,39.9
+United Arab Emirates,2005,40.0
+United Arab Emirates,2006,40.1
+United Arab Emirates,2007,39.8
+United Arab Emirates,2008,39.8
+United Arab Emirates,2009,39.9
+United Arab Emirates,2010,39.8
+United Arab Emirates,2011,39.9
+United Arab Emirates,2012,40.0
+United Arab Emirates,2013,39.7
+United Arab Emirates,2014,39.8
+United Arab Emirates,2015,39.9
+United Arab Emirates,2016,39.7
+United Arab Emirates,2017,39.9
+United Arab Emirates,2018,39.7
+United Arab Emirates,2019,40.1
+United Arab Emirates,2020,39.9
+United Arab Emirates,2021,39.6
+United Arab Emirates,2022,40.0
+United Arab Emirates,2023,40.1
+United Arab Emirates,2024,40.1
+United Arab Emirates,2025,40.0
+United Arab Emirates,2026,40.0
+United Arab Emirates,2027,39.7
+United Arab Emirates,2028,39.8
+United Arab Emirates,2029,40.0
+United Arab Emirates,2030,40.0
+United Arab Emirates,2031,40.1
+United Arab Emirates,2032,39.9
+United Arab Emirates,2033,39.8
+United Kingdom,2004,67.9
+United Kingdom,2005,68.3
+United Kingdom,2006,67.7
+United Kingdom,2007,67.3
+United Kingdom,2008,68.1
+United Kingdom,2009,67.7
+United Kingdom,2010,67.9
+United Kingdom,2011,68.1
+United Kingdom,2012,67.7
+United Kingdom,2013,68.1
+United Kingdom,2014,67.6
+United Kingdom,2015,68.1
+United Kingdom,2016,68.1
+United Kingdom,2017,67.9
+United Kingdom,2018,67.8
+United Kingdom,2019,68.3
+United Kingdom,2020,67.8
+United Kingdom,2021,67.2
+United Kingdom,2022,67.6
+United Kingdom,2023,67.6
+United Kingdom,2024,68.0
+United Kingdom,2025,67.8
+United Kingdom,2026,68.0
+United Kingdom,2027,67.9
+United Kingdom,2028,67.4
+United Kingdom,2029,67.8
+United Kingdom,2030,67.7
+United Kingdom,2031,67.7
+United Kingdom,2032,68.1
+United Kingdom,2033,67.8
+United States,2004,76.0
+United States,2005,76.2
+United States,2006,76.2
+United States,2007,76.2
+United States,2008,76.1
+United States,2009,76.2
+United States,2010,76.0
+United States,2011,75.9
+United States,2012,76.1
+United States,2013,76.0
+United States,2014,76.1
+United States,2015,76.1
+United States,2016,76.1
+United States,2017,76.1
+United States,2018,75.9
+United States,2019,76.2
+United States,2020,76.1
+United States,2021,75.9
+United States,2022,76.2
+United States,2023,76.1
+United States,2024,76.2
+United States,2025,76.1
+United States,2026,76.1
+United States,2027,76.1
+United States,2028,76.0
+United States,2029,76.1
+United States,2030,76.2
+United States,2031,76.1
+United States,2032,76.2
+United States,2033,76.1
+Uruguay,2004,40.0
+Uruguay,2005,39.9
+Uruguay,2006,39.2
+Uruguay,2007,39.4
+Uruguay,2008,39.6
+Uruguay,2009,39.3
+Uruguay,2010,39.8
+Uruguay,2011,39.2
+Uruguay,2012,39.9
+Uruguay,2013,39.9
+Uruguay,2014,39.2
+Uruguay,2015,39.3
+Uruguay,2016,39.2
+Uruguay,2017,40.1
+Uruguay,2018,40.2
+Uruguay,2019,39.1
+Uruguay,2020,39.7
+Uruguay,2021,40.3
+Uruguay,2022,40.0
+Uruguay,2023,39.3
+Uruguay,2024,39.4
+Uruguay,2025,39.3
+Uruguay,2026,40.3
+Uruguay,2027,39.5
+Uruguay,2028,39.3
+Uruguay,2029,40.0
+Uruguay,2030,39.8
+Uruguay,2031,39.8
+Uruguay,2032,39.0
+Uruguay,2033,40.0
+Vanuatu,2004,26.0
+Vanuatu,2005,27.0
+Vanuatu,2006,26.9
+Vanuatu,2007,26.7
+Vanuatu,2008,26.8
+Vanuatu,2009,26.1
+Vanuatu,2010,25.9
+Vanuatu,2011,25.9
+Vanuatu,2012,26.8
+Vanuatu,2013,26.3
+Vanuatu,2014,26.7
+Vanuatu,2015,26.2
+Vanuatu,2016,26.3
+Vanuatu,2017,26.9
+Vanuatu,2018,26.0
+Vanuatu,2019,27.0
+Vanuatu,2020,26.5
+Vanuatu,2021,25.9
+Vanuatu,2022,26.1
+Vanuatu,2023,26.5
+Vanuatu,2024,26.2
+Vanuatu,2025,26.6
+Vanuatu,2026,26.6
+Vanuatu,2027,25.7
+Vanuatu,2028,26.3
+Vanuatu,2029,26.2
+Vanuatu,2030,26.2
+Vanuatu,2031,26.5
+Vanuatu,2032,27.0
+Vanuatu,2033,26.9
+Venezuela,2004,21.0
+Venezuela,2005,21.2
+Venezuela,2006,21.3
+Venezuela,2007,20.9
+Venezuela,2008,21.1
+Venezuela,2009,21.2
+Venezuela,2010,20.9
+Venezuela,2011,21.2
+Venezuela,2012,20.9
+Venezuela,2013,21.2
+Venezuela,2014,21.0
+Venezuela,2015,21.4
+Venezuela,2016,21.1
+Venezuela,2017,21.0
+Venezuela,2018,21.0
+Venezuela,2019,21.4
+Venezuela,2020,21.2
+Venezuela,2021,20.9
+Venezuela,2022,20.9
+Venezuela,2023,21.4
+Venezuela,2024,21.0
+Venezuela,2025,20.9
+Venezuela,2026,21.3
+Venezuela,2027,21.0
+Venezuela,2028,20.9
+Venezuela,2029,20.9
+Venezuela,2030,20.9
+Venezuela,2031,21.1
+Venezuela,2032,20.9
+Venezuela,2033,21.0
+Viet Nam,2004,42.3
+Viet Nam,2005,42.2
+Viet Nam,2006,42.6
+Viet Nam,2007,42.7
+Viet Nam,2008,42.6
+Viet Nam,2009,42.5
+Viet Nam,2010,42.3
+Viet Nam,2011,42.8
+Viet Nam,2012,42.4
+Viet Nam,2013,42.8
+Viet Nam,2014,42.5
+Viet Nam,2015,42.3
+Viet Nam,2016,42.7
+Viet Nam,2017,42.8
+Viet Nam,2018,42.3
+Viet Nam,2019,42.2
+Viet Nam,2020,42.6
+Viet Nam,2021,42.9
+Viet Nam,2022,42.8
+Viet Nam,2023,42.3
+Viet Nam,2024,42.5
+Viet Nam,2025,42.6
+Viet Nam,2026,42.2
+Viet Nam,2027,42.5
+Viet Nam,2028,42.6
+Viet Nam,2029,42.1
+Viet Nam,2030,42.3
+Viet Nam,2031,42.7
+Viet Nam,2032,42.4
+Viet Nam,2033,42.8
+West Bank and Gaza,2004,18.1
+West Bank and Gaza,2005,17.9
+West Bank and Gaza,2006,17.0
+West Bank and Gaza,2007,17.1
+West Bank and Gaza,2008,18.6
+West Bank and Gaza,2009,18.4
+West Bank and Gaza,2010,18.1
+West Bank and Gaza,2011,16.8
+West Bank and Gaza,2012,17.5
+West Bank and Gaza,2013,17.6
+West Bank and Gaza,2014,17.3
+West Bank and Gaza,2015,18.6
+West Bank and Gaza,2016,17.8
+West Bank and Gaza,2017,17.1
+West Bank and Gaza,2018,18.1
+West Bank and Gaza,2019,18.7
+West Bank and Gaza,2020,17.7
+West Bank and Gaza,2021,16.7
+West Bank and Gaza,2022,17.5
+West Bank and Gaza,2023,18.6
+West Bank and Gaza,2024,17.8
+West Bank and Gaza,2025,17.7
+West Bank and Gaza,2026,17.3
+West Bank and Gaza,2027,17.9
+West Bank and Gaza,2028,17.6
+West Bank and Gaza,2029,18.8
+West Bank and Gaza,2030,18.4
+West Bank and Gaza,2031,17.6
+West Bank and Gaza,2032,17.4
+West Bank and Gaza,2033,18.7
+Yemen,2004,18.0
+Yemen,2005,17.0
+Yemen,2006,16.8
+Yemen,2007,18.8
+Yemen,2008,16.3
+Yemen,2009,17.5
+Yemen,2010,19.1
+Yemen,2011,18.3
+Yemen,2012,19.6
+Yemen,2013,17.8
+Yemen,2014,16.3
+Yemen,2015,18.1
+Yemen,2016,19.8
+Yemen,2017,16.5
+Yemen,2018,18.0
+Yemen,2019,19.9
+Yemen,2020,18.0
+Yemen,2021,16.1
+Yemen,2022,19.2
+Yemen,2023,18.1
+Yemen,2024,18.2
+Yemen,2025,16.6
+Yemen,2026,19.0
+Yemen,2027,17.6
+Yemen,2028,17.8
+Yemen,2029,17.7
+Yemen,2030,16.9
+Yemen,2031,19.8
+Yemen,2032,18.1
+Yemen,2033,17.6
+Zambia,2004,26.9
+Zambia,2005,27.6
+Zambia,2006,27.8
+Zambia,2007,27.8
+Zambia,2008,26.7
+Zambia,2009,27.7
+Zambia,2010,27.7
+Zambia,2011,27.8
+Zambia,2012,27.5
+Zambia,2013,27.0
+Zambia,2014,26.8
+Zambia,2015,28.0
+Zambia,2016,27.4
+Zambia,2017,28.0
+Zambia,2018,27.7
+Zambia,2019,28.0
+Zambia,2020,27.3
+Zambia,2021,26.5
+Zambia,2022,27.8
+Zambia,2023,26.6
+Zambia,2024,27.5
+Zambia,2025,27.1
+Zambia,2026,27.1
+Zambia,2027,27.2
+Zambia,2028,27.0
+Zambia,2029,27.6
+Zambia,2030,27.3
+Zambia,2031,27.2
+Zambia,2032,28.1
+Zambia,2033,27.3
+Zimbabwe,2004,32.5
+Zimbabwe,2005,33.4
+Zimbabwe,2006,32.7
+Zimbabwe,2007,32.5
+Zimbabwe,2008,32.7
+Zimbabwe,2009,33.0
+Zimbabwe,2010,32.6
+Zimbabwe,2011,33.1
+Zimbabwe,2012,32.7
+Zimbabwe,2013,32.9
+Zimbabwe,2014,33.2
+Zimbabwe,2015,33.1
+Zimbabwe,2016,33.2
+Zimbabwe,2017,33.1
+Zimbabwe,2018,33.1
+Zimbabwe,2019,33.4
+Zimbabwe,2020,32.9
+Zimbabwe,2021,32.4
+Zimbabwe,2022,32.7
+Zimbabwe,2023,32.9
+Zimbabwe,2024,33.2
+Zimbabwe,2025,32.4
+Zimbabwe,2026,32.7
+Zimbabwe,2027,32.6
+Zimbabwe,2028,33.1
+Zimbabwe,2029,33.2
+Zimbabwe,2030,32.8
+Zimbabwe,2031,32.9
+Zimbabwe,2032,32.5
+Zimbabwe,2033,32.9

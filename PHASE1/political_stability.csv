@@ -1,0 +1,5071 @@
+country_name,year,political_stability
+Afghanistan,2004,-2.3
+Afghanistan,2005,-2.07
+Afghanistan,2006,-2.22
+Afghanistan,2007,-2.41
+Afghanistan,2008,-2.69
+Afghanistan,2009,-2.71
+Afghanistan,2010,-2.58
+Afghanistan,2011,-2.5
+Afghanistan,2012,-2.42
+Afghanistan,2013,-2.52
+Afghanistan,2014,-2.41
+Afghanistan,2015,-2.56
+Afghanistan,2016,-2.66
+Afghanistan,2017,-2.79
+Afghanistan,2018,-2.75
+Afghanistan,2019,-2.65
+Afghanistan,2020,-2.7
+Afghanistan,2021,-2.52
+Afghanistan,2022,-2.54
+Afghanistan,2023,-2.48
+Afghanistan,2024,-2.37
+Afghanistan,2025,-2.51
+Afghanistan,2026,-2.36
+Afghanistan,2027,-2.47
+Afghanistan,2028,-2.38
+Afghanistan,2029,-2.57
+Afghanistan,2030,-2.76
+Afghanistan,2031,-2.66
+Afghanistan,2032,-2.35
+Afghanistan,2033,-2.81
+Albania,2004,-0.43
+Albania,2005,-0.51
+Albania,2006,-0.51
+Albania,2007,-0.2
+Albania,2008,-0.03
+Albania,2009,-0.05
+Albania,2010,-0.19
+Albania,2011,-0.28
+Albania,2012,-0.14
+Albania,2013,0.09
+Albania,2014,0.49
+Albania,2015,0.34
+Albania,2016,0.34
+Albania,2017,0.37
+Albania,2018,0.37
+Albania,2019,0.11
+Albania,2020,0.09
+Albania,2021,0.2
+Albania,2022,0.11
+Albania,2023,0.18
+Albania,2024,0.41
+Albania,2025,-0.11
+Albania,2026,-0.08
+Albania,2027,-0.12
+Albania,2028,-0.0
+Albania,2029,0.25
+Albania,2030,0.1
+Albania,2031,0.02
+Albania,2032,-0.2
+Albania,2033,-0.04
+Algeria,2004,-1.36
+Algeria,2005,-0.91
+Algeria,2006,-1.13
+Algeria,2007,-1.15
+Algeria,2008,-1.1
+Algeria,2009,-1.2
+Algeria,2010,-1.26
+Algeria,2011,-1.36
+Algeria,2012,-1.33
+Algeria,2013,-1.2
+Algeria,2014,-1.19
+Algeria,2015,-1.09
+Algeria,2016,-1.1
+Algeria,2017,-0.92
+Algeria,2018,-0.84
+Algeria,2019,-1.06
+Algeria,2020,-0.85
+Algeria,2021,-0.99
+Algeria,2022,-0.65
+Algeria,2023,-0.58
+Algeria,2024,-0.99
+Algeria,2025,-0.9
+Algeria,2026,-1.16
+Algeria,2027,-0.88
+Algeria,2028,-1.25
+Algeria,2029,-0.99
+Algeria,2030,-0.91
+Algeria,2031,-1.23
+Algeria,2032,-1.32
+Algeria,2033,-0.84
+Andorra,2004,1.4
+Andorra,2005,1.38
+Andorra,2006,1.35
+Andorra,2007,1.34
+Andorra,2008,1.34
+Andorra,2009,1.3
+Andorra,2010,1.28
+Andorra,2011,1.3
+Andorra,2012,1.29
+Andorra,2013,1.28
+Andorra,2014,1.29
+Andorra,2015,1.37
+Andorra,2016,1.38
+Andorra,2017,1.39
+Andorra,2018,1.39
+Andorra,2019,1.58
+Andorra,2020,1.59
+Andorra,2021,1.58
+Andorra,2022,1.59
+Andorra,2023,1.58
+Andorra,2024,1.55
+Andorra,2025,1.24
+Andorra,2026,1.28
+Andorra,2027,1.53
+Andorra,2028,1.52
+Andorra,2029,1.47
+Andorra,2030,1.5
+Andorra,2031,1.49
+Andorra,2032,1.36
+Andorra,2033,1.42
+Angola,2004,-1.06
+Angola,2005,-0.89
+Angola,2006,-0.54
+Angola,2007,-0.67
+Angola,2008,-0.36
+Angola,2009,-0.35
+Angola,2010,-0.23
+Angola,2011,-0.37
+Angola,2012,-0.39
+Angola,2013,-0.39
+Angola,2014,-0.33
+Angola,2015,-0.51
+Angola,2016,-0.32
+Angola,2017,-0.39
+Angola,2018,-0.35
+Angola,2019,-0.37
+Angola,2020,-0.6
+Angola,2021,-0.71
+Angola,2022,-0.63
+Angola,2023,-0.34
+Angola,2024,-0.56
+Angola,2025,-0.76
+Angola,2026,-0.54
+Angola,2027,-0.19
+Angola,2028,-0.52
+Angola,2029,-0.55
+Angola,2030,-0.33
+Angola,2031,-0.3
+Angola,2032,-0.79
+Angola,2033,-0.1
+Antigua & Barbuda,2004,1.08
+Antigua & Barbuda,2005,0.83
+Antigua & Barbuda,2006,0.8
+Antigua & Barbuda,2007,0.8
+Antigua & Barbuda,2008,0.81
+Antigua & Barbuda,2009,0.72
+Antigua & Barbuda,2010,0.9
+Antigua & Barbuda,2011,0.96
+Antigua & Barbuda,2012,0.98
+Antigua & Barbuda,2013,0.96
+Antigua & Barbuda,2014,0.98
+Antigua & Barbuda,2015,0.99
+Antigua & Barbuda,2016,0.86
+Antigua & Barbuda,2017,0.73
+Antigua & Barbuda,2018,0.82
+Antigua & Barbuda,2019,0.94
+Antigua & Barbuda,2020,0.93
+Antigua & Barbuda,2021,0.95
+Antigua & Barbuda,2022,0.94
+Antigua & Barbuda,2023,0.92
+Antigua & Barbuda,2024,0.79
+Antigua & Barbuda,2025,0.92
+Antigua & Barbuda,2026,0.78
+Antigua & Barbuda,2027,0.9
+Antigua & Barbuda,2028,0.9
+Antigua & Barbuda,2029,0.92
+Antigua & Barbuda,2030,0.88
+Antigua & Barbuda,2031,0.75
+Antigua & Barbuda,2032,0.83
+Antigua & Barbuda,2033,0.75
+Argentina,2004,-0.61
+Argentina,2005,-0.04
+Argentina,2006,0.0
+Argentina,2007,0.1
+Argentina,2008,-0.09
+Argentina,2009,-0.23
+Argentina,2010,-0.08
+Argentina,2011,0.16
+Argentina,2012,0.1
+Argentina,2013,0.07
+Argentina,2014,-0.01
+Argentina,2015,0.01
+Argentina,2016,0.2
+Argentina,2017,0.16
+Argentina,2018,0.01
+Argentina,2019,-0.1
+Argentina,2020,-0.07
+Argentina,2021,0.0
+Argentina,2022,-0.1
+Argentina,2023,-0.13
+Argentina,2024,0.0
+Argentina,2025,0.14
+Argentina,2026,0.07
+Argentina,2027,0.02
+Argentina,2028,0.12
+Argentina,2029,-0.19
+Argentina,2030,-0.04
+Argentina,2031,-0.14
+Argentina,2032,-0.15
+Argentina,2033,-0.31
+Armenia,2004,-0.12
+Armenia,2005,-0.07
+Armenia,2006,-0.26
+Armenia,2007,0.15
+Armenia,2008,-0.01
+Armenia,2009,0.23
+Armenia,2010,0.07
+Armenia,2011,-0.06
+Armenia,2012,0.15
+Armenia,2013,0.11
+Armenia,2014,-0.3
+Armenia,2015,-0.26
+Armenia,2016,-0.67
+Armenia,2017,-0.63
+Armenia,2018,-0.45
+Armenia,2019,-0.42
+Armenia,2020,-0.77
+Armenia,2021,-0.8
+Armenia,2022,-0.74
+Armenia,2023,-0.83
+Armenia,2024,-0.46
+Armenia,2025,-0.45
+Armenia,2026,-0.34
+Armenia,2027,0.09
+Armenia,2028,0.07
+Armenia,2029,-0.22
+Armenia,2030,-0.19
+Armenia,2031,-0.11
+Armenia,2032,-0.6
+Armenia,2033,-0.02
+Australia,2004,0.94
+Australia,2005,0.89
+Australia,2006,0.93
+Australia,2007,0.93
+Australia,2008,0.95
+Australia,2009,0.86
+Australia,2010,0.89
+Australia,2011,0.94
+Australia,2012,1.0
+Australia,2013,1.03
+Australia,2014,1.03
+Australia,2015,0.87
+Australia,2016,1.03
+Australia,2017,0.88
+Australia,2018,0.97
+Australia,2019,0.92
+Australia,2020,0.86
+Australia,2021,0.84
+Australia,2022,0.98
+Australia,2023,0.92
+Australia,2024,0.83
+Australia,2025,0.99
+Australia,2026,0.9
+Australia,2027,0.97
+Australia,2028,0.95
+Australia,2029,0.93
+Australia,2030,0.83
+Australia,2031,0.9
+Australia,2032,0.91
+Australia,2033,0.83
+Austria,2004,1.09
+Austria,2005,1.1
+Austria,2006,1.07
+Austria,2007,1.28
+Austria,2008,1.34
+Austria,2009,1.19
+Austria,2010,1.15
+Austria,2011,1.19
+Austria,2012,1.34
+Austria,2013,1.36
+Austria,2014,1.27
+Austria,2015,1.13
+Austria,2016,0.89
+Austria,2017,1.03
+Austria,2018,0.88
+Austria,2019,0.89
+Austria,2020,0.89
+Austria,2021,0.9
+Austria,2022,0.65
+Austria,2023,0.73
+Austria,2024,1.1
+Austria,2025,1.41
+Austria,2026,1.12
+Austria,2027,1.27
+Austria,2028,1.21
+Austria,2029,0.82
+Austria,2030,1.11
+Austria,2031,1.04
+Austria,2032,1.16
+Austria,2033,1.02
+Azerbaijan,2004,-1.06
+Azerbaijan,2005,-1.12
+Azerbaijan,2006,-1.09
+Azerbaijan,2007,-0.63
+Azerbaijan,2008,-0.33
+Azerbaijan,2009,-0.28
+Azerbaijan,2010,-0.24
+Azerbaijan,2011,-0.53
+Azerbaijan,2012,-0.72
+Azerbaijan,2013,-0.41
+Azerbaijan,2014,-0.56
+Azerbaijan,2015,-0.73
+Azerbaijan,2016,-0.81
+Azerbaijan,2017,-0.75
+Azerbaijan,2018,-0.71
+Azerbaijan,2019,-0.69
+Azerbaijan,2020,-0.85
+Azerbaijan,2021,-0.84
+Azerbaijan,2022,-0.92
+Azerbaijan,2023,-0.73
+Azerbaijan,2024,-0.36
+Azerbaijan,2025,-0.33
+Azerbaijan,2026,-1.13
+Azerbaijan,2027,-0.47
+Azerbaijan,2028,-0.54
+Azerbaijan,2029,-0.78
+Azerbaijan,2030,-0.73
+Azerbaijan,2031,-1.0
+Azerbaijan,2032,-0.55
+Azerbaijan,2033,-0.8
+Bahrain,2004,0.31
+Bahrain,2005,0.01
+Bahrain,2006,-0.37
+Bahrain,2007,-0.25
+Bahrain,2008,-0.24
+Bahrain,2009,-0.14
+Bahrain,2010,-0.49
+Bahrain,2011,-0.95
+Bahrain,2012,-1.13
+Bahrain,2013,-1.34
+Bahrain,2014,-0.91
+Bahrain,2015,-1.07
+Bahrain,2016,-0.79
+Bahrain,2017,-0.96
+Bahrain,2018,-0.85
+Bahrain,2019,-0.63
+Bahrain,2020,-0.61
+Bahrain,2021,-0.52
+Bahrain,2022,-0.36
+Bahrain,2023,-0.37
+Bahrain,2024,-0.53
+Bahrain,2025,-0.81
+Bahrain,2026,-0.91
+Bahrain,2027,-0.18
+Bahrain,2028,-0.7
+Bahrain,2029,-0.16
+Bahrain,2030,-0.28
+Bahrain,2031,-0.44
+Bahrain,2032,-0.42
+Bahrain,2033,0.11
+Bangladesh,2004,-1.36
+Bangladesh,2005,-1.86
+Bangladesh,2006,-1.51
+Bangladesh,2007,-1.54
+Bangladesh,2008,-1.51
+Bangladesh,2009,-1.55
+Bangladesh,2010,-1.43
+Bangladesh,2011,-1.4
+Bangladesh,2012,-1.38
+Bangladesh,2013,-1.63
+Bangladesh,2014,-0.9
+Bangladesh,2015,-1.21
+Bangladesh,2016,-1.26
+Bangladesh,2017,-1.25
+Bangladesh,2018,-0.99
+Bangladesh,2019,-0.93
+Bangladesh,2020,-0.92
+Bangladesh,2021,-1.04
+Bangladesh,2022,-1.05
+Bangladesh,2023,-0.91
+Bangladesh,2024,-1.2
+Bangladesh,2025,-1.47
+Bangladesh,2026,-1.52
+Bangladesh,2027,-1.3
+Bangladesh,2028,-1.55
+Bangladesh,2029,-1.53
+Bangladesh,2030,-0.98
+Bangladesh,2031,-1.47
+Bangladesh,2032,-1.18
+Bangladesh,2033,-1.17
+Belarus,2004,0.16
+Belarus,2005,0.36
+Belarus,2006,0.15
+Belarus,2007,0.34
+Belarus,2008,0.52
+Belarus,2009,0.49
+Belarus,2010,-0.09
+Belarus,2011,-0.09
+Belarus,2012,0.07
+Belarus,2013,0.01
+Belarus,2014,0.18
+Belarus,2015,0.11
+Belarus,2016,0.14
+Belarus,2017,-0.06
+Belarus,2018,0.35
+Belarus,2019,0.34
+Belarus,2020,-0.89
+Belarus,2021,-0.75
+Belarus,2022,-0.8
+Belarus,2023,-0.73
+Belarus,2024,0.51
+Belarus,2025,0.17
+Belarus,2026,0.63
+Belarus,2027,-0.59
+Belarus,2028,-0.63
+Belarus,2029,-0.59
+Belarus,2030,-0.41
+Belarus,2031,-0.37
+Belarus,2032,0.59
+Belarus,2033,-0.2
+Belgium,2004,0.71
+Belgium,2005,0.79
+Belgium,2006,0.86
+Belgium,2007,0.76
+Belgium,2008,0.62
+Belgium,2009,0.82
+Belgium,2010,0.81
+Belgium,2011,0.95
+Belgium,2012,0.92
+Belgium,2013,0.94
+Belgium,2014,0.7
+Belgium,2015,0.58
+Belgium,2016,0.43
+Belgium,2017,0.42
+Belgium,2018,0.39
+Belgium,2019,0.46
+Belgium,2020,0.52
+Belgium,2021,0.66
+Belgium,2022,0.58
+Belgium,2023,0.4
+Belgium,2024,0.69
+Belgium,2025,0.82
+Belgium,2026,0.78
+Belgium,2027,0.91
+Belgium,2028,0.6
+Belgium,2029,0.73
+Belgium,2030,0.72
+Belgium,2031,0.46
+Belgium,2032,0.79
+Belgium,2033,0.62
+Belize,2004,0.4
+Belize,2005,0.1
+Belize,2006,0.08
+Belize,2007,0.19
+Belize,2008,0.19
+Belize,2009,0.03
+Belize,2010,0.07
+Belize,2011,0.15
+Belize,2012,0.18
+Belize,2013,0.18
+Belize,2014,0.05
+Belize,2015,0.04
+Belize,2016,0.05
+Belize,2017,0.03
+Belize,2018,0.0
+Belize,2019,0.06
+Belize,2020,0.52
+Belize,2021,0.27
+Belize,2022,0.56
+Belize,2023,0.59
+Belize,2024,0.48
+Belize,2025,-0.01
+Belize,2026,-0.01
+Belize,2027,0.3
+Belize,2028,0.13
+Belize,2029,0.34
+Belize,2030,0.16
+Belize,2031,0.49
+Belize,2032,0.12
+Belize,2033,0.22
+Benin,2004,0.27
+Benin,2005,0.45
+Benin,2006,0.55
+Benin,2007,0.39
+Benin,2008,0.38
+Benin,2009,0.4
+Benin,2010,0.26
+Benin,2011,0.32
+Benin,2012,0.36
+Benin,2013,0.3
+Benin,2014,0.03
+Benin,2015,-0.02
+Benin,2016,-0.01
+Benin,2017,0.03
+Benin,2018,-0.15
+Benin,2019,-0.42
+Benin,2020,-0.44
+Benin,2021,-0.4
+Benin,2022,-0.34
+Benin,2023,-0.35
+Benin,2024,0.17
+Benin,2025,-0.08
+Benin,2026,-0.02
+Benin,2027,0.06
+Benin,2028,-0.08
+Benin,2029,0.22
+Benin,2030,-0.36
+Benin,2031,-0.01
+Benin,2032,0.46
+Benin,2033,-0.18
+Bhutan,2004,1.17
+Bhutan,2005,1.28
+Bhutan,2006,1.26
+Bhutan,2007,0.57
+Bhutan,2008,0.72
+Bhutan,2009,0.8
+Bhutan,2010,0.74
+Bhutan,2011,0.83
+Bhutan,2012,0.78
+Bhutan,2013,0.78
+Bhutan,2014,1.07
+Bhutan,2015,0.96
+Bhutan,2016,1.11
+Bhutan,2017,1.1
+Bhutan,2018,1.08
+Bhutan,2019,1.07
+Bhutan,2020,1.01
+Bhutan,2021,0.8
+Bhutan,2022,1.01
+Bhutan,2023,0.98
+Bhutan,2024,0.97
+Bhutan,2025,1.06
+Bhutan,2026,1.17
+Bhutan,2027,0.93
+Bhutan,2028,1.15
+Bhutan,2029,0.87
+Bhutan,2030,0.87
+Bhutan,2031,1.02
+Bhutan,2032,0.75
+Bhutan,2033,1.1
+Bolivia,2004,-0.68
+Bolivia,2005,-0.97
+Bolivia,2006,-0.8
+Bolivia,2007,-0.85
+Bolivia,2008,-0.7
+Bolivia,2009,-0.51
+Bolivia,2010,-0.42
+Bolivia,2011,-0.42
+Bolivia,2012,-0.46
+Bolivia,2013,-0.33
+Bolivia,2014,-0.33
+Bolivia,2015,-0.27
+Bolivia,2016,-0.25
+Bolivia,2017,-0.28
+Bolivia,2018,-0.29
+Bolivia,2019,-0.73
+Bolivia,2020,-0.45
+Bolivia,2021,-0.28
+Bolivia,2022,-0.19
+Bolivia,2023,-0.31
+Bolivia,2024,-0.08
+Bolivia,2025,-0.83
+Bolivia,2026,-0.3
+Bolivia,2027,-0.05
+Bolivia,2028,-0.39
+Bolivia,2029,-0.37
+Bolivia,2030,-0.24
+Bolivia,2031,-0.68
+Bolivia,2032,-0.77
+Bolivia,2033,-0.52
+Bosnia & Herzegovina,2004,0.02
+Bosnia & Herzegovina,2005,-0.5
+Bosnia & Herzegovina,2006,-0.44
+Bosnia & Herzegovina,2007,-0.63
+Bosnia & Herzegovina,2008,-0.54
+Bosnia & Herzegovina,2009,-0.67
+Bosnia & Herzegovina,2010,-0.69
+Bosnia & Herzegovina,2011,-0.82
+Bosnia & Herzegovina,2012,-0.54
+Bosnia & Herzegovina,2013,-0.4
+Bosnia & Herzegovina,2014,-0.02
+Bosnia & Herzegovina,2015,-0.4
+Bosnia & Herzegovina,2016,-0.4
+Bosnia & Herzegovina,2017,-0.35
+Bosnia & Herzegovina,2018,-0.4
+Bosnia & Herzegovina,2019,-0.42
+Bosnia & Herzegovina,2020,-0.45
+Bosnia & Herzegovina,2021,-0.42
+Bosnia & Herzegovina,2022,-0.48
+Bosnia & Herzegovina,2023,-0.35
+Bosnia & Herzegovina,2024,-0.44
+Bosnia & Herzegovina,2025,-0.17
+Bosnia & Herzegovina,2026,-0.69
+Bosnia & Herzegovina,2027,-0.44
+Bosnia & Herzegovina,2028,-0.31
+Bosnia & Herzegovina,2029,-0.64
+Bosnia & Herzegovina,2030,-0.15
+Bosnia & Herzegovina,2031,-0.78
+Bosnia & Herzegovina,2032,-0.5
+Bosnia & Herzegovina,2033,-0.23
+Botswana,2004,0.92
+Botswana,2005,1.06
+Botswana,2006,1.02
+Botswana,2007,1.06
+Botswana,2008,1.03
+Botswana,2009,0.95
+Botswana,2010,0.99
+Botswana,2011,1.06
+Botswana,2012,1.1
+Botswana,2013,1.1
+Botswana,2014,1.01
+Botswana,2015,1.03
+Botswana,2016,0.98
+Botswana,2017,1.01
+Botswana,2018,0.96
+Botswana,2019,1.1
+Botswana,2020,1.01
+Botswana,2021,1.04
+Botswana,2022,1.07
+Botswana,2023,1.04
+Botswana,2024,0.98
+Botswana,2025,1.05
+Botswana,2026,1.02
+Botswana,2027,1.09
+Botswana,2028,1.04
+Botswana,2029,1.01
+Botswana,2030,1.07
+Botswana,2031,1.02
+Botswana,2032,1.0
+Botswana,2033,0.97
+Brazil,2004,-0.28
+Brazil,2005,-0.26
+Brazil,2006,-0.29
+Brazil,2007,-0.36
+Brazil,2008,-0.31
+Brazil,2009,0.16
+Brazil,2010,0.01
+Brazil,2011,-0.13
+Brazil,2012,0.05
+Brazil,2013,-0.26
+Brazil,2014,-0.07
+Brazil,2015,-0.33
+Brazil,2016,-0.38
+Brazil,2017,-0.48
+Brazil,2018,-0.46
+Brazil,2019,-0.71
+Brazil,2020,-0.45
+Brazil,2021,-0.42
+Brazil,2022,-0.4
+Brazil,2023,-0.41
+Brazil,2024,-0.47
+Brazil,2025,-0.39
+Brazil,2026,-0.31
+Brazil,2027,-0.4
+Brazil,2028,-0.23
+Brazil,2029,-0.66
+Brazil,2030,-0.1
+Brazil,2031,-0.16
+Brazil,2032,-0.29
+Brazil,2033,-0.33
+Brunei Darussalam,2004,1.37
+Brunei Darussalam,2005,1.21
+Brunei Darussalam,2006,1.12
+Brunei Darussalam,2007,1.11
+Brunei Darussalam,2008,1.13
+Brunei Darussalam,2009,1.39
+Brunei Darussalam,2010,1.28
+Brunei Darussalam,2011,1.09
+Brunei Darussalam,2012,0.91
+Brunei Darussalam,2013,1.07
+Brunei Darussalam,2014,1.26
+Brunei Darussalam,2015,1.23
+Brunei Darussalam,2016,1.14
+Brunei Darussalam,2017,1.15
+Brunei Darussalam,2018,1.24
+Brunei Darussalam,2019,1.11
+Brunei Darussalam,2020,1.19
+Brunei Darussalam,2021,1.17
+Brunei Darussalam,2022,1.24
+Brunei Darussalam,2023,1.37
+Brunei Darussalam,2024,1.26
+Brunei Darussalam,2025,1.19
+Brunei Darussalam,2026,1.23
+Brunei Darussalam,2027,1.25
+Brunei Darussalam,2028,1.22
+Brunei Darussalam,2029,1.2
+Brunei Darussalam,2030,1.1
+Brunei Darussalam,2031,1.19
+Brunei Darussalam,2032,1.2
+Brunei Darussalam,2033,1.19
+Bulgaria,2004,0.0
+Bulgaria,2005,0.15
+Bulgaria,2006,0.39
+Bulgaria,2007,0.36
+Bulgaria,2008,0.37
+Bulgaria,2009,0.35
+Bulgaria,2010,0.36
+Bulgaria,2011,0.3
+Bulgaria,2012,0.38
+Bulgaria,2013,0.17
+Bulgaria,2014,0.08
+Bulgaria,2015,0.01
+Bulgaria,2016,0.07
+Bulgaria,2017,0.32
+Bulgaria,2018,0.44
+Bulgaria,2019,0.56
+Bulgaria,2020,0.4
+Bulgaria,2021,0.36
+Bulgaria,2022,0.31
+Bulgaria,2023,0.34
+Bulgaria,2024,0.3
+Bulgaria,2025,0.21
+Bulgaria,2026,0.12
+Bulgaria,2027,0.22
+Bulgaria,2028,0.26
+Bulgaria,2029,0.32
+Bulgaria,2030,0.29
+Bulgaria,2031,0.36
+Bulgaria,2032,0.34
+Bulgaria,2033,0.58
+Burkina Faso,2004,-0.08
+Burkina Faso,2005,-0.06
+Burkina Faso,2006,0.16
+Burkina Faso,2007,0.31
+Burkina Faso,2008,0.12
+Burkina Faso,2009,0.03
+Burkina Faso,2010,-0.12
+Burkina Faso,2011,-0.56
+Burkina Faso,2012,-0.57
+Burkina Faso,2013,-0.76
+Burkina Faso,2014,-0.79
+Burkina Faso,2015,-0.61
+Burkina Faso,2016,-0.87
+Burkina Faso,2017,-0.93
+Burkina Faso,2018,-1.06
+Burkina Faso,2019,-1.3
+Burkina Faso,2020,-1.54
+Burkina Faso,2021,-1.64
+Burkina Faso,2022,-1.82
+Burkina Faso,2023,-2.04
+Burkina Faso,2024,-0.53
+Burkina Faso,2025,-1.01
+Burkina Faso,2026,-0.46
+Burkina Faso,2027,-0.49
+Burkina Faso,2028,-1.35
+Burkina Faso,2029,-0.22
+Burkina Faso,2030,-0.21
+Burkina Faso,2031,-1.0
+Burkina Faso,2032,-1.16
+Burkina Faso,2033,-0.06
+Burundi,2004,-2.52
+Burundi,2005,-1.52
+Burundi,2006,-1.43
+Burundi,2007,-1.38
+Burundi,2008,-1.64
+Burundi,2009,-1.27
+Burundi,2010,-1.63
+Burundi,2011,-1.81
+Burundi,2012,-1.7
+Burundi,2013,-1.35
+Burundi,2014,-0.78
+Burundi,2015,-1.94
+Burundi,2016,-1.96
+Burundi,2017,-2.0
+Burundi,2018,-1.57
+Burundi,2019,-1.63
+Burundi,2020,-1.54
+Burundi,2021,-1.26
+Burundi,2022,-1.19
+Burundi,2023,-1.17
+Burundi,2024,-1.78
+Burundi,2025,-1.72
+Burundi,2026,-1.31
+Burundi,2027,-1.58
+Burundi,2028,-1.52
+Burundi,2029,-1.88
+Burundi,2030,-1.37
+Burundi,2031,-1.6
+Burundi,2032,-1.22
+Burundi,2033,-1.37
+Cambodia,2004,-0.41
+Cambodia,2005,-0.39
+Cambodia,2006,-0.35
+Cambodia,2007,-0.36
+Cambodia,2008,-0.3
+Cambodia,2009,-0.56
+Cambodia,2010,-0.5
+Cambodia,2011,-0.3
+Cambodia,2012,-0.1
+Cambodia,2013,-0.14
+Cambodia,2014,0.02
+Cambodia,2015,0.06
+Cambodia,2016,0.21
+Cambodia,2017,0.09
+Cambodia,2018,0.11
+Cambodia,2019,-0.08
+Cambodia,2020,-0.21
+Cambodia,2021,-0.13
+Cambodia,2022,-0.1
+Cambodia,2023,0.04
+Cambodia,2024,-0.07
+Cambodia,2025,0.07
+Cambodia,2026,0.09
+Cambodia,2027,-0.0
+Cambodia,2028,-0.06
+Cambodia,2029,-0.04
+Cambodia,2030,-0.53
+Cambodia,2031,-0.13
+Cambodia,2032,-0.18
+Cambodia,2033,-0.06
+Cameroon,2004,-0.36
+Cameroon,2005,-0.18
+Cameroon,2006,-0.24
+Cameroon,2007,-0.33
+Cameroon,2008,-0.55
+Cameroon,2009,-0.47
+Cameroon,2010,-0.74
+Cameroon,2011,-0.66
+Cameroon,2012,-0.59
+Cameroon,2013,-0.53
+Cameroon,2014,-1.06
+Cameroon,2015,-0.99
+Cameroon,2016,-1.06
+Cameroon,2017,-1.09
+Cameroon,2018,-1.4
+Cameroon,2019,-1.56
+Cameroon,2020,-1.51
+Cameroon,2021,-1.39
+Cameroon,2022,-1.38
+Cameroon,2023,-1.4
+Cameroon,2024,-0.98
+Cameroon,2025,-0.85
+Cameroon,2026,-0.58
+Cameroon,2027,-0.39
+Cameroon,2028,-0.62
+Cameroon,2029,-0.87
+Cameroon,2030,-1.35
+Cameroon,2031,-0.08
+Cameroon,2032,-0.84
+Cameroon,2033,-1.05
+Canada,2004,0.88
+Canada,2005,0.83
+Canada,2006,1.03
+Canada,2007,1.01
+Canada,2008,1.04
+Canada,2009,1.13
+Canada,2010,0.94
+Canada,2011,1.08
+Canada,2012,1.11
+Canada,2013,1.06
+Canada,2014,1.18
+Canada,2015,1.26
+Canada,2016,1.24
+Canada,2017,1.09
+Canada,2018,0.96
+Canada,2019,0.99
+Canada,2020,1.01
+Canada,2021,0.96
+Canada,2022,0.78
+Canada,2023,0.82
+Canada,2024,1.13
+Canada,2025,0.99
+Canada,2026,0.81
+Canada,2027,1.23
+Canada,2028,1.14
+Canada,2029,0.99
+Canada,2030,1.0
+Canada,2031,0.98
+Canada,2032,1.06
+Canada,2033,1.0
+Chad,2004,-1.54
+Chad,2005,-1.44
+Chad,2006,-1.83
+Chad,2007,-1.87
+Chad,2008,-1.97
+Chad,2009,-1.73
+Chad,2010,-1.52
+Chad,2011,-1.32
+Chad,2012,-1.04
+Chad,2013,-1.09
+Chad,2014,-1.57
+Chad,2015,-0.97
+Chad,2016,-1.3
+Chad,2017,-1.29
+Chad,2018,-1.48
+Chad,2019,-1.35
+Chad,2020,-1.26
+Chad,2021,-1.39
+Chad,2022,-1.47
+Chad,2023,-1.56
+Chad,2024,-1.19
+Chad,2025,-1.65
+Chad,2026,-1.72
+Chad,2027,-1.1
+Chad,2028,-1.39
+Chad,2029,-1.43
+Chad,2030,-1.4
+Chad,2031,-1.19
+Chad,2032,-0.95
+Chad,2033,-1.69
+Chile,2004,0.69
+Chile,2005,0.84
+Chile,2006,0.61
+Chile,2007,0.41
+Chile,2008,0.43
+Chile,2009,0.6
+Chile,2010,0.68
+Chile,2011,0.45
+Chile,2012,0.33
+Chile,2013,0.36
+Chile,2014,0.45
+Chile,2015,0.42
+Chile,2016,0.4
+Chile,2017,0.41
+Chile,2018,0.41
+Chile,2019,-0.02
+Chile,2020,0.04
+Chile,2021,0.16
+Chile,2022,0.13
+Chile,2023,0.14
+Chile,2024,0.24
+Chile,2025,0.74
+Chile,2026,0.36
+Chile,2027,0.4
+Chile,2028,0.32
+Chile,2029,0.56
+Chile,2030,0.39
+Chile,2031,0.39
+Chile,2032,-0.01
+Chile,2033,0.54
+China,2004,-0.39
+China,2005,-0.5
+China,2006,-0.54
+China,2007,-0.5
+China,2008,-0.49
+China,2009,-0.45
+China,2010,-0.66
+China,2011,-0.6
+China,2012,-0.54
+China,2013,-0.54
+China,2014,-0.52
+China,2015,-0.55
+China,2016,-0.5
+China,2017,-0.23
+China,2018,-0.3
+China,2019,-0.26
+China,2020,-0.47
+China,2021,-0.52
+China,2022,-0.45
+China,2023,-0.51
+China,2024,-0.52
+China,2025,-0.33
+China,2026,-0.58
+China,2027,-0.52
+China,2028,-0.45
+China,2029,-0.29
+China,2030,-0.62
+China,2031,-0.52
+China,2032,-0.65
+China,2033,-0.4
+Colombia,2004,-2.27
+Colombia,2005,-2.06
+Colombia,2006,-1.9
+Colombia,2007,-1.81
+Colombia,2008,-1.85
+Colombia,2009,-1.83
+Colombia,2010,-1.54
+Colombia,2011,-1.28
+Colombia,2012,-1.4
+Colombia,2013,-1.29
+Colombia,2014,-1.11
+Colombia,2015,-1.07
+Colombia,2016,-0.89
+Colombia,2017,-0.78
+Colombia,2018,-0.81
+Colombia,2019,-0.98
+Colombia,2020,-0.7
+Colombia,2021,-0.95
+Colombia,2022,-0.63
+Colombia,2023,-0.72
+Colombia,2024,-0.96
+Colombia,2025,-1.72
+Colombia,2026,-1.42
+Colombia,2027,-2.05
+Colombia,2028,-1.46
+Colombia,2029,-1.11
+Colombia,2030,-0.66
+Colombia,2031,-1.76
+Colombia,2032,-0.8
+Colombia,2033,-1.29
+"Congo, Dem. Rep.",2004,-2.39
+"Congo, Dem. Rep.",2005,-2.13
+"Congo, Dem. Rep.",2006,-2.25
+"Congo, Dem. Rep.",2007,-2.18
+"Congo, Dem. Rep.",2008,-2.0
+"Congo, Dem. Rep.",2009,-2.0
+"Congo, Dem. Rep.",2010,-2.2
+"Congo, Dem. Rep.",2011,-2.21
+"Congo, Dem. Rep.",2012,-2.09
+"Congo, Dem. Rep.",2013,-2.19
+"Congo, Dem. Rep.",2014,-2.17
+"Congo, Dem. Rep.",2015,-2.14
+"Congo, Dem. Rep.",2016,-2.22
+"Congo, Dem. Rep.",2017,-2.34
+"Congo, Dem. Rep.",2018,-2.08
+"Congo, Dem. Rep.",2019,-1.63
+"Congo, Dem. Rep.",2020,-1.79
+"Congo, Dem. Rep.",2021,-1.66
+"Congo, Dem. Rep.",2022,-1.98
+"Congo, Dem. Rep.",2023,-2.04
+"Congo, Dem. Rep.",2024,-1.81
+"Congo, Dem. Rep.",2025,-2.15
+"Congo, Dem. Rep.",2026,-2.18
+"Congo, Dem. Rep.",2027,-2.0
+"Congo, Dem. Rep.",2028,-1.99
+"Congo, Dem. Rep.",2029,-2.06
+"Congo, Dem. Rep.",2030,-2.21
+"Congo, Dem. Rep.",2031,-1.91
+"Congo, Dem. Rep.",2032,-2.09
+"Congo, Dem. Rep.",2033,-1.95
+Costa Rica,2004,0.63
+Costa Rica,2005,0.71
+Costa Rica,2006,0.74
+Costa Rica,2007,0.58
+Costa Rica,2008,0.36
+Costa Rica,2009,0.59
+Costa Rica,2010,0.69
+Costa Rica,2011,0.51
+Costa Rica,2012,0.64
+Costa Rica,2013,0.68
+Costa Rica,2014,0.58
+Costa Rica,2015,0.67
+Costa Rica,2016,0.65
+Costa Rica,2017,0.6
+Costa Rica,2018,0.45
+Costa Rica,2019,0.43
+Costa Rica,2020,0.75
+Costa Rica,2021,0.86
+Costa Rica,2022,0.96
+Costa Rica,2023,0.98
+Costa Rica,2024,0.96
+Costa Rica,2025,0.72
+Costa Rica,2026,0.65
+Costa Rica,2027,0.54
+Costa Rica,2028,0.7
+Costa Rica,2029,0.49
+Costa Rica,2030,0.6
+Costa Rica,2031,0.64
+Costa Rica,2032,0.57
+Costa Rica,2033,0.75
+Cote d'Ivoire,2004,-2.11
+Cote d'Ivoire,2005,-2.26
+Cote d'Ivoire,2006,-1.86
+Cote d'Ivoire,2007,-1.84
+Cote d'Ivoire,2008,-1.8
+Cote d'Ivoire,2009,-1.32
+Cote d'Ivoire,2010,-1.58
+Cote d'Ivoire,2011,-1.41
+Cote d'Ivoire,2012,-1.26
+Cote d'Ivoire,2013,-1.05
+Cote d'Ivoire,2014,-1.04
+Cote d'Ivoire,2015,-0.84
+Cote d'Ivoire,2016,-0.91
+Cote d'Ivoire,2017,-1.09
+Cote d'Ivoire,2018,-0.9
+Cote d'Ivoire,2019,-1.04
+Cote d'Ivoire,2020,-1.03
+Cote d'Ivoire,2021,-0.72
+Cote d'Ivoire,2022,-0.59
+Cote d'Ivoire,2023,-0.63
+Cote d'Ivoire,2024,-1.57
+Cote d'Ivoire,2025,-1.49
+Cote d'Ivoire,2026,-1.55
+Cote d'Ivoire,2027,-1.37
+Cote d'Ivoire,2028,-1.29
+Cote d'Ivoire,2029,-2.0
+Cote d'Ivoire,2030,-0.54
+Cote d'Ivoire,2031,-1.85
+Cote d'Ivoire,2032,-1.67
+Cote d'Ivoire,2033,-1.57
+Croatia,2004,0.69
+Croatia,2005,0.43
+Croatia,2006,0.56
+Croatia,2007,0.61
+Croatia,2008,0.57
+Croatia,2009,0.61
+Croatia,2010,0.61
+Croatia,2011,0.62
+Croatia,2012,0.61
+Croatia,2013,0.64
+Croatia,2014,0.62
+Croatia,2015,0.59
+Croatia,2016,0.65
+Croatia,2017,0.68
+Croatia,2018,0.79
+Croatia,2019,0.69
+Croatia,2020,0.61
+Croatia,2021,0.62
+Croatia,2022,0.67
+Croatia,2023,0.6
+Croatia,2024,0.54
+Croatia,2025,0.61
+Croatia,2026,0.66
+Croatia,2027,0.66
+Croatia,2028,0.68
+Croatia,2029,0.58
+Croatia,2030,0.57
+Croatia,2031,0.61
+Croatia,2032,0.7
+Croatia,2033,0.49
+Cuba,2004,0.36
+Cuba,2005,0.42
+Cuba,2006,0.47
+Cuba,2007,0.45
+Cuba,2008,0.52
+Cuba,2009,0.36
+Cuba,2010,0.35
+Cuba,2011,0.28
+Cuba,2012,0.31
+Cuba,2013,0.37
+Cuba,2014,0.54
+Cuba,2015,0.63
+Cuba,2016,0.67
+Cuba,2017,0.64
+Cuba,2018,0.64
+Cuba,2019,0.61
+Cuba,2020,0.6
+Cuba,2021,0.39
+Cuba,2022,0.49
+Cuba,2023,0.38
+Cuba,2024,0.61
+Cuba,2025,0.69
+Cuba,2026,0.61
+Cuba,2027,0.61
+Cuba,2028,0.54
+Cuba,2029,0.48
+Cuba,2030,0.46
+Cuba,2031,0.36
+Cuba,2032,0.35
+Cuba,2033,0.57
+Cyprus,2004,0.38
+Cyprus,2005,0.52
+Cyprus,2006,0.54
+Cyprus,2007,0.54
+Cyprus,2008,0.64
+Cyprus,2009,0.39
+Cyprus,2010,0.45
+Cyprus,2011,0.61
+Cyprus,2012,0.64
+Cyprus,2013,0.56
+Cyprus,2014,0.55
+Cyprus,2015,0.54
+Cyprus,2016,0.59
+Cyprus,2017,0.53
+Cyprus,2018,0.48
+Cyprus,2019,0.54
+Cyprus,2020,0.29
+Cyprus,2021,0.42
+Cyprus,2022,0.42
+Cyprus,2023,0.41
+Cyprus,2024,0.48
+Cyprus,2025,0.43
+Cyprus,2026,0.56
+Cyprus,2027,0.62
+Cyprus,2028,0.5
+Cyprus,2029,0.5
+Cyprus,2030,0.54
+Cyprus,2031,0.4
+Cyprus,2032,0.54
+Cyprus,2033,0.48
+Czech Republic,2004,0.65
+Czech Republic,2005,0.94
+Czech Republic,2006,1.05
+Czech Republic,2007,1.02
+Czech Republic,2008,1.05
+Czech Republic,2009,0.91
+Czech Republic,2010,0.99
+Czech Republic,2011,1.11
+Czech Republic,2012,1.05
+Czech Republic,2013,1.08
+Czech Republic,2014,0.99
+Czech Republic,2015,0.97
+Czech Republic,2016,0.96
+Czech Republic,2017,0.99
+Czech Republic,2018,1.03
+Czech Republic,2019,0.94
+Czech Republic,2020,0.91
+Czech Republic,2021,0.95
+Czech Republic,2022,0.81
+Czech Republic,2023,0.97
+Czech Republic,2024,0.81
+Czech Republic,2025,0.84
+Czech Republic,2026,1.08
+Czech Republic,2027,0.88
+Czech Republic,2028,1.05
+Czech Republic,2029,0.88
+Czech Republic,2030,0.98
+Czech Republic,2031,0.91
+Czech Republic,2032,0.81
+Czech Republic,2033,0.97
+Denmark,2004,1.08
+Denmark,2005,1.07
+Denmark,2006,1.05
+Denmark,2007,1.12
+Denmark,2008,1.07
+Denmark,2009,1.0
+Denmark,2010,1.04
+Denmark,2011,1.1
+Denmark,2012,0.91
+Denmark,2013,0.96
+Denmark,2014,0.95
+Denmark,2015,0.89
+Denmark,2016,0.85
+Denmark,2017,0.85
+Denmark,2018,0.93
+Denmark,2019,0.97
+Denmark,2020,0.92
+Denmark,2021,0.93
+Denmark,2022,0.87
+Denmark,2023,0.85
+Denmark,2024,0.85
+Denmark,2025,0.96
+Denmark,2026,0.89
+Denmark,2027,0.9
+Denmark,2028,0.92
+Denmark,2029,1.0
+Denmark,2030,0.98
+Denmark,2031,0.97
+Denmark,2032,1.11
+Denmark,2033,0.99
+Djibouti,2004,-0.34
+Djibouti,2005,-0.81
+Djibouti,2006,-0.26
+Djibouti,2007,-0.12
+Djibouti,2008,0.27
+Djibouti,2009,0.49
+Djibouti,2010,0.25
+Djibouti,2011,0.18
+Djibouti,2012,0.16
+Djibouti,2013,-0.1
+Djibouti,2014,-0.77
+Djibouti,2015,-0.45
+Djibouti,2016,-0.63
+Djibouti,2017,-0.73
+Djibouti,2018,-0.13
+Djibouti,2019,-0.34
+Djibouti,2020,-0.45
+Djibouti,2021,-0.57
+Djibouti,2022,-0.51
+Djibouti,2023,-0.52
+Djibouti,2024,0.09
+Djibouti,2025,-0.62
+Djibouti,2026,-0.03
+Djibouti,2027,-0.27
+Djibouti,2028,-0.2
+Djibouti,2029,-0.27
+Djibouti,2030,-0.46
+Djibouti,2031,-0.52
+Djibouti,2032,-0.31
+Djibouti,2033,0.29
+Dominican Republic,2004,-0.34
+Dominican Republic,2005,-0.26
+Dominican Republic,2006,-0.11
+Dominican Republic,2007,-0.08
+Dominican Republic,2008,-0.04
+Dominican Republic,2009,0.0
+Dominican Republic,2010,-0.04
+Dominican Republic,2011,0.0
+Dominican Republic,2012,0.25
+Dominican Republic,2013,0.21
+Dominican Republic,2014,0.15
+Dominican Republic,2015,0.23
+Dominican Republic,2016,0.24
+Dominican Republic,2017,0.15
+Dominican Republic,2018,0.01
+Dominican Republic,2019,0.0
+Dominican Republic,2020,0.16
+Dominican Republic,2021,0.29
+Dominican Republic,2022,0.25
+Dominican Republic,2023,0.24
+Dominican Republic,2024,-0.02
+Dominican Republic,2025,-0.2
+Dominican Republic,2026,0.26
+Dominican Republic,2027,0.39
+Dominican Republic,2028,-0.03
+Dominican Republic,2029,-0.05
+Dominican Republic,2030,-0.06
+Dominican Republic,2031,0.22
+Dominican Republic,2032,0.06
+Dominican Republic,2033,-0.25
+Ecuador,2004,-0.84
+Ecuador,2005,-0.79
+Ecuador,2006,-0.85
+Ecuador,2007,-0.82
+Ecuador,2008,-0.73
+Ecuador,2009,-0.67
+Ecuador,2010,-0.59
+Ecuador,2011,-0.69
+Ecuador,2012,-0.57
+Ecuador,2013,-0.18
+Ecuador,2014,-0.02
+Ecuador,2015,-0.15
+Ecuador,2016,-0.09
+Ecuador,2017,-0.08
+Ecuador,2018,-0.09
+Ecuador,2019,-0.24
+Ecuador,2020,-0.27
+Ecuador,2021,-0.26
+Ecuador,2022,-0.37
+Ecuador,2023,-0.34
+Ecuador,2024,-0.06
+Ecuador,2025,-0.74
+Ecuador,2026,-0.5
+Ecuador,2027,-0.55
+Ecuador,2028,-0.59
+Ecuador,2029,-0.35
+Ecuador,2030,-0.79
+Ecuador,2031,-0.59
+Ecuador,2032,-0.7
+Ecuador,2033,-0.82
+Egypt,2004,-0.82
+Egypt,2005,-0.63
+Egypt,2006,-0.84
+Egypt,2007,-0.55
+Egypt,2008,-0.51
+Egypt,2009,-0.61
+Egypt,2010,-0.9
+Egypt,2011,-1.44
+Egypt,2012,-1.44
+Egypt,2013,-1.64
+Egypt,2014,-1.63
+Egypt,2015,-1.5
+Egypt,2016,-1.44
+Egypt,2017,-1.43
+Egypt,2018,-1.19
+Egypt,2019,-1.12
+Egypt,2020,-1.18
+Egypt,2021,-1.03
+Egypt,2022,-0.98
+Egypt,2023,-0.87
+Egypt,2024,-1.36
+Egypt,2025,-1.16
+Egypt,2026,-0.73
+Egypt,2027,-0.53
+Egypt,2028,-1.27
+Egypt,2029,-0.8
+Egypt,2030,-0.47
+Egypt,2031,-1.12
+Egypt,2032,-0.87
+Egypt,2033,-0.92
+El Salvador,2004,-0.07
+El Salvador,2005,-0.03
+El Salvador,2006,-0.17
+El Salvador,2007,-0.01
+El Salvador,2008,0.04
+El Salvador,2009,-0.01
+El Salvador,2010,0.06
+El Salvador,2011,0.11
+El Salvador,2012,0.23
+El Salvador,2013,-0.03
+El Salvador,2014,-0.02
+El Salvador,2015,-0.02
+El Salvador,2016,-0.1
+El Salvador,2017,-0.26
+El Salvador,2018,-0.39
+El Salvador,2019,-0.12
+El Salvador,2020,-0.11
+El Salvador,2021,-0.09
+El Salvador,2022,-0.35
+El Salvador,2023,0.0
+El Salvador,2024,0.12
+El Salvador,2025,-0.02
+El Salvador,2026,-0.02
+El Salvador,2027,-0.26
+El Salvador,2028,-0.03
+El Salvador,2029,-0.14
+El Salvador,2030,0.06
+El Salvador,2031,-0.27
+El Salvador,2032,-0.18
+El Salvador,2033,0.16
+Equatorial Guinea,2004,-0.06
+Equatorial Guinea,2005,-0.39
+Equatorial Guinea,2006,0.17
+Equatorial Guinea,2007,0.26
+Equatorial Guinea,2008,0.21
+Equatorial Guinea,2009,0.37
+Equatorial Guinea,2010,0.24
+Equatorial Guinea,2011,0.15
+Equatorial Guinea,2012,0.23
+Equatorial Guinea,2013,0.12
+Equatorial Guinea,2014,-0.37
+Equatorial Guinea,2015,-0.21
+Equatorial Guinea,2016,-0.15
+Equatorial Guinea,2017,-0.17
+Equatorial Guinea,2018,-0.09
+Equatorial Guinea,2019,-0.15
+Equatorial Guinea,2020,-0.22
+Equatorial Guinea,2021,-0.2
+Equatorial Guinea,2022,-0.24
+Equatorial Guinea,2023,-0.24
+Equatorial Guinea,2024,-0.19
+Equatorial Guinea,2025,-0.05
+Equatorial Guinea,2026,-0.4
+Equatorial Guinea,2027,-0.08
+Equatorial Guinea,2028,-0.08
+Equatorial Guinea,2029,-0.07
+Equatorial Guinea,2030,-0.11
+Equatorial Guinea,2031,0.29
+Equatorial Guinea,2032,-0.36
+Equatorial Guinea,2033,-0.14
+Estonia,2004,0.7
+Estonia,2005,0.61
+Estonia,2006,0.74
+Estonia,2007,0.63
+Estonia,2008,0.57
+Estonia,2009,0.57
+Estonia,2010,0.66
+Estonia,2011,0.61
+Estonia,2012,0.64
+Estonia,2013,0.75
+Estonia,2014,0.78
+Estonia,2015,0.61
+Estonia,2016,0.66
+Estonia,2017,0.64
+Estonia,2018,0.58
+Estonia,2019,0.63
+Estonia,2020,0.71
+Estonia,2021,0.75
+Estonia,2022,0.73
+Estonia,2023,0.66
+Estonia,2024,0.66
+Estonia,2025,0.66
+Estonia,2026,0.65
+Estonia,2027,0.62
+Estonia,2028,0.57
+Estonia,2029,0.76
+Estonia,2030,0.58
+Estonia,2031,0.77
+Estonia,2032,0.73
+Estonia,2033,0.65
+Ethiopia,2004,-1.31
+Ethiopia,2005,-1.69
+Ethiopia,2006,-1.74
+Ethiopia,2007,-1.81
+Ethiopia,2008,-1.73
+Ethiopia,2009,-1.64
+Ethiopia,2010,-1.64
+Ethiopia,2011,-1.51
+Ethiopia,2012,-1.56
+Ethiopia,2013,-1.41
+Ethiopia,2014,-1.34
+Ethiopia,2015,-1.5
+Ethiopia,2016,-1.62
+Ethiopia,2017,-1.68
+Ethiopia,2018,-1.27
+Ethiopia,2019,-1.3
+Ethiopia,2020,-1.75
+Ethiopia,2021,-2.18
+Ethiopia,2022,-2.07
+Ethiopia,2023,-1.97
+Ethiopia,2024,-1.46
+Ethiopia,2025,-1.73
+Ethiopia,2026,-1.21
+Ethiopia,2027,-1.25
+Ethiopia,2028,-1.35
+Ethiopia,2029,-2.03
+Ethiopia,2030,-1.69
+Ethiopia,2031,-1.43
+Ethiopia,2032,-1.74
+Ethiopia,2033,-1.33
+Finland,2004,1.62
+Finland,2005,1.59
+Finland,2006,1.5
+Finland,2007,1.49
+Finland,2008,1.45
+Finland,2009,1.46
+Finland,2010,1.42
+Finland,2011,1.39
+Finland,2012,1.4
+Finland,2013,1.39
+Finland,2014,1.28
+Finland,2015,1.03
+Finland,2016,0.98
+Finland,2017,1.06
+Finland,2018,0.89
+Finland,2019,0.84
+Finland,2020,0.98
+Finland,2021,0.96
+Finland,2022,0.89
+Finland,2023,0.71
+Finland,2024,1.12
+Finland,2025,1.44
+Finland,2026,1.07
+Finland,2027,0.83
+Finland,2028,0.96
+Finland,2029,0.84
+Finland,2030,1.01
+Finland,2031,1.18
+Finland,2032,1.14
+Finland,2033,1.05
+France,2004,0.35
+France,2005,0.4
+France,2006,0.6
+France,2007,0.56
+France,2008,0.54
+France,2009,0.51
+France,2010,0.68
+France,2011,0.6
+France,2012,0.55
+France,2013,0.45
+France,2014,0.3
+France,2015,0.1
+France,2016,-0.11
+France,2017,0.27
+France,2018,0.01
+France,2019,0.27
+France,2020,0.28
+France,2021,0.33
+France,2022,0.39
+France,2023,0.34
+France,2024,0.34
+France,2025,0.26
+France,2026,0.3
+France,2027,0.17
+France,2028,0.48
+France,2029,0.22
+France,2030,0.49
+France,2031,0.11
+France,2032,0.68
+France,2033,0.22
+Gambia,2004,0.16
+Gambia,2005,0.2
+Gambia,2006,-0.03
+Gambia,2007,0.05
+Gambia,2008,0.07
+Gambia,2009,0.12
+Gambia,2010,0.07
+Gambia,2011,0.0
+Gambia,2012,0.0
+Gambia,2013,-0.05
+Gambia,2014,-0.15
+Gambia,2015,0.02
+Gambia,2016,-0.44
+Gambia,2017,-0.09
+Gambia,2018,-0.09
+Gambia,2019,0.21
+Gambia,2020,0.25
+Gambia,2021,0.04
+Gambia,2022,0.04
+Gambia,2023,-0.01
+Gambia,2024,-0.0
+Gambia,2025,-0.21
+Gambia,2026,0.09
+Gambia,2027,-0.06
+Gambia,2028,-0.09
+Gambia,2029,0.24
+Gambia,2030,0.16
+Gambia,2031,0.03
+Gambia,2032,-0.03
+Gambia,2033,-0.12
+Georgia,2004,-0.86
+Georgia,2005,-0.76
+Georgia,2006,-0.97
+Georgia,2007,-0.65
+Georgia,2008,-0.92
+Georgia,2009,-0.97
+Georgia,2010,-0.72
+Georgia,2011,-0.66
+Georgia,2012,-0.68
+Georgia,2013,-0.44
+Georgia,2014,-0.32
+Georgia,2015,-0.47
+Georgia,2016,-0.32
+Georgia,2017,-0.38
+Georgia,2018,-0.45
+Georgia,2019,-0.5
+Georgia,2020,-0.43
+Georgia,2021,-0.43
+Georgia,2022,-0.44
+Georgia,2023,-0.34
+Georgia,2024,-0.91
+Georgia,2025,-0.7
+Georgia,2026,-0.69
+Georgia,2027,-0.75
+Georgia,2028,-0.68
+Georgia,2029,-0.79
+Georgia,2030,-0.94
+Georgia,2031,-0.62
+Georgia,2032,-0.96
+Georgia,2033,-0.93
+Germany,2004,0.64
+Germany,2005,0.89
+Germany,2006,1.03
+Germany,2007,1.0
+Germany,2008,0.94
+Germany,2009,0.86
+Germany,2010,0.8
+Germany,2011,0.84
+Germany,2012,0.78
+Germany,2013,0.93
+Germany,2014,0.93
+Germany,2015,0.69
+Germany,2016,0.67
+Germany,2017,0.57
+Germany,2018,0.58
+Germany,2019,0.55
+Germany,2020,0.65
+Germany,2021,0.73
+Germany,2022,0.63
+Germany,2023,0.59
+Germany,2024,0.65
+Germany,2025,0.73
+Germany,2026,0.98
+Germany,2027,0.67
+Germany,2028,0.99
+Germany,2029,0.8
+Germany,2030,0.58
+Germany,2031,0.7
+Germany,2032,0.69
+Germany,2033,0.76
+Ghana,2004,0.04
+Ghana,2005,0.17
+Ghana,2006,0.01
+Ghana,2007,-0.07
+Ghana,2008,-0.03
+Ghana,2009,0.03
+Ghana,2010,0.03
+Ghana,2011,0.17
+Ghana,2012,0.13
+Ghana,2013,0.06
+Ghana,2014,-0.11
+Ghana,2015,-0.04
+Ghana,2016,-0.14
+Ghana,2017,0.08
+Ghana,2018,-0.04
+Ghana,2019,0.12
+Ghana,2020,0.17
+Ghana,2021,0.07
+Ghana,2022,-0.2
+Ghana,2023,-0.02
+Ghana,2024,-0.03
+Ghana,2025,0.1
+Ghana,2026,0.05
+Ghana,2027,0.21
+Ghana,2028,0.05
+Ghana,2029,0.11
+Ghana,2030,0.08
+Ghana,2031,0.05
+Ghana,2032,0.08
+Ghana,2033,0.2
+Greece,2004,0.49
+Greece,2005,0.51
+Greece,2006,0.63
+Greece,2007,0.52
+Greece,2008,0.27
+Greece,2009,-0.21
+Greece,2010,-0.13
+Greece,2011,-0.1
+Greece,2012,-0.22
+Greece,2013,-0.17
+Greece,2014,-0.14
+Greece,2015,-0.24
+Greece,2016,-0.13
+Greece,2017,-0.08
+Greece,2018,0.15
+Greece,2019,0.16
+Greece,2020,0.12
+Greece,2021,0.1
+Greece,2022,0.11
+Greece,2023,0.24
+Greece,2024,0.27
+Greece,2025,0.39
+Greece,2026,0.1
+Greece,2027,-0.07
+Greece,2028,0.19
+Greece,2029,0.5
+Greece,2030,-0.12
+Greece,2031,0.62
+Greece,2032,-0.23
+Greece,2033,0.22
+Guatemala,2004,-0.81
+Guatemala,2005,-0.84
+Guatemala,2006,-0.74
+Guatemala,2007,-0.75
+Guatemala,2008,-0.71
+Guatemala,2009,-0.93
+Guatemala,2010,-0.85
+Guatemala,2011,-0.74
+Guatemala,2012,-0.63
+Guatemala,2013,-0.67
+Guatemala,2014,-0.66
+Guatemala,2015,-0.65
+Guatemala,2016,-0.55
+Guatemala,2017,-0.65
+Guatemala,2018,-0.54
+Guatemala,2019,-0.58
+Guatemala,2020,-0.42
+Guatemala,2021,-0.4
+Guatemala,2022,-0.26
+Guatemala,2023,-0.24
+Guatemala,2024,-0.66
+Guatemala,2025,-0.56
+Guatemala,2026,-0.58
+Guatemala,2027,-0.5
+Guatemala,2028,-0.68
+Guatemala,2029,-0.85
+Guatemala,2030,-0.82
+Guatemala,2031,-0.47
+Guatemala,2032,-0.68
+Guatemala,2033,-0.73
+Guinea,2004,-1.03
+Guinea,2005,-1.15
+Guinea,2006,-1.91
+Guinea,2007,-2.4
+Guinea,2008,-2.1
+Guinea,2009,-2.12
+Guinea,2010,-1.69
+Guinea,2011,-1.39
+Guinea,2012,-1.29
+Guinea,2013,-1.23
+Guinea,2014,-0.96
+Guinea,2015,-0.39
+Guinea,2016,-0.4
+Guinea,2017,-0.7
+Guinea,2018,-0.88
+Guinea,2019,-0.84
+Guinea,2020,-0.67
+Guinea,2021,-0.94
+Guinea,2022,-0.84
+Guinea,2023,-0.88
+Guinea,2024,-1.65
+Guinea,2025,-0.33
+Guinea,2026,-0.77
+Guinea,2027,-1.62
+Guinea,2028,-1.65
+Guinea,2029,-0.42
+Guinea,2030,-1.4
+Guinea,2031,-0.79
+Guinea,2032,-0.8
+Guinea,2033,-0.5
+Guinea-Bissau,2004,-0.38
+Guinea-Bissau,2005,-0.56
+Guinea-Bissau,2006,-0.49
+Guinea-Bissau,2007,-0.46
+Guinea-Bissau,2008,-0.71
+Guinea-Bissau,2009,-0.67
+Guinea-Bissau,2010,-0.69
+Guinea-Bissau,2011,-0.75
+Guinea-Bissau,2012,-0.97
+Guinea-Bissau,2013,-0.9
+Guinea-Bissau,2014,-0.71
+Guinea-Bissau,2015,-0.52
+Guinea-Bissau,2016,-0.45
+Guinea-Bissau,2017,-0.5
+Guinea-Bissau,2018,-0.68
+Guinea-Bissau,2019,-0.56
+Guinea-Bissau,2020,-0.72
+Guinea-Bissau,2021,-0.28
+Guinea-Bissau,2022,-0.39
+Guinea-Bissau,2023,-0.33
+Guinea-Bissau,2024,-0.35
+Guinea-Bissau,2025,-0.48
+Guinea-Bissau,2026,-0.7
+Guinea-Bissau,2027,-0.5
+Guinea-Bissau,2028,-0.54
+Guinea-Bissau,2029,-0.57
+Guinea-Bissau,2030,-0.55
+Guinea-Bissau,2031,-0.37
+Guinea-Bissau,2032,-0.5
+Guinea-Bissau,2033,-0.84
+Guyana,2004,-0.55
+Guyana,2005,-0.45
+Guyana,2006,-0.73
+Guyana,2007,-0.56
+Guyana,2008,-0.63
+Guyana,2009,-0.63
+Guyana,2010,-0.46
+Guyana,2011,-0.43
+Guyana,2012,-0.5
+Guyana,2013,-0.46
+Guyana,2014,-0.14
+Guyana,2015,-0.14
+Guyana,2016,-0.03
+Guyana,2017,-0.05
+Guyana,2018,-0.19
+Guyana,2019,-0.25
+Guyana,2020,-0.14
+Guyana,2021,-0.14
+Guyana,2022,0.02
+Guyana,2023,-0.06
+Guyana,2024,-0.77
+Guyana,2025,-0.31
+Guyana,2026,-0.2
+Guyana,2027,0.09
+Guyana,2028,-0.62
+Guyana,2029,-0.47
+Guyana,2030,-0.04
+Guyana,2031,-0.39
+Guyana,2032,-0.28
+Guyana,2033,-0.23
+Haiti,2004,-1.98
+Haiti,2005,-1.8
+Haiti,2006,-1.39
+Haiti,2007,-1.32
+Haiti,2008,-1.38
+Haiti,2009,-0.96
+Haiti,2010,-0.94
+Haiti,2011,-0.99
+Haiti,2012,-0.79
+Haiti,2013,-0.63
+Haiti,2014,-0.64
+Haiti,2015,-0.67
+Haiti,2016,-0.75
+Haiti,2017,-0.68
+Haiti,2018,-0.64
+Haiti,2019,-0.89
+Haiti,2020,-1.03
+Haiti,2021,-1.13
+Haiti,2022,-1.42
+Haiti,2023,-1.43
+Haiti,2024,-0.74
+Haiti,2025,-1.09
+Haiti,2026,-0.81
+Haiti,2027,-0.37
+Haiti,2028,-1.03
+Haiti,2029,-1.59
+Haiti,2030,-1.12
+Haiti,2031,-0.72
+Haiti,2032,-1.63
+Haiti,2033,-0.79
+Honduras,2004,-0.39
+Honduras,2005,-0.62
+Honduras,2006,-0.67
+Honduras,2007,-0.44
+Honduras,2008,-0.53
+Honduras,2009,-0.31
+Honduras,2010,-0.5
+Honduras,2011,-0.39
+Honduras,2012,-0.35
+Honduras,2013,-0.44
+Honduras,2014,-0.53
+Honduras,2015,-0.47
+Honduras,2016,-0.44
+Honduras,2017,-0.57
+Honduras,2018,-0.53
+Honduras,2019,-0.57
+Honduras,2020,-0.45
+Honduras,2021,-0.63
+Honduras,2022,-0.57
+Honduras,2023,-0.46
+Honduras,2024,-0.41
+Honduras,2025,-0.44
+Honduras,2026,-0.45
+Honduras,2027,-0.5
+Honduras,2028,-0.43
+Honduras,2029,-0.4
+Honduras,2030,-0.49
+Honduras,2031,-0.5
+Honduras,2032,-0.39
+Honduras,2033,-0.56
+Hungary,2004,0.83
+Hungary,2005,1.0
+Hungary,2006,0.99
+Hungary,2007,0.75
+Hungary,2008,0.75
+Hungary,2009,0.54
+Hungary,2010,0.69
+Hungary,2011,0.74
+Hungary,2012,0.68
+Hungary,2013,0.8
+Hungary,2014,0.67
+Hungary,2015,0.74
+Hungary,2016,0.64
+Hungary,2017,0.8
+Hungary,2018,0.74
+Hungary,2019,0.76
+Hungary,2020,0.84
+Hungary,2021,0.8
+Hungary,2022,0.68
+Hungary,2023,0.73
+Hungary,2024,0.91
+Hungary,2025,0.83
+Hungary,2026,0.61
+Hungary,2027,0.61
+Hungary,2028,0.78
+Hungary,2029,0.76
+Hungary,2030,0.83
+Hungary,2031,0.8
+Hungary,2032,0.63
+Hungary,2033,0.83
+Iceland,2004,1.46
+Iceland,2005,1.44
+Iceland,2006,1.45
+Iceland,2007,1.49
+Iceland,2008,1.22
+Iceland,2009,1.19
+Iceland,2010,1.02
+Iceland,2011,1.24
+Iceland,2012,1.25
+Iceland,2013,1.29
+Iceland,2014,1.25
+Iceland,2015,1.3
+Iceland,2016,1.35
+Iceland,2017,1.34
+Iceland,2018,1.39
+Iceland,2019,1.62
+Iceland,2020,1.38
+Iceland,2021,1.37
+Iceland,2022,1.25
+Iceland,2023,1.21
+Iceland,2024,1.29
+Iceland,2025,1.45
+Iceland,2026,1.46
+Iceland,2027,1.11
+Iceland,2028,1.33
+Iceland,2029,1.22
+Iceland,2030,1.33
+Iceland,2031,1.39
+Iceland,2032,1.31
+Iceland,2033,1.35
+India,2004,-1.28
+India,2005,-1.01
+India,2006,-1.07
+India,2007,-1.15
+India,2008,-1.11
+India,2009,-1.36
+India,2010,-1.28
+India,2011,-1.33
+India,2012,-1.29
+India,2013,-1.23
+India,2014,-1.0
+India,2015,-0.95
+India,2016,-0.96
+India,2017,-0.77
+India,2018,-1.0
+India,2019,-0.8
+India,2020,-0.84
+India,2021,-0.69
+India,2022,-0.62
+India,2023,-0.64
+India,2024,-0.87
+India,2025,-1.09
+India,2026,-1.09
+India,2027,-0.83
+India,2028,-0.89
+India,2029,-0.65
+India,2030,-1.29
+India,2031,-0.91
+India,2032,-0.93
+India,2033,-0.83
+Indonesia,2004,-1.91
+Indonesia,2005,-1.52
+Indonesia,2006,-1.42
+Indonesia,2007,-1.2
+Indonesia,2008,-1.06
+Indonesia,2009,-0.75
+Indonesia,2010,-0.85
+Indonesia,2011,-0.77
+Indonesia,2012,-0.59
+Indonesia,2013,-0.52
+Indonesia,2014,-0.42
+Indonesia,2015,-0.62
+Indonesia,2016,-0.38
+Indonesia,2017,-0.5
+Indonesia,2018,-0.55
+Indonesia,2019,-0.5
+Indonesia,2020,-0.46
+Indonesia,2021,-0.53
+Indonesia,2022,-0.55
+Indonesia,2023,-0.4
+Indonesia,2024,-0.87
+Indonesia,2025,-0.38
+Indonesia,2026,-1.28
+Indonesia,2027,-1.32
+Indonesia,2028,-0.68
+Indonesia,2029,-0.74
+Indonesia,2030,-0.55
+Indonesia,2031,-1.08
+Indonesia,2032,-0.56
+Indonesia,2033,-0.96
+Iran,2004,-0.76
+Iran,2005,-0.78
+Iran,2006,-1.04
+Iran,2007,-0.93
+Iran,2008,-0.94
+Iran,2009,-1.56
+Iran,2010,-1.63
+Iran,2011,-1.42
+Iran,2012,-1.32
+Iran,2013,-1.25
+Iran,2014,-0.87
+Iran,2015,-0.92
+Iran,2016,-0.81
+Iran,2017,-0.93
+Iran,2018,-1.34
+Iran,2019,-1.71
+Iran,2020,-1.7
+Iran,2021,-1.58
+Iran,2022,-1.63
+Iran,2023,-1.69
+Iran,2024,-1.78
+Iran,2025,-1.51
+Iran,2026,-1.13
+Iran,2027,-0.7
+Iran,2028,-0.85
+Iran,2029,-1.19
+Iran,2030,-0.99
+Iran,2031,-1.35
+Iran,2032,-1.17
+Iran,2033,-0.95
+Iraq,2004,-3.18
+Iraq,2005,-2.69
+Iraq,2006,-2.83
+Iraq,2007,-2.77
+Iraq,2008,-2.47
+Iraq,2009,-2.17
+Iraq,2010,-2.24
+Iraq,2011,-1.85
+Iraq,2012,-1.93
+Iraq,2013,-2.01
+Iraq,2014,-2.48
+Iraq,2015,-2.25
+Iraq,2016,-2.3
+Iraq,2017,-2.3
+Iraq,2018,-2.52
+Iraq,2019,-2.61
+Iraq,2020,-2.47
+Iraq,2021,-2.38
+Iraq,2022,-2.41
+Iraq,2023,-2.41
+Iraq,2024,-2.9
+Iraq,2025,-2.72
+Iraq,2026,-2.11
+Iraq,2027,-2.98
+Iraq,2028,-2.15
+Iraq,2029,-2.11
+Iraq,2030,-1.94
+Iraq,2031,-2.43
+Iraq,2032,-2.66
+Iraq,2033,-2.57
+Ireland,2004,1.17
+Ireland,2005,1.3
+Ireland,2006,1.19
+Ireland,2007,1.22
+Ireland,2008,1.19
+Ireland,2009,1.06
+Ireland,2010,1.02
+Ireland,2011,0.95
+Ireland,2012,0.94
+Ireland,2013,0.9
+Ireland,2014,1.05
+Ireland,2015,0.9
+Ireland,2016,0.83
+Ireland,2017,0.99
+Ireland,2018,1.01
+Ireland,2019,0.96
+Ireland,2020,0.97
+Ireland,2021,0.84
+Ireland,2022,0.88
+Ireland,2023,0.9
+Ireland,2024,0.84
+Ireland,2025,0.98
+Ireland,2026,0.81
+Ireland,2027,1.17
+Ireland,2028,0.94
+Ireland,2029,1.13
+Ireland,2030,0.88
+Ireland,2031,0.91
+Ireland,2032,0.82
+Ireland,2033,1.08
+Israel,2004,-1.32
+Israel,2005,-1.25
+Israel,2006,-1.26
+Israel,2007,-1.25
+Israel,2008,-1.32
+Israel,2009,-1.63
+Israel,2010,-1.34
+Israel,2011,-1.2
+Israel,2012,-1.08
+Israel,2013,-1.1
+Israel,2014,-1.04
+Israel,2015,-1.1
+Israel,2016,-0.8
+Israel,2017,-0.89
+Israel,2018,-0.92
+Israel,2019,-0.82
+Israel,2020,-0.89
+Israel,2021,-1.12
+Israel,2022,-1.23
+Israel,2023,-1.46
+Israel,2024,-1.52
+Israel,2025,-1.36
+Israel,2026,-0.99
+Israel,2027,-1.07
+Israel,2028,-1.38
+Israel,2029,-1.1
+Israel,2030,-1.03
+Israel,2031,-1.23
+Israel,2032,-1.02
+Israel,2033,-1.29
+Italy,2004,0.27
+Italy,2005,0.49
+Italy,2006,0.53
+Italy,2007,0.45
+Italy,2008,0.55
+Italy,2009,0.35
+Italy,2010,0.47
+Italy,2011,0.5
+Italy,2012,0.51
+Italy,2013,0.5
+Italy,2014,0.46
+Italy,2015,0.36
+Italy,2016,0.36
+Italy,2017,0.29
+Italy,2018,0.33
+Italy,2019,0.38
+Italy,2020,0.4
+Italy,2021,0.55
+Italy,2022,0.47
+Italy,2023,0.58
+Italy,2024,0.46
+Italy,2025,0.49
+Italy,2026,0.47
+Italy,2027,0.43
+Italy,2028,0.39
+Italy,2029,0.35
+Italy,2030,0.31
+Italy,2031,0.43
+Italy,2032,0.42
+Italy,2033,0.4
+Jamaica,2004,-0.35
+Jamaica,2005,-0.3
+Jamaica,2006,-0.32
+Jamaica,2007,-0.26
+Jamaica,2008,-0.31
+Jamaica,2009,-0.36
+Jamaica,2010,-0.43
+Jamaica,2011,-0.06
+Jamaica,2012,0.12
+Jamaica,2013,0.18
+Jamaica,2014,0.02
+Jamaica,2015,0.09
+Jamaica,2016,0.3
+Jamaica,2017,0.3
+Jamaica,2018,0.42
+Jamaica,2019,0.39
+Jamaica,2020,0.26
+Jamaica,2021,0.22
+Jamaica,2022,0.36
+Jamaica,2023,0.38
+Jamaica,2024,-0.18
+Jamaica,2025,-0.07
+Jamaica,2026,0.18
+Jamaica,2027,-0.06
+Jamaica,2028,0.02
+Jamaica,2029,-0.08
+Jamaica,2030,0.28
+Jamaica,2031,-0.08
+Jamaica,2032,-0.0
+Jamaica,2033,0.03
+Japan,2004,1.03
+Japan,2005,1.04
+Japan,2006,1.14
+Japan,2007,1.01
+Japan,2008,0.89
+Japan,2009,0.98
+Japan,2010,0.88
+Japan,2011,1.0
+Japan,2012,0.95
+Japan,2013,1.02
+Japan,2014,0.97
+Japan,2015,1.05
+Japan,2016,0.97
+Japan,2017,1.1
+Japan,2018,1.04
+Japan,2019,1.02
+Japan,2020,1.03
+Japan,2021,1.02
+Japan,2022,1.03
+Japan,2023,0.95
+Japan,2024,0.97
+Japan,2025,1.12
+Japan,2026,1.0
+Japan,2027,0.91
+Japan,2028,1.05
+Japan,2029,1.05
+Japan,2030,1.02
+Japan,2031,0.89
+Japan,2032,1.0
+Japan,2033,1.04
+Jordan,2004,-0.23
+Jordan,2005,-0.13
+Jordan,2006,-0.76
+Jordan,2007,-0.3
+Jordan,2008,-0.37
+Jordan,2009,-0.36
+Jordan,2010,-0.31
+Jordan,2011,-0.51
+Jordan,2012,-0.52
+Jordan,2013,-0.61
+Jordan,2014,-0.54
+Jordan,2015,-0.61
+Jordan,2016,-0.5
+Jordan,2017,-0.43
+Jordan,2018,-0.38
+Jordan,2019,-0.28
+Jordan,2020,-0.27
+Jordan,2021,-0.31
+Jordan,2022,-0.23
+Jordan,2023,-0.2
+Jordan,2024,-0.71
+Jordan,2025,-0.52
+Jordan,2026,-0.16
+Jordan,2027,-0.29
+Jordan,2028,-0.39
+Jordan,2029,-0.48
+Jordan,2030,-0.45
+Jordan,2031,-0.21
+Jordan,2032,-0.45
+Jordan,2033,-0.29
+Kazakhstan,2004,0.07
+Kazakhstan,2005,0.19
+Kazakhstan,2006,0.21
+Kazakhstan,2007,0.65
+Kazakhstan,2008,0.63
+Kazakhstan,2009,0.78
+Kazakhstan,2010,0.52
+Kazakhstan,2011,-0.34
+Kazakhstan,2012,-0.41
+Kazakhstan,2013,-0.4
+Kazakhstan,2014,0.04
+Kazakhstan,2015,-0.04
+Kazakhstan,2016,0.0
+Kazakhstan,2017,0.02
+Kazakhstan,2018,-0.05
+Kazakhstan,2019,-0.17
+Kazakhstan,2020,-0.26
+Kazakhstan,2021,-0.23
+Kazakhstan,2022,-0.47
+Kazakhstan,2023,-0.27
+Kazakhstan,2024,0.69
+Kazakhstan,2025,0.16
+Kazakhstan,2026,-0.07
+Kazakhstan,2027,0.21
+Kazakhstan,2028,-0.55
+Kazakhstan,2029,0.48
+Kazakhstan,2030,0.28
+Kazakhstan,2031,-0.0
+Kazakhstan,2032,0.31
+Kazakhstan,2033,0.35
+Kenya,2004,-1.09
+Kenya,2005,-1.25
+Kenya,2006,-1.13
+Kenya,2007,-1.31
+Kenya,2008,-1.39
+Kenya,2009,-1.43
+Kenya,2010,-1.17
+Kenya,2011,-1.24
+Kenya,2012,-1.32
+Kenya,2013,-1.17
+Kenya,2014,-1.28
+Kenya,2015,-1.24
+Kenya,2016,-1.35
+Kenya,2017,-1.13
+Kenya,2018,-1.18
+Kenya,2019,-1.11
+Kenya,2020,-1.01
+Kenya,2021,-1.03
+Kenya,2022,-0.95
+Kenya,2023,-0.94
+Kenya,2024,-1.18
+Kenya,2025,-1.16
+Kenya,2026,-1.31
+Kenya,2027,-1.36
+Kenya,2028,-1.37
+Kenya,2029,-1.37
+Kenya,2030,-1.22
+Kenya,2031,-1.23
+Kenya,2032,-1.11
+Kenya,2033,-1.03
+Kiribati,2004,1.16
+Kiribati,2005,1.38
+Kiribati,2006,1.35
+Kiribati,2007,1.34
+Kiribati,2008,1.34
+Kiribati,2009,1.4
+Kiribati,2010,1.42
+Kiribati,2011,1.3
+Kiribati,2012,1.29
+Kiribati,2013,1.28
+Kiribati,2014,0.8
+Kiribati,2015,0.82
+Kiribati,2016,0.85
+Kiribati,2017,0.86
+Kiribati,2018,1.0
+Kiribati,2019,1.12
+Kiribati,2020,1.16
+Kiribati,2021,1.14
+Kiribati,2022,1.1
+Kiribati,2023,1.1
+Kiribati,2024,1.17
+Kiribati,2025,1.08
+Kiribati,2026,1.31
+Kiribati,2027,1.41
+Kiribati,2028,0.91
+Kiribati,2029,1.16
+Kiribati,2030,0.89
+Kiribati,2031,1.08
+Kiribati,2032,1.37
+Kiribati,2033,1.13
+Kuwait,2004,0.35
+Kuwait,2005,0.25
+Kuwait,2006,0.41
+Kuwait,2007,0.62
+Kuwait,2008,0.5
+Kuwait,2009,0.35
+Kuwait,2010,0.45
+Kuwait,2011,0.31
+Kuwait,2012,0.2
+Kuwait,2013,0.17
+Kuwait,2014,0.15
+Kuwait,2015,-0.22
+Kuwait,2016,-0.06
+Kuwait,2017,-0.05
+Kuwait,2018,0.09
+Kuwait,2019,0.18
+Kuwait,2020,0.23
+Kuwait,2021,0.26
+Kuwait,2022,0.29
+Kuwait,2023,0.41
+Kuwait,2024,0.38
+Kuwait,2025,0.24
+Kuwait,2026,0.22
+Kuwait,2027,0.14
+Kuwait,2028,0.23
+Kuwait,2029,0.1
+Kuwait,2030,0.42
+Kuwait,2031,0.06
+Kuwait,2032,0.33
+Kuwait,2033,0.28
+Kyrgyz Republic,2004,-1.18
+Kyrgyz Republic,2005,-1.17
+Kyrgyz Republic,2006,-1.39
+Kyrgyz Republic,2007,-0.99
+Kyrgyz Republic,2008,-0.57
+Kyrgyz Republic,2009,-0.62
+Kyrgyz Republic,2010,-1.04
+Kyrgyz Republic,2011,-1.1
+Kyrgyz Republic,2012,-0.91
+Kyrgyz Republic,2013,-0.91
+Kyrgyz Republic,2014,-0.8
+Kyrgyz Republic,2015,-0.88
+Kyrgyz Republic,2016,-0.65
+Kyrgyz Republic,2017,-0.36
+Kyrgyz Republic,2018,-0.53
+Kyrgyz Republic,2019,-0.27
+Kyrgyz Republic,2020,-0.46
+Kyrgyz Republic,2021,-0.47
+Kyrgyz Republic,2022,-0.47
+Kyrgyz Republic,2023,-0.48
+Kyrgyz Republic,2024,-1.08
+Kyrgyz Republic,2025,-0.88
+Kyrgyz Republic,2026,-0.7
+Kyrgyz Republic,2027,-0.93
+Kyrgyz Republic,2028,-0.95
+Kyrgyz Republic,2029,-0.84
+Kyrgyz Republic,2030,-1.03
+Kyrgyz Republic,2031,-0.69
+Kyrgyz Republic,2032,-0.95
+Kyrgyz Republic,2033,-1.1
+Laos,2004,-0.61
+Laos,2005,-0.49
+Laos,2006,-0.09
+Laos,2007,-0.18
+Laos,2008,0.02
+Laos,2009,-0.16
+Laos,2010,-0.28
+Laos,2011,-0.06
+Laos,2012,0.03
+Laos,2013,0.07
+Laos,2014,0.5
+Laos,2015,0.54
+Laos,2016,0.52
+Laos,2017,0.39
+Laos,2018,0.41
+Laos,2019,0.53
+Laos,2020,0.69
+Laos,2021,0.71
+Laos,2022,0.79
+Laos,2023,0.81
+Laos,2024,-0.21
+Laos,2025,-0.19
+Laos,2026,0.87
+Laos,2027,-0.32
+Laos,2028,0.39
+Laos,2029,0.61
+Laos,2030,0.69
+Laos,2031,-0.15
+Laos,2032,-0.28
+Laos,2033,0.7
+Latvia,2004,0.62
+Latvia,2005,0.81
+Latvia,2006,0.84
+Latvia,2007,0.56
+Latvia,2008,0.2
+Latvia,2009,0.35
+Latvia,2010,0.53
+Latvia,2011,0.32
+Latvia,2012,0.45
+Latvia,2013,0.59
+Latvia,2014,0.49
+Latvia,2015,0.44
+Latvia,2016,0.47
+Latvia,2017,0.45
+Latvia,2018,0.4
+Latvia,2019,0.43
+Latvia,2020,0.46
+Latvia,2021,0.67
+Latvia,2022,0.49
+Latvia,2023,0.59
+Latvia,2024,0.51
+Latvia,2025,0.43
+Latvia,2026,0.54
+Latvia,2027,0.7
+Latvia,2028,0.58
+Latvia,2029,0.53
+Latvia,2030,0.53
+Latvia,2031,0.31
+Latvia,2032,0.49
+Latvia,2033,0.34
+Lebanon,2004,-0.71
+Lebanon,2005,-1.0
+Lebanon,2006,-1.8
+Lebanon,2007,-2.12
+Lebanon,2008,-1.88
+Lebanon,2009,-1.56
+Lebanon,2010,-1.63
+Lebanon,2011,-1.56
+Lebanon,2012,-1.66
+Lebanon,2013,-1.69
+Lebanon,2014,-1.7
+Lebanon,2015,-1.7
+Lebanon,2016,-1.62
+Lebanon,2017,-1.62
+Lebanon,2018,-1.62
+Lebanon,2019,-1.67
+Lebanon,2020,-1.62
+Lebanon,2021,-1.48
+Lebanon,2022,-1.42
+Lebanon,2023,-1.52
+Lebanon,2024,-2.07
+Lebanon,2025,-1.63
+Lebanon,2026,-1.41
+Lebanon,2027,-1.86
+Lebanon,2028,-1.89
+Lebanon,2029,-1.62
+Lebanon,2030,-1.46
+Lebanon,2031,-1.4
+Lebanon,2032,-1.51
+Lebanon,2033,-1.62
+Lesotho,2004,0.36
+Lesotho,2005,0.0
+Lesotho,2006,-0.12
+Lesotho,2007,-0.39
+Lesotho,2008,-0.2
+Lesotho,2009,0.33
+Lesotho,2010,0.46
+Lesotho,2011,0.38
+Lesotho,2012,0.27
+Lesotho,2013,0.34
+Lesotho,2014,-0.33
+Lesotho,2015,-0.32
+Lesotho,2016,-0.24
+Lesotho,2017,-0.19
+Lesotho,2018,-0.19
+Lesotho,2019,-0.43
+Lesotho,2020,-0.25
+Lesotho,2021,-0.21
+Lesotho,2022,-0.29
+Lesotho,2023,-0.31
+Lesotho,2024,-0.65
+Lesotho,2025,-0.17
+Lesotho,2026,-0.1
+Lesotho,2027,-0.53
+Lesotho,2028,-0.1
+Lesotho,2029,-0.13
+Lesotho,2030,-0.26
+Lesotho,2031,-0.18
+Lesotho,2032,-0.11
+Lesotho,2033,-0.33
+Liberia,2004,-1.37
+Liberia,2005,-1.36
+Liberia,2006,-1.33
+Liberia,2007,-1.24
+Liberia,2008,-1.28
+Liberia,2009,-1.05
+Liberia,2010,-0.47
+Liberia,2011,-0.43
+Liberia,2012,-0.48
+Liberia,2013,-0.48
+Liberia,2014,-0.62
+Liberia,2015,-0.82
+Liberia,2016,-0.44
+Liberia,2017,-0.32
+Liberia,2018,-0.2
+Liberia,2019,-0.34
+Liberia,2020,-0.31
+Liberia,2021,-0.29
+Liberia,2022,-0.27
+Liberia,2023,-0.12
+Liberia,2024,-0.52
+Liberia,2025,-0.56
+Liberia,2026,-0.77
+Liberia,2027,-0.03
+Liberia,2028,-0.66
+Liberia,2029,-0.13
+Liberia,2030,-0.76
+Liberia,2031,-0.57
+Liberia,2032,-0.52
+Liberia,2033,-0.74
+Libya,2004,0.36
+Libya,2005,0.45
+Libya,2006,0.36
+Libya,2007,0.75
+Libya,2008,0.81
+Libya,2009,0.83
+Libya,2010,0.03
+Libya,2011,-1.29
+Libya,2012,-1.59
+Libya,2013,-1.84
+Libya,2014,-2.35
+Libya,2015,-2.19
+Libya,2016,-2.27
+Libya,2017,-2.35
+Libya,2018,-2.44
+Libya,2019,-2.57
+Libya,2020,-2.46
+Libya,2021,-2.31
+Libya,2022,-2.19
+Libya,2023,-2.17
+Libya,2024,-2.13
+Libya,2025,-1.2
+Libya,2026,-1.66
+Libya,2027,-1.55
+Libya,2028,-0.95
+Libya,2029,-2.38
+Libya,2030,-2.2
+Libya,2031,-2.33
+Libya,2032,-1.89
+Libya,2033,-0.38
+Lithuania,2004,0.77
+Lithuania,2005,0.78
+Lithuania,2006,0.87
+Lithuania,2007,0.82
+Lithuania,2008,0.75
+Lithuania,2009,0.63
+Lithuania,2010,0.72
+Lithuania,2011,0.67
+Lithuania,2012,0.79
+Lithuania,2013,0.96
+Lithuania,2014,0.74
+Lithuania,2015,0.75
+Lithuania,2016,0.81
+Lithuania,2017,0.77
+Lithuania,2018,0.73
+Lithuania,2019,0.77
+Lithuania,2020,0.92
+Lithuania,2021,0.81
+Lithuania,2022,0.65
+Lithuania,2023,0.74
+Lithuania,2024,0.73
+Lithuania,2025,0.67
+Lithuania,2026,0.64
+Lithuania,2027,0.76
+Lithuania,2028,0.88
+Lithuania,2029,0.8
+Lithuania,2030,0.81
+Lithuania,2031,0.81
+Lithuania,2032,0.69
+Lithuania,2033,0.66
+Luxembourg,2004,1.32
+Luxembourg,2005,1.33
+Luxembourg,2006,1.4
+Luxembourg,2007,1.48
+Luxembourg,2008,1.51
+Luxembourg,2009,1.45
+Luxembourg,2010,1.46
+Luxembourg,2011,1.32
+Luxembourg,2012,1.33
+Luxembourg,2013,1.34
+Luxembourg,2014,1.38
+Luxembourg,2015,1.43
+Luxembourg,2016,1.4
+Luxembourg,2017,1.31
+Luxembourg,2018,1.35
+Luxembourg,2019,1.33
+Luxembourg,2020,1.21
+Luxembourg,2021,1.19
+Luxembourg,2022,1.06
+Luxembourg,2023,1.05
+Luxembourg,2024,1.46
+Luxembourg,2025,1.3
+Luxembourg,2026,1.54
+Luxembourg,2027,1.23
+Luxembourg,2028,1.22
+Luxembourg,2029,1.21
+Luxembourg,2030,1.41
+Luxembourg,2031,1.43
+Luxembourg,2032,1.13
+Luxembourg,2033,1.34
+Madagascar,2004,0.25
+Madagascar,2005,-0.02
+Madagascar,2006,0.19
+Madagascar,2007,0.09
+Madagascar,2008,-0.47
+Madagascar,2009,-0.73
+Madagascar,2010,-0.98
+Madagascar,2011,-0.71
+Madagascar,2012,-0.54
+Madagascar,2013,-0.66
+Madagascar,2014,-0.56
+Madagascar,2015,-0.43
+Madagascar,2016,-0.29
+Madagascar,2017,-0.3
+Madagascar,2018,-0.58
+Madagascar,2019,-0.31
+Madagascar,2020,-0.51
+Madagascar,2021,-0.54
+Madagascar,2022,-0.48
+Madagascar,2023,-0.69
+Madagascar,2024,0.12
+Madagascar,2025,-0.94
+Madagascar,2026,-0.81
+Madagascar,2027,-0.35
+Madagascar,2028,-0.04
+Madagascar,2029,-0.48
+Madagascar,2030,-0.2
+Madagascar,2031,0.06
+Madagascar,2032,-0.62
+Madagascar,2033,-0.21
+Malawi,2004,0.12
+Malawi,2005,0.11
+Malawi,2006,0.12
+Malawi,2007,0.08
+Malawi,2008,-0.06
+Malawi,2009,0.05
+Malawi,2010,0.04
+Malawi,2011,-0.07
+Malawi,2012,0.0
+Malawi,2013,-0.21
+Malawi,2014,0.08
+Malawi,2015,0.03
+Malawi,2016,-0.12
+Malawi,2017,-0.25
+Malawi,2018,-0.43
+Malawi,2019,-0.29
+Malawi,2020,-0.12
+Malawi,2021,-0.11
+Malawi,2022,-0.16
+Malawi,2023,-0.24
+Malawi,2024,-0.16
+Malawi,2025,-0.04
+Malawi,2026,-0.19
+Malawi,2027,-0.27
+Malawi,2028,-0.1
+Malawi,2029,-0.12
+Malawi,2030,-0.13
+Malawi,2031,0.19
+Malawi,2032,-0.04
+Malawi,2033,0.13
+Malaysia,2004,0.35
+Malaysia,2005,0.57
+Malaysia,2006,0.29
+Malaysia,2007,0.19
+Malaysia,2008,0.11
+Malaysia,2009,-0.04
+Malaysia,2010,0.14
+Malaysia,2011,0.08
+Malaysia,2012,-0.01
+Malaysia,2013,0.05
+Malaysia,2014,0.27
+Malaysia,2015,0.25
+Malaysia,2016,0.13
+Malaysia,2017,0.11
+Malaysia,2018,0.25
+Malaysia,2019,0.15
+Malaysia,2020,0.13
+Malaysia,2021,0.06
+Malaysia,2022,0.16
+Malaysia,2023,0.17
+Malaysia,2024,0.17
+Malaysia,2025,0.35
+Malaysia,2026,0.15
+Malaysia,2027,0.31
+Malaysia,2028,0.0
+Malaysia,2029,0.19
+Malaysia,2030,0.13
+Malaysia,2031,0.19
+Malaysia,2032,0.01
+Malaysia,2033,0.13
+Maldives,2004,0.5
+Maldives,2005,0.81
+Maldives,2006,0.76
+Maldives,2007,0.08
+Maldives,2008,-0.16
+Maldives,2009,-0.23
+Maldives,2010,-0.17
+Maldives,2011,-0.24
+Maldives,2012,-0.37
+Maldives,2013,0.13
+Maldives,2014,0.68
+Maldives,2015,0.41
+Maldives,2016,0.41
+Maldives,2017,0.22
+Maldives,2018,0.08
+Maldives,2019,0.03
+Maldives,2020,0.36
+Maldives,2021,0.53
+Maldives,2022,0.65
+Maldives,2023,0.53
+Maldives,2024,0.2
+Maldives,2025,0.34
+Maldives,2026,0.67
+Maldives,2027,-0.27
+Maldives,2028,0.44
+Maldives,2029,0.23
+Maldives,2030,0.77
+Maldives,2031,0.18
+Maldives,2032,0.26
+Maldives,2033,0.2
+Mali,2004,0.45
+Mali,2005,0.17
+Mali,2006,0.41
+Mali,2007,0.23
+Mali,2008,0.21
+Mali,2009,-0.08
+Mali,2010,-0.18
+Mali,2011,-0.71
+Mali,2012,-2.03
+Mali,2013,-1.72
+Mali,2014,-1.71
+Mali,2015,-1.68
+Mali,2016,-1.61
+Mali,2017,-1.9
+Mali,2018,-2.08
+Mali,2019,-2.21
+Mali,2020,-2.15
+Mali,2021,-2.33
+Mali,2022,-2.56
+Mali,2023,-2.73
+Mali,2024,-1.39
+Mali,2025,-1.45
+Mali,2026,-0.07
+Mali,2027,-1.5
+Mali,2028,-0.53
+Mali,2029,-1.71
+Mali,2030,0.59
+Mali,2031,-2.48
+Mali,2032,-1.67
+Mali,2033,-1.48
+Malta,2004,1.32
+Malta,2005,1.38
+Malta,2006,1.23
+Malta,2007,1.27
+Malta,2008,1.27
+Malta,2009,1.25
+Malta,2010,1.25
+Malta,2011,1.06
+Malta,2012,1.07
+Malta,2013,1.04
+Malta,2014,1.13
+Malta,2015,1.05
+Malta,2016,1.07
+Malta,2017,1.24
+Malta,2018,1.27
+Malta,2019,1.01
+Malta,2020,1.0
+Malta,2021,0.89
+Malta,2022,0.91
+Malta,2023,0.86
+Malta,2024,1.16
+Malta,2025,1.17
+Malta,2026,1.26
+Malta,2027,1.26
+Malta,2028,1.17
+Malta,2029,1.26
+Malta,2030,0.91
+Malta,2031,1.32
+Malta,2032,1.18
+Malta,2033,1.17
+Mauritania,2004,-0.17
+Mauritania,2005,-0.22
+Mauritania,2006,0.24
+Mauritania,2007,-0.28
+Mauritania,2008,-0.64
+Mauritania,2009,-0.88
+Mauritania,2010,-1.08
+Mauritania,2011,-1.17
+Mauritania,2012,-1.13
+Mauritania,2013,-1.01
+Mauritania,2014,-0.59
+Mauritania,2015,-0.64
+Mauritania,2016,-0.75
+Mauritania,2017,-0.63
+Mauritania,2018,-0.63
+Mauritania,2019,-0.56
+Mauritania,2020,-0.7
+Mauritania,2021,-0.56
+Mauritania,2022,-0.52
+Mauritania,2023,-0.5
+Mauritania,2024,-0.66
+Mauritania,2025,-0.77
+Mauritania,2026,-0.41
+Mauritania,2027,-0.31
+Mauritania,2028,-0.32
+Mauritania,2029,-0.35
+Mauritania,2030,-0.64
+Mauritania,2031,-1.17
+Mauritania,2032,-0.94
+Mauritania,2033,-0.02
+Mauritius,2004,0.97
+Mauritius,2005,1.03
+Mauritius,2006,0.78
+Mauritius,2007,0.88
+Mauritius,2008,0.89
+Mauritius,2009,0.71
+Mauritius,2010,0.64
+Mauritius,2011,0.95
+Mauritius,2012,0.97
+Mauritius,2013,0.94
+Mauritius,2014,0.67
+Mauritius,2015,0.99
+Mauritius,2016,1.0
+Mauritius,2017,0.96
+Mauritius,2018,0.86
+Mauritius,2019,0.8
+Mauritius,2020,0.87
+Mauritius,2021,0.83
+Mauritius,2022,0.83
+Mauritius,2023,0.78
+Mauritius,2024,0.72
+Mauritius,2025,0.95
+Mauritius,2026,0.97
+Mauritius,2027,0.89
+Mauritius,2028,0.74
+Mauritius,2029,0.99
+Mauritius,2030,0.91
+Mauritius,2031,0.93
+Mauritius,2032,0.97
+Mauritius,2033,0.7
+Mexico,2004,-0.21
+Mexico,2005,-0.45
+Mexico,2006,-0.64
+Mexico,2007,-0.73
+Mexico,2008,-0.8
+Mexico,2009,-0.69
+Mexico,2010,-0.73
+Mexico,2011,-0.67
+Mexico,2012,-0.66
+Mexico,2013,-0.71
+Mexico,2014,-0.85
+Mexico,2015,-0.8
+Mexico,2016,-0.63
+Mexico,2017,-0.81
+Mexico,2018,-0.67
+Mexico,2019,-0.84
+Mexico,2020,-0.79
+Mexico,2021,-0.69
+Mexico,2022,-0.69
+Mexico,2023,-0.63
+Mexico,2024,-0.64
+Mexico,2025,-0.69
+Mexico,2026,-0.7
+Mexico,2027,-0.76
+Mexico,2028,-0.56
+Mexico,2029,-0.52
+Mexico,2030,-0.67
+Mexico,2031,-0.61
+Mexico,2032,-0.76
+Mexico,2033,-0.69
+Micronesia,2004,1.0
+Micronesia,2005,1.13
+Micronesia,2006,1.13
+Micronesia,2007,1.15
+Micronesia,2008,1.17
+Micronesia,2009,1.29
+Micronesia,2010,1.21
+Micronesia,2011,1.1
+Micronesia,2012,1.15
+Micronesia,2013,1.1
+Micronesia,2014,0.98
+Micronesia,2015,1.02
+Micronesia,2016,1.04
+Micronesia,2017,1.16
+Micronesia,2018,1.32
+Micronesia,2019,1.03
+Micronesia,2020,1.12
+Micronesia,2021,1.2
+Micronesia,2022,1.21
+Micronesia,2023,1.08
+Micronesia,2024,1.18
+Micronesia,2025,1.23
+Micronesia,2026,1.26
+Micronesia,2027,1.25
+Micronesia,2028,1.07
+Micronesia,2029,1.17
+Micronesia,2030,1.15
+Micronesia,2031,1.13
+Micronesia,2032,1.12
+Micronesia,2033,1.21
+Moldova,2004,-0.22
+Moldova,2005,-0.4
+Moldova,2006,-0.37
+Moldova,2007,-0.01
+Moldova,2008,-0.27
+Moldova,2009,-0.58
+Moldova,2010,-0.38
+Moldova,2011,-0.05
+Moldova,2012,0.05
+Moldova,2013,0.0
+Moldova,2014,-0.16
+Moldova,2015,-0.33
+Moldova,2016,-0.31
+Moldova,2017,-0.31
+Moldova,2018,-0.4
+Moldova,2019,-0.39
+Moldova,2020,-0.34
+Moldova,2021,-0.21
+Moldova,2022,-0.66
+Moldova,2023,-0.68
+Moldova,2024,-0.33
+Moldova,2025,-0.22
+Moldova,2026,-0.26
+Moldova,2027,-0.2
+Moldova,2028,-0.45
+Moldova,2029,-0.04
+Moldova,2030,-0.28
+Moldova,2031,-0.5
+Moldova,2032,-0.54
+Moldova,2033,-0.4
+Monaco,2004,1.11
+Monaco,2005,1.03
+Monaco,2006,1.01
+Monaco,2007,1.04
+Monaco,2008,1.03
+Monaco,2009,0.98
+Monaco,2010,0.96
+Monaco,2011,1.04
+Monaco,2012,1.05
+Monaco,2013,1.06
+Monaco,2014,1.02
+Monaco,2015,1.31
+Monaco,2016,1.32
+Monaco,2017,1.62
+Monaco,2018,1.58
+Monaco,2019,1.58
+Monaco,2020,1.18
+Monaco,2021,1.17
+Monaco,2022,1.19
+Monaco,2023,1.18
+Monaco,2024,1.1
+Monaco,2025,1.1
+Monaco,2026,1.15
+Monaco,2027,1.36
+Monaco,2028,1.09
+Monaco,2029,1.12
+Monaco,2030,1.11
+Monaco,2031,0.95
+Monaco,2032,1.03
+Monaco,2033,1.08
+Mongolia,2004,0.78
+Mongolia,2005,0.88
+Mongolia,2006,0.65
+Mongolia,2007,0.67
+Mongolia,2008,0.54
+Mongolia,2009,0.61
+Mongolia,2010,0.6
+Mongolia,2011,0.61
+Mongolia,2012,0.47
+Mongolia,2013,0.49
+Mongolia,2014,0.79
+Mongolia,2015,0.71
+Mongolia,2016,0.79
+Mongolia,2017,0.78
+Mongolia,2018,0.83
+Mongolia,2019,0.64
+Mongolia,2020,0.72
+Mongolia,2021,0.71
+Mongolia,2022,0.53
+Mongolia,2023,0.59
+Mongolia,2024,0.58
+Mongolia,2025,0.57
+Mongolia,2026,0.59
+Mongolia,2027,0.68
+Mongolia,2028,0.78
+Mongolia,2029,0.71
+Mongolia,2030,0.63
+Mongolia,2031,0.77
+Mongolia,2032,0.64
+Mongolia,2033,0.79
+Montenegro,2004,0.64
+Montenegro,2005,0.6
+Montenegro,2006,0.05
+Montenegro,2007,0.11
+Montenegro,2008,0.77
+Montenegro,2009,0.82
+Montenegro,2010,0.58
+Montenegro,2011,0.57
+Montenegro,2012,0.6
+Montenegro,2013,0.5
+Montenegro,2014,0.22
+Montenegro,2015,0.14
+Montenegro,2016,0.27
+Montenegro,2017,-0.06
+Montenegro,2018,0.04
+Montenegro,2019,0.06
+Montenegro,2020,-0.06
+Montenegro,2021,-0.05
+Montenegro,2022,-0.14
+Montenegro,2023,0.07
+Montenegro,2024,0.31
+Montenegro,2025,0.47
+Montenegro,2026,0.73
+Montenegro,2027,0.62
+Montenegro,2028,0.55
+Montenegro,2029,0.4
+Montenegro,2030,0.14
+Montenegro,2031,0.33
+Montenegro,2032,0.18
+Montenegro,2033,0.88
+Morocco,2004,-0.31
+Morocco,2005,-0.56
+Morocco,2006,-0.46
+Morocco,2007,-0.5
+Morocco,2008,-0.57
+Morocco,2009,-0.4
+Morocco,2010,-0.38
+Morocco,2011,-0.39
+Morocco,2012,-0.47
+Morocco,2013,-0.49
+Morocco,2014,-0.45
+Morocco,2015,-0.34
+Morocco,2016,-0.32
+Morocco,2017,-0.38
+Morocco,2018,-0.35
+Morocco,2019,-0.35
+Morocco,2020,-0.36
+Morocco,2021,-0.4
+Morocco,2022,-0.36
+Morocco,2023,-0.37
+Morocco,2024,-0.42
+Morocco,2025,-0.35
+Morocco,2026,-0.45
+Morocco,2027,-0.43
+Morocco,2028,-0.3
+Morocco,2029,-0.4
+Morocco,2030,-0.38
+Morocco,2031,-0.44
+Morocco,2032,-0.46
+Morocco,2033,-0.32
+Mozambique,2004,0.0
+Mozambique,2005,0.13
+Mozambique,2006,0.52
+Mozambique,2007,0.36
+Mozambique,2008,0.38
+Mozambique,2009,0.63
+Mozambique,2010,0.39
+Mozambique,2011,0.33
+Mozambique,2012,0.39
+Mozambique,2013,-0.23
+Mozambique,2014,-0.34
+Mozambique,2015,-0.52
+Mozambique,2016,-1.1
+Mozambique,2017,-0.92
+Mozambique,2018,-0.83
+Mozambique,2019,-0.77
+Mozambique,2020,-1.28
+Mozambique,2021,-1.26
+Mozambique,2022,-1.27
+Mozambique,2023,-1.27
+Mozambique,2024,0.06
+Mozambique,2025,-1.09
+Mozambique,2026,-0.12
+Mozambique,2027,-1.58
+Mozambique,2028,-1.44
+Mozambique,2029,-0.39
+Mozambique,2030,-0.53
+Mozambique,2031,-0.99
+Mozambique,2032,-0.4
+Mozambique,2033,-0.67
+Myanmar,2004,-0.98
+Myanmar,2005,-0.9
+Myanmar,2006,-0.85
+Myanmar,2007,-1.07
+Myanmar,2008,-1.09
+Myanmar,2009,-1.29
+Myanmar,2010,-1.29
+Myanmar,2011,-1.11
+Myanmar,2012,-0.94
+Myanmar,2013,-1.14
+Myanmar,2014,-1.09
+Myanmar,2015,-1.17
+Myanmar,2016,-0.81
+Myanmar,2017,-1.08
+Myanmar,2018,-1.27
+Myanmar,2019,-1.33
+Myanmar,2020,-1.51
+Myanmar,2021,-2.08
+Myanmar,2022,-2.2
+Myanmar,2023,-2.13
+Myanmar,2024,-1.43
+Myanmar,2025,-0.59
+Myanmar,2026,-0.64
+Myanmar,2027,-1.58
+Myanmar,2028,-1.1
+Myanmar,2029,-1.13
+Myanmar,2030,-1.98
+Myanmar,2031,-1.1
+Myanmar,2032,-1.7
+Myanmar,2033,-1.04
+Namibia,2004,0.66
+Namibia,2005,0.63
+Namibia,2006,0.78
+Namibia,2007,1.02
+Namibia,2008,1.2
+Namibia,2009,0.93
+Namibia,2010,0.85
+Namibia,2011,0.91
+Namibia,2012,0.98
+Namibia,2013,0.96
+Namibia,2014,0.61
+Namibia,2015,0.73
+Namibia,2016,0.7
+Namibia,2017,0.62
+Namibia,2018,0.69
+Namibia,2019,0.53
+Namibia,2020,0.51
+Namibia,2021,0.52
+Namibia,2022,0.56
+Namibia,2023,0.54
+Namibia,2024,0.98
+Namibia,2025,0.91
+Namibia,2026,0.78
+Namibia,2027,0.82
+Namibia,2028,0.73
+Namibia,2029,0.63
+Namibia,2030,0.85
+Namibia,2031,0.76
+Namibia,2032,0.57
+Namibia,2033,0.52
+Nepal,2004,-2.15
+Nepal,2005,-2.1
+Nepal,2006,-1.89
+Nepal,2007,-1.89
+Nepal,2008,-1.83
+Nepal,2009,-1.62
+Nepal,2010,-1.58
+Nepal,2011,-1.42
+Nepal,2012,-1.38
+Nepal,2013,-1.13
+Nepal,2014,-0.72
+Nepal,2015,-1.0
+Nepal,2016,-0.85
+Nepal,2017,-0.58
+Nepal,2018,-0.54
+Nepal,2019,-0.45
+Nepal,2020,-0.18
+Nepal,2021,-0.19
+Nepal,2022,-0.24
+Nepal,2023,-0.23
+Nepal,2024,-1.86
+Nepal,2025,-1.42
+Nepal,2026,-1.79
+Nepal,2027,-1.5
+Nepal,2028,-1.45
+Nepal,2029,-0.46
+Nepal,2030,-0.41
+Nepal,2031,-0.9
+Nepal,2032,-1.38
+Nepal,2033,-1.19
+Netherlands,2004,1.02
+Netherlands,2005,0.99
+Netherlands,2006,0.9
+Netherlands,2007,0.78
+Netherlands,2008,0.86
+Netherlands,2009,0.95
+Netherlands,2010,0.94
+Netherlands,2011,1.11
+Netherlands,2012,1.19
+Netherlands,2013,1.14
+Netherlands,2014,1.05
+Netherlands,2015,0.91
+Netherlands,2016,0.9
+Netherlands,2017,0.91
+Netherlands,2018,0.84
+Netherlands,2019,0.82
+Netherlands,2020,0.83
+Netherlands,2021,0.89
+Netherlands,2022,0.73
+Netherlands,2023,0.66
+Netherlands,2024,0.75
+Netherlands,2025,1.07
+Netherlands,2026,0.86
+Netherlands,2027,0.89
+Netherlands,2028,1.02
+Netherlands,2029,1.07
+Netherlands,2030,1.05
+Netherlands,2031,0.94
+Netherlands,2032,0.88
+Netherlands,2033,1.13
+New Caledonia,2004,1.5
+New Caledonia,2005,1.25
+New Caledonia,2006,1.25
+New Caledonia,2007,1.24
+New Caledonia,2008,1.16
+New Caledonia,2009,1.07
+New Caledonia,2010,1.24
+New Caledonia,2011,1.38
+New Caledonia,2012,1.36
+New Caledonia,2013,1.45
+New Caledonia,2014,1.47
+New Caledonia,2015,1.51
+New Caledonia,2016,1.5
+New Caledonia,2017,1.56
+New Caledonia,2018,1.51
+New Caledonia,2019,1.42
+New Caledonia,2020,1.47
+New Caledonia,2021,1.39
+New Caledonia,2022,1.32
+New Caledonia,2023,1.36
+New Caledonia,2024,1.4
+New Caledonia,2025,1.44
+New Caledonia,2026,1.52
+New Caledonia,2027,1.45
+New Caledonia,2028,1.25
+New Caledonia,2029,1.37
+New Caledonia,2030,1.57
+New Caledonia,2031,1.48
+New Caledonia,2032,1.2
+New Caledonia,2033,1.24
+New Zealand,2004,1.5
+New Zealand,2005,1.25
+New Zealand,2006,1.25
+New Zealand,2007,1.24
+New Zealand,2008,1.16
+New Zealand,2009,1.07
+New Zealand,2010,1.24
+New Zealand,2011,1.38
+New Zealand,2012,1.36
+New Zealand,2013,1.45
+New Zealand,2014,1.47
+New Zealand,2015,1.51
+New Zealand,2016,1.5
+New Zealand,2017,1.56
+New Zealand,2018,1.51
+New Zealand,2019,1.42
+New Zealand,2020,1.47
+New Zealand,2021,1.39
+New Zealand,2022,1.32
+New Zealand,2023,1.36
+New Zealand,2024,1.4
+New Zealand,2025,1.57
+New Zealand,2026,1.36
+New Zealand,2027,1.39
+New Zealand,2028,1.56
+New Zealand,2029,1.18
+New Zealand,2030,1.5
+New Zealand,2031,1.31
+New Zealand,2032,1.18
+New Zealand,2033,1.54
+Nicaragua,2004,-0.34
+Nicaragua,2005,-0.34
+Nicaragua,2006,-0.27
+Nicaragua,2007,-0.12
+Nicaragua,2008,-0.22
+Nicaragua,2009,-0.31
+Nicaragua,2010,-0.5
+Nicaragua,2011,-0.27
+Nicaragua,2012,-0.35
+Nicaragua,2013,-0.25
+Nicaragua,2014,-0.04
+Nicaragua,2015,-0.09
+Nicaragua,2016,-0.1
+Nicaragua,2017,-0.05
+Nicaragua,2018,-0.95
+Nicaragua,2019,-0.99
+Nicaragua,2020,-0.59
+Nicaragua,2021,-0.47
+Nicaragua,2022,-0.36
+Nicaragua,2023,-0.13
+Nicaragua,2024,-0.83
+Nicaragua,2025,-0.3
+Nicaragua,2026,-0.7
+Nicaragua,2027,-0.35
+Nicaragua,2028,-0.6
+Nicaragua,2029,-0.55
+Nicaragua,2030,-0.22
+Nicaragua,2031,-0.61
+Nicaragua,2032,-0.01
+Nicaragua,2033,-0.35
+Niger,2004,-0.51
+Niger,2005,-0.49
+Niger,2006,-0.23
+Niger,2007,-0.46
+Niger,2008,-0.67
+Niger,2009,-1.15
+Niger,2010,-1.16
+Niger,2011,-0.88
+Niger,2012,-1.15
+Niger,2013,-1.32
+Niger,2014,-1.18
+Niger,2015,-1.06
+Niger,2016,-1.1
+Niger,2017,-1.26
+Niger,2018,-1.36
+Niger,2019,-1.41
+Niger,2020,-1.67
+Niger,2021,-1.54
+Niger,2022,-1.46
+Niger,2023,-1.67
+Niger,2024,-1.87
+Niger,2025,-1.38
+Niger,2026,-1.11
+Niger,2027,-1.83
+Niger,2028,-0.65
+Niger,2029,-1.04
+Niger,2030,-1.52
+Niger,2031,-1.13
+Niger,2032,-1.04
+Niger,2033,-1.08
+Nigeria,2004,-1.75
+Nigeria,2005,-1.67
+Nigeria,2006,-2.03
+Nigeria,2007,-2.01
+Nigeria,2008,-1.86
+Nigeria,2009,-1.99
+Nigeria,2010,-2.21
+Nigeria,2011,-1.96
+Nigeria,2012,-2.04
+Nigeria,2013,-2.09
+Nigeria,2014,-2.13
+Nigeria,2015,-1.92
+Nigeria,2016,-1.87
+Nigeria,2017,-2.0
+Nigeria,2018,-2.1
+Nigeria,2019,-1.93
+Nigeria,2020,-1.89
+Nigeria,2021,-1.79
+Nigeria,2022,-1.78
+Nigeria,2023,-1.77
+Nigeria,2024,-1.92
+Nigeria,2025,-1.88
+Nigeria,2026,-2.0
+Nigeria,2027,-1.99
+Nigeria,2028,-1.8
+Nigeria,2029,-1.86
+Nigeria,2030,-1.95
+Nigeria,2031,-2.03
+Nigeria,2032,-1.84
+Nigeria,2033,-2.19
+North Macedonia,2004,-0.85
+North Macedonia,2005,-1.16
+North Macedonia,2006,-0.74
+North Macedonia,2007,-0.43
+North Macedonia,2008,-0.3
+North Macedonia,2009,-0.3
+North Macedonia,2010,-0.52
+North Macedonia,2011,-0.62
+North Macedonia,2012,-0.49
+North Macedonia,2013,-0.42
+North Macedonia,2014,0.26
+North Macedonia,2015,-0.29
+North Macedonia,2016,-0.36
+North Macedonia,2017,-0.26
+North Macedonia,2018,-0.21
+North Macedonia,2019,0.01
+North Macedonia,2020,0.11
+North Macedonia,2021,0.06
+North Macedonia,2022,0.18
+North Macedonia,2023,0.17
+North Macedonia,2024,-0.17
+North Macedonia,2025,-0.89
+North Macedonia,2026,-0.66
+North Macedonia,2027,0.23
+North Macedonia,2028,-0.57
+North Macedonia,2029,-0.52
+North Macedonia,2030,-0.32
+North Macedonia,2031,0.04
+North Macedonia,2032,-0.81
+North Macedonia,2033,-0.08
+Norway,2004,1.2
+Norway,2005,1.3
+Norway,2006,1.25
+Norway,2007,1.15
+Norway,2008,1.29
+Norway,2009,1.28
+Norway,2010,1.33
+Norway,2011,1.34
+Norway,2012,1.33
+Norway,2013,1.35
+Norway,2014,1.12
+Norway,2015,1.15
+Norway,2016,1.18
+Norway,2017,1.15
+Norway,2018,1.12
+Norway,2019,1.14
+Norway,2020,1.22
+Norway,2021,1.09
+Norway,2022,0.86
+Norway,2023,0.89
+Norway,2024,1.29
+Norway,2025,1.24
+Norway,2026,1.24
+Norway,2027,1.27
+Norway,2028,1.17
+Norway,2029,1.12
+Norway,2030,1.04
+Norway,2031,1.28
+Norway,2032,1.18
+Norway,2033,1.41
+Oman,2004,1.12
+Oman,2005,0.95
+Oman,2006,0.84
+Oman,2007,0.94
+Oman,2008,0.92
+Oman,2009,0.83
+Oman,2010,0.59
+Oman,2011,0.43
+Oman,2012,0.46
+Oman,2013,0.46
+Oman,2014,0.73
+Oman,2015,0.78
+Oman,2016,0.75
+Oman,2017,0.75
+Oman,2018,0.64
+Oman,2019,0.59
+Oman,2020,0.42
+Oman,2021,0.43
+Oman,2022,0.53
+Oman,2023,0.59
+Oman,2024,0.69
+Oman,2025,0.67
+Oman,2026,0.31
+Oman,2027,0.47
+Oman,2028,0.62
+Oman,2029,0.87
+Oman,2030,0.55
+Oman,2031,0.57
+Oman,2032,0.68
+Oman,2033,0.74
+Pakistan,2004,-1.58
+Pakistan,2005,-1.75
+Pakistan,2006,-2.02
+Pakistan,2007,-2.43
+Pakistan,2008,-2.57
+Pakistan,2009,-2.64
+Pakistan,2010,-2.68
+Pakistan,2011,-2.81
+Pakistan,2012,-2.68
+Pakistan,2013,-2.6
+Pakistan,2014,-2.4
+Pakistan,2015,-2.47
+Pakistan,2016,-2.47
+Pakistan,2017,-2.4
+Pakistan,2018,-2.25
+Pakistan,2019,-2.25
+Pakistan,2020,-1.79
+Pakistan,2021,-1.71
+Pakistan,2022,-1.84
+Pakistan,2023,-1.93
+Pakistan,2024,-1.97
+Pakistan,2025,-2.31
+Pakistan,2026,-2.04
+Pakistan,2027,-1.93
+Pakistan,2028,-2.4
+Pakistan,2029,-2.27
+Pakistan,2030,-2.15
+Pakistan,2031,-2.57
+Pakistan,2032,-2.4
+Pakistan,2033,-2.8
+Panama,2004,0.08
+Panama,2005,-0.16
+Panama,2006,-0.07
+Panama,2007,-0.06
+Panama,2008,-0.1
+Panama,2009,0.06
+Panama,2010,-0.12
+Panama,2011,-0.03
+Panama,2012,-0.18
+Panama,2013,-0.14
+Panama,2014,0.21
+Panama,2015,0.38
+Panama,2016,0.4
+Panama,2017,0.38
+Panama,2018,0.25
+Panama,2019,0.29
+Panama,2020,0.24
+Panama,2021,0.31
+Panama,2022,0.29
+Panama,2023,0.21
+Panama,2024,-0.21
+Panama,2025,0.11
+Panama,2026,0.27
+Panama,2027,0.46
+Panama,2028,-0.27
+Panama,2029,0.21
+Panama,2030,0.45
+Panama,2031,0.04
+Panama,2032,-0.19
+Panama,2033,-0.13
+Papua New Guinea,2004,-0.55
+Papua New Guinea,2005,-0.92
+Papua New Guinea,2006,-0.87
+Papua New Guinea,2007,-0.75
+Papua New Guinea,2008,-0.61
+Papua New Guinea,2009,-0.79
+Papua New Guinea,2010,-0.81
+Papua New Guinea,2011,-0.75
+Papua New Guinea,2012,-0.59
+Papua New Guinea,2013,-0.52
+Papua New Guinea,2014,-0.34
+Papua New Guinea,2015,-0.42
+Papua New Guinea,2016,-0.5
+Papua New Guinea,2017,-0.69
+Papua New Guinea,2018,-0.66
+Papua New Guinea,2019,-0.71
+Papua New Guinea,2020,-0.65
+Papua New Guinea,2021,-0.58
+Papua New Guinea,2022,-0.66
+Papua New Guinea,2023,-0.48
+Papua New Guinea,2024,-0.55
+Papua New Guinea,2025,-0.72
+Papua New Guinea,2026,-0.44
+Papua New Guinea,2027,-0.89
+Papua New Guinea,2028,-0.53
+Papua New Guinea,2029,-0.62
+Papua New Guinea,2030,-0.72
+Papua New Guinea,2031,-0.57
+Papua New Guinea,2032,-0.64
+Papua New Guinea,2033,-0.93
+Paraguay,2004,-0.57
+Paraguay,2005,-0.65
+Paraguay,2006,-0.78
+Paraguay,2007,-0.74
+Paraguay,2008,-0.73
+Paraguay,2009,-0.88
+Paraguay,2010,-0.83
+Paraguay,2011,-0.69
+Paraguay,2012,-0.87
+Paraguay,2013,-0.74
+Paraguay,2014,-0.09
+Paraguay,2015,0.04
+Paraguay,2016,0.13
+Paraguay,2017,0.0
+Paraguay,2018,-0.09
+Paraguay,2019,-0.02
+Paraguay,2020,0.02
+Paraguay,2021,0.0
+Paraguay,2022,0.04
+Paraguay,2023,0.08
+Paraguay,2024,0.15
+Paraguay,2025,-0.63
+Paraguay,2026,-0.38
+Paraguay,2027,-0.71
+Paraguay,2028,-1.1
+Paraguay,2029,0.24
+Paraguay,2030,0.32
+Paraguay,2031,0.04
+Paraguay,2032,-0.68
+Paraguay,2033,-0.42
+Peru,2004,-1.03
+Peru,2005,-0.98
+Peru,2006,-0.84
+Peru,2007,-0.77
+Peru,2008,-0.89
+Peru,2009,-1.18
+Peru,2010,-1.0
+Peru,2011,-0.76
+Peru,2012,-0.91
+Peru,2013,-0.81
+Peru,2014,-0.55
+Peru,2015,-0.4
+Peru,2016,-0.21
+Peru,2017,-0.26
+Peru,2018,-0.28
+Peru,2019,-0.16
+Peru,2020,-0.36
+Peru,2021,-0.36
+Peru,2022,-0.49
+Peru,2023,-0.52
+Peru,2024,-0.87
+Peru,2025,-0.16
+Peru,2026,-0.74
+Peru,2027,-0.39
+Peru,2028,-0.09
+Peru,2029,-0.79
+Peru,2030,-1.05
+Peru,2031,-0.74
+Peru,2032,-0.77
+Peru,2033,-1.05
+Philippines,2004,-1.71
+Philippines,2005,-1.18
+Philippines,2006,-1.64
+Philippines,2007,-1.6
+Philippines,2008,-1.78
+Philippines,2009,-1.73
+Philippines,2010,-1.65
+Philippines,2011,-1.39
+Philippines,2012,-1.19
+Philippines,2013,-1.08
+Philippines,2014,-0.71
+Philippines,2015,-0.85
+Philippines,2016,-1.38
+Philippines,2017,-1.19
+Philippines,2018,-1.1
+Philippines,2019,-0.93
+Philippines,2020,-0.78
+Philippines,2021,-0.98
+Philippines,2022,-0.66
+Philippines,2023,-0.57
+Philippines,2024,-1.04
+Philippines,2025,-1.01
+Philippines,2026,-1.35
+Philippines,2027,-1.34
+Philippines,2028,-1.3
+Philippines,2029,-0.99
+Philippines,2030,-1.85
+Philippines,2031,-1.73
+Philippines,2032,-1.57
+Philippines,2033,-1.26
+Poland,2004,0.15
+Poland,2005,0.36
+Poland,2006,0.35
+Poland,2007,0.68
+Poland,2008,0.91
+Poland,2009,0.94
+Poland,2010,1.02
+Poland,2011,1.07
+Poland,2012,1.05
+Poland,2013,0.97
+Poland,2014,0.84
+Poland,2015,0.86
+Poland,2016,0.5
+Poland,2017,0.51
+Poland,2018,0.48
+Poland,2019,0.55
+Poland,2020,0.49
+Poland,2021,0.49
+Poland,2022,0.51
+Poland,2023,0.56
+Poland,2024,0.7
+Poland,2025,0.96
+Poland,2026,0.82
+Poland,2027,0.81
+Poland,2028,1.0
+Poland,2029,0.6
+Poland,2030,0.91
+Poland,2031,0.29
+Poland,2032,0.45
+Poland,2033,0.49
+Portugal,2004,0.97
+Portugal,2005,1.02
+Portugal,2006,0.95
+Portugal,2007,0.82
+Portugal,2008,0.99
+Portugal,2009,0.79
+Portugal,2010,0.72
+Portugal,2011,0.74
+Portugal,2012,0.78
+Portugal,2013,0.75
+Portugal,2014,0.81
+Portugal,2015,0.9
+Portugal,2016,0.96
+Portugal,2017,1.11
+Portugal,2018,1.12
+Portugal,2019,1.05
+Portugal,2020,1.01
+Portugal,2021,0.94
+Portugal,2022,0.8
+Portugal,2023,0.71
+Portugal,2024,0.91
+Portugal,2025,0.83
+Portugal,2026,0.78
+Portugal,2027,0.91
+Portugal,2028,1.04
+Portugal,2029,1.11
+Portugal,2030,0.96
+Portugal,2031,0.92
+Portugal,2032,0.9
+Portugal,2033,0.88
+Puerto Rico,2004,0.56
+Puerto Rico,2005,0.45
+Puerto Rico,2006,0.38
+Puerto Rico,2007,0.41
+Puerto Rico,2008,0.26
+Puerto Rico,2009,0.15
+Puerto Rico,2010,0.36
+Puerto Rico,2011,0.6
+Puerto Rico,2012,0.58
+Puerto Rico,2013,0.25
+Puerto Rico,2014,0.82
+Puerto Rico,2015,0.85
+Puerto Rico,2016,0.68
+Puerto Rico,2017,0.48
+Puerto Rico,2018,0.27
+Puerto Rico,2019,0.14
+Puerto Rico,2020,0.44
+Puerto Rico,2021,0.49
+Puerto Rico,2022,0.54
+Puerto Rico,2023,0.51
+Puerto Rico,2024,0.41
+Puerto Rico,2025,0.51
+Puerto Rico,2026,0.56
+Puerto Rico,2027,0.56
+Puerto Rico,2028,0.56
+Puerto Rico,2029,0.51
+Puerto Rico,2030,0.72
+Puerto Rico,2031,0.5
+Puerto Rico,2032,0.63
+Puerto Rico,2033,0.49
+Qatar,2004,1.12
+Qatar,2005,1.03
+Qatar,2006,0.93
+Qatar,2007,0.95
+Qatar,2008,1.11
+Qatar,2009,1.22
+Qatar,2010,1.15
+Qatar,2011,1.17
+Qatar,2012,1.22
+Qatar,2013,1.21
+Qatar,2014,0.98
+Qatar,2015,0.98
+Qatar,2016,0.88
+Qatar,2017,0.65
+Qatar,2018,0.65
+Qatar,2019,0.68
+Qatar,2020,0.67
+Qatar,2021,0.83
+Qatar,2022,0.96
+Qatar,2023,0.99
+Qatar,2024,0.99
+Qatar,2025,0.89
+Qatar,2026,0.87
+Qatar,2027,1.02
+Qatar,2028,1.2
+Qatar,2029,0.81
+Qatar,2030,1.2
+Qatar,2031,0.79
+Qatar,2032,1.02
+Qatar,2033,1.01
+Romania,2004,0.06
+Romania,2005,0.09
+Romania,2006,0.15
+Romania,2007,0.2
+Romania,2008,0.18
+Romania,2009,0.36
+Romania,2010,0.27
+Romania,2011,0.19
+Romania,2012,0.08
+Romania,2013,0.18
+Romania,2014,0.05
+Romania,2015,0.18
+Romania,2016,0.27
+Romania,2017,0.05
+Romania,2018,0.04
+Romania,2019,0.54
+Romania,2020,0.51
+Romania,2021,0.58
+Romania,2022,0.43
+Romania,2023,0.37
+Romania,2024,0.38
+Romania,2025,0.38
+Romania,2026,0.16
+Romania,2027,-0.03
+Romania,2028,0.11
+Romania,2029,0.52
+Romania,2030,0.48
+Romania,2031,0.08
+Romania,2032,0.22
+Romania,2033,0.03
+Russia,2004,-1.51
+Russia,2005,-1.27
+Russia,2006,-0.91
+Russia,2007,-0.86
+Russia,2008,-0.75
+Russia,2009,-0.97
+Russia,2010,-0.93
+Russia,2011,-1.0
+Russia,2012,-0.82
+Russia,2013,-0.74
+Russia,2014,-0.94
+Russia,2015,-1.03
+Russia,2016,-0.95
+Russia,2017,-0.64
+Russia,2018,-0.54
+Russia,2019,-0.55
+Russia,2020,-0.67
+Russia,2021,-0.71
+Russia,2022,-1.01
+Russia,2023,-1.13
+Russia,2024,-0.73
+Russia,2025,-1.07
+Russia,2026,-0.83
+Russia,2027,-0.81
+Russia,2028,-0.92
+Russia,2029,-0.55
+Russia,2030,-0.92
+Russia,2031,-0.91
+Russia,2032,-0.96
+Russia,2033,-0.48
+Rwanda,2004,-1.19
+Rwanda,2005,-1.0
+Rwanda,2006,-0.68
+Rwanda,2007,-0.36
+Rwanda,2008,-0.33
+Rwanda,2009,-0.51
+Rwanda,2010,-0.27
+Rwanda,2011,-0.18
+Rwanda,2012,-0.23
+Rwanda,2013,-0.11
+Rwanda,2014,-0.31
+Rwanda,2015,0.0
+Rwanda,2016,-0.07
+Rwanda,2017,0.08
+Rwanda,2018,0.1
+Rwanda,2019,0.06
+Rwanda,2020,0.07
+Rwanda,2021,0.07
+Rwanda,2022,0.08
+Rwanda,2023,0.11
+Rwanda,2024,-0.8
+Rwanda,2025,-0.16
+Rwanda,2026,0.04
+Rwanda,2027,0.06
+Rwanda,2028,-0.01
+Rwanda,2029,-0.5
+Rwanda,2030,-0.73
+Rwanda,2031,-0.39
+Rwanda,2032,-0.47
+Rwanda,2033,0.02
+San Marino,2004,1.13
+San Marino,2005,1.07
+San Marino,2006,1.04
+San Marino,2007,1.09
+San Marino,2008,1.01
+San Marino,2009,1.39
+San Marino,2010,1.45
+San Marino,2011,1.06
+San Marino,2012,1.03
+San Marino,2013,1.05
+San Marino,2014,0.99
+San Marino,2015,1.37
+San Marino,2016,1.38
+San Marino,2017,1.39
+San Marino,2018,1.39
+San Marino,2019,1.23
+San Marino,2020,1.18
+San Marino,2021,1.17
+San Marino,2022,1.19
+San Marino,2023,1.18
+San Marino,2024,1.16
+San Marino,2025,1.27
+San Marino,2026,1.45
+San Marino,2027,1.44
+San Marino,2028,1.24
+San Marino,2029,1.17
+San Marino,2030,1.22
+San Marino,2031,1.3
+San Marino,2032,1.07
+San Marino,2033,1.25
+Saudi Arabia,2004,-0.65
+Saudi Arabia,2005,-0.24
+Saudi Arabia,2006,-0.52
+Saudi Arabia,2007,-0.47
+Saudi Arabia,2008,-0.34
+Saudi Arabia,2009,-0.49
+Saudi Arabia,2010,-0.23
+Saudi Arabia,2011,-0.46
+Saudi Arabia,2012,-0.48
+Saudi Arabia,2013,-0.43
+Saudi Arabia,2014,-0.29
+Saudi Arabia,2015,-0.63
+Saudi Arabia,2016,-0.47
+Saudi Arabia,2017,-0.65
+Saudi Arabia,2018,-0.66
+Saudi Arabia,2019,-0.62
+Saudi Arabia,2020,-0.65
+Saudi Arabia,2021,-0.59
+Saudi Arabia,2022,-0.36
+Saudi Arabia,2023,-0.21
+Saudi Arabia,2024,-0.48
+Saudi Arabia,2025,-0.51
+Saudi Arabia,2026,-0.28
+Saudi Arabia,2027,-0.41
+Saudi Arabia,2028,-0.47
+Saudi Arabia,2029,-0.37
+Saudi Arabia,2030,-0.59
+Saudi Arabia,2031,-0.35
+Saudi Arabia,2032,-0.66
+Saudi Arabia,2033,-0.45
+Senegal,2004,0.03
+Senegal,2005,-0.2
+Senegal,2006,-0.26
+Senegal,2007,-0.24
+Senegal,2008,-0.15
+Senegal,2009,-0.21
+Senegal,2010,-0.42
+Senegal,2011,-0.28
+Senegal,2012,-0.11
+Senegal,2013,-0.06
+Senegal,2014,-0.2
+Senegal,2015,-0.12
+Senegal,2016,-0.23
+Senegal,2017,-0.06
+Senegal,2018,-0.11
+Senegal,2019,0.04
+Senegal,2020,-0.14
+Senegal,2021,-0.18
+Senegal,2022,-0.16
+Senegal,2023,-0.14
+Senegal,2024,0.01
+Senegal,2025,-0.17
+Senegal,2026,-0.15
+Senegal,2027,-0.08
+Senegal,2028,-0.11
+Senegal,2029,-0.25
+Senegal,2030,-0.14
+Senegal,2031,-0.13
+Senegal,2032,-0.13
+Senegal,2033,-0.18
+Serbia,2004,-0.51
+Serbia,2005,-0.76
+Serbia,2006,-0.54
+Serbia,2007,-0.59
+Serbia,2008,-0.54
+Serbia,2009,-0.48
+Serbia,2010,-0.42
+Serbia,2011,-0.28
+Serbia,2012,-0.22
+Serbia,2013,-0.08
+Serbia,2014,0.18
+Serbia,2015,0.23
+Serbia,2016,0.13
+Serbia,2017,0.08
+Serbia,2018,0.01
+Serbia,2019,-0.08
+Serbia,2020,-0.17
+Serbia,2021,-0.09
+Serbia,2022,-0.17
+Serbia,2023,-0.04
+Serbia,2024,-0.53
+Serbia,2025,-0.25
+Serbia,2026,-0.32
+Serbia,2027,-0.36
+Serbia,2028,-0.28
+Serbia,2029,-0.06
+Serbia,2030,-0.53
+Serbia,2031,-0.24
+Serbia,2032,-0.24
+Serbia,2033,-0.75
+Sierra Leone,2004,-0.51
+Sierra Leone,2005,-0.48
+Sierra Leone,2006,-0.3
+Sierra Leone,2007,-0.06
+Sierra Leone,2008,-0.24
+Sierra Leone,2009,-0.29
+Sierra Leone,2010,-0.24
+Sierra Leone,2011,-0.17
+Sierra Leone,2012,-0.28
+Sierra Leone,2013,-0.17
+Sierra Leone,2014,-0.1
+Sierra Leone,2015,-0.11
+Sierra Leone,2016,-0.17
+Sierra Leone,2017,-0.04
+Sierra Leone,2018,-0.09
+Sierra Leone,2019,-0.06
+Sierra Leone,2020,-0.3
+Sierra Leone,2021,-0.1
+Sierra Leone,2022,-0.09
+Sierra Leone,2023,-0.24
+Sierra Leone,2024,-0.23
+Sierra Leone,2025,-0.13
+Sierra Leone,2026,-0.2
+Sierra Leone,2027,0.0
+Sierra Leone,2028,-0.25
+Sierra Leone,2029,-0.1
+Sierra Leone,2030,-0.42
+Sierra Leone,2031,-0.19
+Sierra Leone,2032,-0.18
+Sierra Leone,2033,-0.09
+Singapore,2004,1.09
+Singapore,2005,1.15
+Singapore,2006,1.25
+Singapore,2007,1.17
+Singapore,2008,1.34
+Singapore,2009,1.18
+Singapore,2010,1.17
+Singapore,2011,1.19
+Singapore,2012,1.37
+Singapore,2013,1.38
+Singapore,2014,1.19
+Singapore,2015,1.3
+Singapore,2016,1.48
+Singapore,2017,1.6
+Singapore,2018,1.47
+Singapore,2019,1.48
+Singapore,2020,1.44
+Singapore,2021,1.44
+Singapore,2022,1.44
+Singapore,2023,1.42
+Singapore,2024,1.25
+Singapore,2025,1.26
+Singapore,2026,1.39
+Singapore,2027,1.43
+Singapore,2028,1.27
+Singapore,2029,1.46
+Singapore,2030,1.26
+Singapore,2031,1.34
+Singapore,2032,1.36
+Singapore,2033,1.22
+Slovakia,2004,0.59
+Slovakia,2005,0.9
+Slovakia,2006,0.78
+Slovakia,2007,1.04
+Slovakia,2008,1.08
+Slovakia,2009,0.92
+Slovakia,2010,1.05
+Slovakia,2011,0.97
+Slovakia,2012,1.09
+Slovakia,2013,1.12
+Slovakia,2014,1.04
+Slovakia,2015,0.87
+Slovakia,2016,0.71
+Slovakia,2017,0.9
+Slovakia,2018,0.74
+Slovakia,2019,0.67
+Slovakia,2020,0.63
+Slovakia,2021,0.62
+Slovakia,2022,0.45
+Slovakia,2023,0.57
+Slovakia,2024,1.2
+Slovakia,2025,0.81
+Slovakia,2026,0.67
+Slovakia,2027,1.16
+Slovakia,2028,0.82
+Slovakia,2029,0.97
+Slovakia,2030,0.73
+Slovakia,2031,0.52
+Slovakia,2032,0.63
+Slovakia,2033,0.79
+Slovenia,2004,1.08
+Slovenia,2005,1.09
+Slovenia,2006,1.09
+Slovenia,2007,1.1
+Slovenia,2008,1.15
+Slovenia,2009,0.94
+Slovenia,2010,0.87
+Slovenia,2011,0.97
+Slovenia,2012,0.94
+Slovenia,2013,0.88
+Slovenia,2014,0.97
+Slovenia,2015,0.95
+Slovenia,2016,0.98
+Slovenia,2017,0.87
+Slovenia,2018,0.89
+Slovenia,2019,0.8
+Slovenia,2020,0.7
+Slovenia,2021,0.76
+Slovenia,2022,0.71
+Slovenia,2023,0.82
+Slovenia,2024,0.95
+Slovenia,2025,1.16
+Slovenia,2026,0.89
+Slovenia,2027,1.08
+Slovenia,2028,1.16
+Slovenia,2029,1.12
+Slovenia,2030,0.72
+Slovenia,2031,1.13
+Slovenia,2032,0.84
+Slovenia,2033,0.88
+Somalia,2004,-2.88
+Somalia,2005,-2.71
+Somalia,2006,-2.75
+Somalia,2007,-3.23
+Somalia,2008,-3.28
+Somalia,2009,-3.31
+Somalia,2010,-3.13
+Somalia,2011,-3.08
+Somalia,2012,-2.86
+Somalia,2013,-2.76
+Somalia,2014,-2.52
+Somalia,2015,-2.37
+Somalia,2016,-2.35
+Somalia,2017,-2.25
+Somalia,2018,-2.25
+Somalia,2019,-2.39
+Somalia,2020,-2.58
+Somalia,2021,-2.73
+Somalia,2022,-2.43
+Somalia,2023,-2.38
+Somalia,2024,-3.3
+Somalia,2025,-2.76
+Somalia,2026,-2.5
+Somalia,2027,-2.87
+Somalia,2028,-3.27
+Somalia,2029,-2.35
+Somalia,2030,-2.91
+Somalia,2031,-2.93
+Somalia,2032,-2.8
+Somalia,2033,-2.6
+South Africa,2004,-0.13
+South Africa,2005,-0.16
+South Africa,2006,0.05
+South Africa,2007,0.22
+South Africa,2008,0.05
+South Africa,2009,-0.11
+South Africa,2010,-0.03
+South Africa,2011,0.02
+South Africa,2012,-0.03
+South Africa,2013,-0.05
+South Africa,2014,-0.15
+South Africa,2015,-0.22
+South Africa,2016,-0.15
+South Africa,2017,-0.28
+South Africa,2018,-0.24
+South Africa,2019,-0.28
+South Africa,2020,-0.25
+South Africa,2021,-0.75
+South Africa,2022,-0.68
+South Africa,2023,-0.67
+South Africa,2024,-0.44
+South Africa,2025,0.09
+South Africa,2026,-0.35
+South Africa,2027,-0.22
+South Africa,2028,0.12
+South Africa,2029,-0.33
+South Africa,2030,-0.07
+South Africa,2031,-0.6
+South Africa,2032,-0.03
+South Africa,2033,-0.08
+South Korea,2004,0.43
+South Korea,2005,0.49
+South Korea,2006,0.42
+South Korea,2007,0.57
+South Korea,2008,0.42
+South Korea,2009,0.41
+South Korea,2010,0.33
+South Korea,2011,0.41
+South Korea,2012,0.27
+South Korea,2013,0.28
+South Korea,2014,0.11
+South Korea,2015,0.16
+South Korea,2016,0.15
+South Korea,2017,0.38
+South Korea,2018,0.64
+South Korea,2019,0.55
+South Korea,2020,0.61
+South Korea,2021,0.63
+South Korea,2022,0.58
+South Korea,2023,0.61
+South Korea,2024,0.13
+South Korea,2025,0.35
+South Korea,2026,0.42
+South Korea,2027,0.56
+South Korea,2028,0.27
+South Korea,2029,0.4
+South Korea,2030,0.55
+South Korea,2031,0.49
+South Korea,2032,0.29
+South Korea,2033,0.39
+South Sudan,2004,-1.37
+South Sudan,2005,-1.43
+South Sudan,2006,-1.49
+South Sudan,2007,-1.55
+South Sudan,2008,-1.61
+South Sudan,2009,-1.67
+South Sudan,2010,-1.73
+South Sudan,2011,-1.43
+South Sudan,2012,-1.16
+South Sudan,2013,-1.73
+South Sudan,2014,-2.65
+South Sudan,2015,-2.37
+South Sudan,2016,-2.41
+South Sudan,2017,-2.45
+South Sudan,2018,-2.43
+South Sudan,2019,-2.52
+South Sudan,2020,-2.19
+South Sudan,2021,-2.29
+South Sudan,2022,-2.21
+South Sudan,2023,-2.19
+South Sudan,2024,-2.43
+South Sudan,2025,-2.03
+South Sudan,2026,-1.89
+South Sudan,2027,-2.71
+South Sudan,2028,-1.38
+South Sudan,2029,-1.9
+South Sudan,2030,-1.81
+South Sudan,2031,-2.39
+South Sudan,2032,-1.75
+South Sudan,2033,-1.8
+Spain,2004,-0.09
+Spain,2005,0.19
+Spain,2006,-0.15
+Spain,2007,-0.28
+Spain,2008,-0.38
+Spain,2009,-0.47
+Spain,2010,-0.32
+Spain,2011,0.02
+Spain,2012,-0.03
+Spain,2013,0.01
+Spain,2014,0.24
+Spain,2015,0.24
+Spain,2016,0.4
+Spain,2017,0.27
+Spain,2018,0.28
+Spain,2019,0.29
+Spain,2020,0.41
+Spain,2021,0.51
+Spain,2022,0.32
+Spain,2023,0.29
+Spain,2024,-0.01
+Spain,2025,0.12
+Spain,2026,0.02
+Spain,2027,-0.04
+Spain,2028,-0.22
+Spain,2029,-0.27
+Spain,2030,-0.38
+Spain,2031,0.05
+Spain,2032,-0.06
+Spain,2033,-0.17
+Sri Lanka,2004,-1.01
+Sri Lanka,2005,-1.15
+Sri Lanka,2006,-1.42
+Sri Lanka,2007,-1.75
+Sri Lanka,2008,-1.8
+Sri Lanka,2009,-1.34
+Sri Lanka,2010,-0.94
+Sri Lanka,2011,-0.72
+Sri Lanka,2012,-0.72
+Sri Lanka,2013,-0.61
+Sri Lanka,2014,-0.33
+Sri Lanka,2015,0.08
+Sri Lanka,2016,-0.01
+Sri Lanka,2017,-0.08
+Sri Lanka,2018,-0.14
+Sri Lanka,2019,-0.22
+Sri Lanka,2020,-0.09
+Sri Lanka,2021,-0.38
+Sri Lanka,2022,-0.8
+Sri Lanka,2023,-0.51
+Sri Lanka,2024,-0.91
+Sri Lanka,2025,-0.4
+Sri Lanka,2026,-0.9
+Sri Lanka,2027,-0.63
+Sri Lanka,2028,-0.8
+Sri Lanka,2029,-0.31
+Sri Lanka,2030,-0.48
+Sri Lanka,2031,-0.54
+Sri Lanka,2032,-1.1
+Sri Lanka,2033,-0.22
+Sudan,2004,-1.55
+Sudan,2005,-1.97
+Sudan,2006,-2.14
+Sudan,2007,-2.36
+Sudan,2008,-2.49
+Sudan,2009,-2.65
+Sudan,2010,-2.67
+Sudan,2011,-2.52
+Sudan,2012,-2.26
+Sudan,2013,-2.19
+Sudan,2014,-2.36
+Sudan,2015,-2.16
+Sudan,2016,-2.33
+Sudan,2017,-1.97
+Sudan,2018,-1.82
+Sudan,2019,-1.7
+Sudan,2020,-1.66
+Sudan,2021,-1.99
+Sudan,2022,-2.08
+Sudan,2023,-2.47
+Sudan,2024,-2.19
+Sudan,2025,-1.66
+Sudan,2026,-2.21
+Sudan,2027,-1.99
+Sudan,2028,-2.29
+Sudan,2029,-2.13
+Sudan,2030,-2.07
+Sudan,2031,-1.88
+Sudan,2032,-2.27
+Sudan,2033,-2.03
+Sweden,2004,1.36
+Sweden,2005,1.3
+Sweden,2006,1.29
+Sweden,2007,1.27
+Sweden,2008,1.13
+Sweden,2009,1.08
+Sweden,2010,1.09
+Sweden,2011,1.23
+Sweden,2012,1.17
+Sweden,2013,1.13
+Sweden,2014,1.07
+Sweden,2015,0.93
+Sweden,2016,1.0
+Sweden,2017,0.97
+Sweden,2018,0.92
+Sweden,2019,1.01
+Sweden,2020,1.0
+Sweden,2021,1.01
+Sweden,2022,0.91
+Sweden,2023,0.76
+Sweden,2024,1.11
+Sweden,2025,1.07
+Sweden,2026,1.02
+Sweden,2027,0.93
+Sweden,2028,1.28
+Sweden,2029,1.17
+Sweden,2030,1.23
+Sweden,2031,1.19
+Sweden,2032,1.19
+Sweden,2033,1.09
+Switzerland,2004,1.23
+Switzerland,2005,1.2
+Switzerland,2006,1.27
+Switzerland,2007,1.23
+Switzerland,2008,1.22
+Switzerland,2009,1.31
+Switzerland,2010,1.26
+Switzerland,2011,1.3
+Switzerland,2012,1.42
+Switzerland,2013,1.4
+Switzerland,2014,1.4
+Switzerland,2015,1.33
+Switzerland,2016,1.29
+Switzerland,2017,1.24
+Switzerland,2018,1.32
+Switzerland,2019,1.31
+Switzerland,2020,1.18
+Switzerland,2021,1.12
+Switzerland,2022,1.16
+Switzerland,2023,1.07
+Switzerland,2024,1.3
+Switzerland,2025,1.16
+Switzerland,2026,1.37
+Switzerland,2027,1.31
+Switzerland,2028,1.32
+Switzerland,2029,1.29
+Switzerland,2030,1.19
+Switzerland,2031,1.33
+Switzerland,2032,1.22
+Switzerland,2033,1.18
+Syrian Arab Republic,2004,-0.29
+Syrian Arab Republic,2005,-0.46
+Syrian Arab Republic,2006,-0.28
+Syrian Arab Republic,2007,-0.34
+Syrian Arab Republic,2008,-0.34
+Syrian Arab Republic,2009,-0.51
+Syrian Arab Republic,2010,-0.81
+Syrian Arab Republic,2011,-2.01
+Syrian Arab Republic,2012,-2.68
+Syrian Arab Republic,2013,-2.68
+Syrian Arab Republic,2014,-2.75
+Syrian Arab Republic,2015,-2.97
+Syrian Arab Republic,2016,-2.91
+Syrian Arab Republic,2017,-2.61
+Syrian Arab Republic,2018,-2.74
+Syrian Arab Republic,2019,-2.73
+Syrian Arab Republic,2020,-2.71
+Syrian Arab Republic,2021,-2.66
+Syrian Arab Republic,2022,-2.78
+Syrian Arab Republic,2023,-2.75
+Syrian Arab Republic,2024,-1.95
+Syrian Arab Republic,2025,-1.69
+Syrian Arab Republic,2026,-2.09
+Syrian Arab Republic,2027,-0.48
+Syrian Arab Republic,2028,-0.06
+Syrian Arab Republic,2029,-1.43
+Syrian Arab Republic,2030,-2.22
+Syrian Arab Republic,2031,-0.66
+Syrian Arab Republic,2032,-2.92
+Syrian Arab Republic,2033,-1.64
+Tajikistan,2004,-1.31
+Tajikistan,2005,-1.39
+Tajikistan,2006,-1.39
+Tajikistan,2007,-0.75
+Tajikistan,2008,-0.83
+Tajikistan,2009,-1.03
+Tajikistan,2010,-1.03
+Tajikistan,2011,-1.02
+Tajikistan,2012,-1.24
+Tajikistan,2013,-1.18
+Tajikistan,2014,-0.69
+Tajikistan,2015,-0.88
+Tajikistan,2016,-0.78
+Tajikistan,2017,-0.67
+Tajikistan,2018,-0.75
+Tajikistan,2019,-0.51
+Tajikistan,2020,-0.5
+Tajikistan,2021,-0.68
+Tajikistan,2022,-0.74
+Tajikistan,2023,-0.47
+Tajikistan,2024,-0.84
+Tajikistan,2025,-0.82
+Tajikistan,2026,-0.41
+Tajikistan,2027,-0.89
+Tajikistan,2028,-0.65
+Tajikistan,2029,-1.07
+Tajikistan,2030,-1.18
+Tajikistan,2031,-0.99
+Tajikistan,2032,-0.51
+Tajikistan,2033,-1.27
+Tanzania,2004,-0.67
+Tanzania,2005,-0.58
+Tanzania,2006,-0.36
+Tanzania,2007,-0.39
+Tanzania,2008,-0.23
+Tanzania,2009,0.09
+Tanzania,2010,0.01
+Tanzania,2011,-0.02
+Tanzania,2012,0.05
+Tanzania,2013,-0.16
+Tanzania,2014,-0.6
+Tanzania,2015,-0.42
+Tanzania,2016,-0.45
+Tanzania,2017,-0.57
+Tanzania,2018,-0.58
+Tanzania,2019,-0.39
+Tanzania,2020,-0.48
+Tanzania,2021,-0.34
+Tanzania,2022,-0.26
+Tanzania,2023,-0.05
+Tanzania,2024,-0.4
+Tanzania,2025,-0.41
+Tanzania,2026,-0.54
+Tanzania,2027,-0.73
+Tanzania,2028,-0.53
+Tanzania,2029,-0.39
+Tanzania,2030,-0.48
+Tanzania,2031,-0.17
+Tanzania,2032,-0.5
+Tanzania,2033,-0.41
+Thailand,2004,-0.72
+Thailand,2005,-0.87
+Thailand,2006,-1.13
+Thailand,2007,-1.11
+Thailand,2008,-1.27
+Thailand,2009,-1.42
+Thailand,2010,-1.44
+Thailand,2011,-1.13
+Thailand,2012,-1.22
+Thailand,2013,-1.31
+Thailand,2014,-0.91
+Thailand,2015,-1.0
+Thailand,2016,-0.99
+Thailand,2017,-0.75
+Thailand,2018,-0.8
+Thailand,2019,-0.49
+Thailand,2020,-0.58
+Thailand,2021,-0.57
+Thailand,2022,-0.39
+Thailand,2023,-0.28
+Thailand,2024,-0.98
+Thailand,2025,-0.77
+Thailand,2026,-0.51
+Thailand,2027,-0.3
+Thailand,2028,-0.91
+Thailand,2029,-0.86
+Thailand,2030,-0.79
+Thailand,2031,-0.95
+Thailand,2032,-0.88
+Thailand,2033,-1.29
+The Bahamas,2004,0.89
+The Bahamas,2005,0.94
+The Bahamas,2006,0.81
+The Bahamas,2007,0.73
+The Bahamas,2008,0.77
+The Bahamas,2009,0.86
+The Bahamas,2010,0.99
+The Bahamas,2011,1.1
+The Bahamas,2012,1.18
+The Bahamas,2013,1.13
+The Bahamas,2014,0.96
+The Bahamas,2015,0.89
+The Bahamas,2016,0.96
+The Bahamas,2017,0.98
+The Bahamas,2018,0.85
+The Bahamas,2019,0.8
+The Bahamas,2020,0.83
+The Bahamas,2021,0.85
+The Bahamas,2022,0.88
+The Bahamas,2023,1.01
+The Bahamas,2024,0.94
+The Bahamas,2025,0.86
+The Bahamas,2026,0.91
+The Bahamas,2027,0.98
+The Bahamas,2028,1.01
+The Bahamas,2029,0.81
+The Bahamas,2030,1.04
+The Bahamas,2031,0.83
+The Bahamas,2032,0.85
+The Bahamas,2033,0.82
+Timor-Leste,2004,-0.16
+Timor-Leste,2005,-0.71
+Timor-Leste,2006,-1.16
+Timor-Leste,2007,-1.1
+Timor-Leste,2008,-0.8
+Timor-Leste,2009,-0.57
+Timor-Leste,2010,-0.47
+Timor-Leste,2011,-0.46
+Timor-Leste,2012,-0.28
+Timor-Leste,2013,-0.38
+Timor-Leste,2014,-0.18
+Timor-Leste,2015,-0.27
+Timor-Leste,2016,-0.02
+Timor-Leste,2017,0.07
+Timor-Leste,2018,0.23
+Timor-Leste,2019,0.24
+Timor-Leste,2020,0.2
+Timor-Leste,2021,0.19
+Timor-Leste,2022,0.26
+Timor-Leste,2023,0.26
+Timor-Leste,2024,0.01
+Timor-Leste,2025,-0.41
+Timor-Leste,2026,-0.46
+Timor-Leste,2027,0.25
+Timor-Leste,2028,0.0
+Timor-Leste,2029,-0.56
+Timor-Leste,2030,-0.42
+Timor-Leste,2031,-0.47
+Timor-Leste,2032,-0.61
+Timor-Leste,2033,-0.23
+Togo,2004,-0.31
+Togo,2005,-1.44
+Togo,2006,-0.53
+Togo,2007,-0.34
+Togo,2008,-0.17
+Togo,2009,-0.17
+Togo,2010,-0.18
+Togo,2011,-0.16
+Togo,2012,-0.39
+Togo,2013,-0.35
+Togo,2014,-0.17
+Togo,2015,-0.23
+Togo,2016,-0.18
+Togo,2017,-0.87
+Togo,2018,-0.89
+Togo,2019,-0.91
+Togo,2020,-0.89
+Togo,2021,-0.7
+Togo,2022,-0.79
+Togo,2023,-0.95
+Togo,2024,-0.9
+Togo,2025,-0.52
+Togo,2026,-0.69
+Togo,2027,-0.58
+Togo,2028,-0.38
+Togo,2029,-0.39
+Togo,2030,-0.56
+Togo,2031,-0.63
+Togo,2032,-0.7
+Togo,2033,-0.26
+Tonga,2004,0.82
+Tonga,2005,0.68
+Tonga,2006,0.47
+Tonga,2007,0.28
+Tonga,2008,0.28
+Tonga,2009,0.22
+Tonga,2010,0.69
+Tonga,2011,0.94
+Tonga,2012,0.89
+Tonga,2013,0.94
+Tonga,2014,0.85
+Tonga,2015,0.87
+Tonga,2016,0.9
+Tonga,2017,0.77
+Tonga,2018,0.83
+Tonga,2019,1.04
+Tonga,2020,1.09
+Tonga,2021,1.08
+Tonga,2022,1.09
+Tonga,2023,1.09
+Tonga,2024,1.29
+Tonga,2025,0.7
+Tonga,2026,0.28
+Tonga,2027,1.26
+Tonga,2028,1.04
+Tonga,2029,0.95
+Tonga,2030,1.07
+Tonga,2031,0.99
+Tonga,2032,0.47
+Tonga,2033,0.76
+Trinidad and Tobago,2004,-0.07
+Trinidad and Tobago,2005,-0.12
+Trinidad and Tobago,2006,-0.24
+Trinidad and Tobago,2007,-0.19
+Trinidad and Tobago,2008,-0.12
+Trinidad and Tobago,2009,-0.14
+Trinidad and Tobago,2010,-0.05
+Trinidad and Tobago,2011,0.14
+Trinidad and Tobago,2012,0.1
+Trinidad and Tobago,2013,0.09
+Trinidad and Tobago,2014,0.25
+Trinidad and Tobago,2015,0.28
+Trinidad and Tobago,2016,0.28
+Trinidad and Tobago,2017,0.27
+Trinidad and Tobago,2018,0.23
+Trinidad and Tobago,2019,0.08
+Trinidad and Tobago,2020,0.11
+Trinidad and Tobago,2021,0.24
+Trinidad and Tobago,2022,0.35
+Trinidad and Tobago,2023,0.4
+Trinidad and Tobago,2024,0.26
+Trinidad and Tobago,2025,0.27
+Trinidad and Tobago,2026,0.25
+Trinidad and Tobago,2027,-0.12
+Trinidad and Tobago,2028,-0.11
+Trinidad and Tobago,2029,0.43
+Trinidad and Tobago,2030,-0.21
+Trinidad and Tobago,2031,0.28
+Trinidad and Tobago,2032,0.33
+Trinidad and Tobago,2033,-0.04
+Tunisia,2004,0.15
+Tunisia,2005,0.02
+Tunisia,2006,0.21
+Tunisia,2007,0.16
+Tunisia,2008,0.1
+Tunisia,2009,0.06
+Tunisia,2010,-0.06
+Tunisia,2011,-0.35
+Tunisia,2012,-0.72
+Tunisia,2013,-0.9
+Tunisia,2014,-0.85
+Tunisia,2015,-0.96
+Tunisia,2016,-1.14
+Tunisia,2017,-1.02
+Tunisia,2018,-0.87
+Tunisia,2019,-0.88
+Tunisia,2020,-0.59
+Tunisia,2021,-0.76
+Tunisia,2022,-0.59
+Tunisia,2023,-0.63
+Tunisia,2024,-0.36
+Tunisia,2025,-0.42
+Tunisia,2026,-0.92
+Tunisia,2027,-0.04
+Tunisia,2028,-0.34
+Tunisia,2029,-0.22
+Tunisia,2030,0.15
+Tunisia,2031,-0.15
+Tunisia,2032,-0.77
+Tunisia,2033,-0.58
+Turkey,2004,-0.83
+Turkey,2005,-0.6
+Turkey,2006,-0.59
+Turkey,2007,-0.82
+Turkey,2008,-0.82
+Turkey,2009,-1.03
+Turkey,2010,-0.92
+Turkey,2011,-0.96
+Turkey,2012,-1.22
+Turkey,2013,-1.25
+Turkey,2014,-1.09
+Turkey,2015,-1.5
+Turkey,2016,-2.01
+Turkey,2017,-1.79
+Turkey,2018,-1.32
+Turkey,2019,-1.38
+Turkey,2020,-1.14
+Turkey,2021,-1.14
+Turkey,2022,-1.03
+Turkey,2023,-1.01
+Turkey,2024,-1.45
+Turkey,2025,-0.66
+Turkey,2026,-1.2
+Turkey,2027,-1.2
+Turkey,2028,-0.77
+Turkey,2029,-0.58
+Turkey,2030,-1.4
+Turkey,2031,-1.76
+Turkey,2032,-1.44
+Turkey,2033,-0.55
+Uganda,2004,-1.3
+Uganda,2005,-1.42
+Uganda,2006,-1.14
+Uganda,2007,-0.92
+Uganda,2008,-0.88
+Uganda,2009,-0.99
+Uganda,2010,-1.0
+Uganda,2011,-0.98
+Uganda,2012,-0.87
+Uganda,2013,-0.84
+Uganda,2014,-0.94
+Uganda,2015,-0.8
+Uganda,2016,-0.72
+Uganda,2017,-0.57
+Uganda,2018,-0.7
+Uganda,2019,-0.69
+Uganda,2020,-0.81
+Uganda,2021,-0.94
+Uganda,2022,-0.71
+Uganda,2023,-0.7
+Uganda,2024,-0.97
+Uganda,2025,-0.85
+Uganda,2026,-0.72
+Uganda,2027,-0.88
+Uganda,2028,-0.86
+Uganda,2029,-1.0
+Uganda,2030,-0.98
+Uganda,2031,-1.24
+Uganda,2032,-1.04
+Uganda,2033,-1.28
+Ukraine,2004,-0.47
+Ukraine,2005,-0.29
+Ukraine,2006,-0.04
+Ukraine,2007,0.17
+Ukraine,2008,0.04
+Ukraine,2009,-0.3
+Ukraine,2010,0.01
+Ukraine,2011,-0.07
+Ukraine,2012,-0.09
+Ukraine,2013,-0.78
+Ukraine,2014,-2.02
+Ukraine,2015,-1.96
+Ukraine,2016,-1.85
+Ukraine,2017,-1.87
+Ukraine,2018,-1.87
+Ukraine,2019,-1.43
+Ukraine,2020,-1.16
+Ukraine,2021,-1.13
+Ukraine,2022,-1.95
+Ukraine,2023,-1.43
+Ukraine,2024,-1.05
+Ukraine,2025,-0.89
+Ukraine,2026,-1.63
+Ukraine,2027,-0.43
+Ukraine,2028,-0.5
+Ukraine,2029,-1.36
+Ukraine,2030,-1.51
+Ukraine,2031,-0.31
+Ukraine,2032,-1.2
+Ukraine,2033,-1.46
+United Arab Emirates,2004,0.77
+United Arab Emirates,2005,0.88
+United Arab Emirates,2006,0.92
+United Arab Emirates,2007,0.98
+United Arab Emirates,2008,0.7
+United Arab Emirates,2009,0.92
+United Arab Emirates,2010,0.8
+United Arab Emirates,2011,0.91
+United Arab Emirates,2012,0.86
+United Arab Emirates,2013,0.89
+United Arab Emirates,2014,0.77
+United Arab Emirates,2015,0.75
+United Arab Emirates,2016,0.55
+United Arab Emirates,2017,0.6
+United Arab Emirates,2018,0.69
+United Arab Emirates,2019,0.67
+United Arab Emirates,2020,0.59
+United Arab Emirates,2021,0.6
+United Arab Emirates,2022,0.74
+United Arab Emirates,2023,0.68
+United Arab Emirates,2024,0.94
+United Arab Emirates,2025,0.71
+United Arab Emirates,2026,0.62
+United Arab Emirates,2027,0.82
+United Arab Emirates,2028,0.81
+United Arab Emirates,2029,0.59
+United Arab Emirates,2030,0.87
+United Arab Emirates,2031,0.73
+United Arab Emirates,2032,0.82
+United Arab Emirates,2033,0.83
+United Kingdom,2004,0.14
+United Kingdom,2005,0.12
+United Kingdom,2006,0.67
+United Kingdom,2007,0.57
+United Kingdom,2008,0.49
+United Kingdom,2009,0.12
+United Kingdom,2010,0.41
+United Kingdom,2011,0.35
+United Kingdom,2012,0.4
+United Kingdom,2013,0.49
+United Kingdom,2014,0.42
+United Kingdom,2015,0.5
+United Kingdom,2016,0.35
+United Kingdom,2017,0.38
+United Kingdom,2018,0.08
+United Kingdom,2019,0.53
+United Kingdom,2020,0.48
+United Kingdom,2021,0.49
+United Kingdom,2022,0.53
+United Kingdom,2023,0.51
+United Kingdom,2024,0.54
+United Kingdom,2025,0.37
+United Kingdom,2026,0.28
+United Kingdom,2027,0.41
+United Kingdom,2028,0.32
+United Kingdom,2029,0.23
+United Kingdom,2030,0.56
+United Kingdom,2031,0.47
+United Kingdom,2032,0.45
+United Kingdom,2033,0.48
+United States,2004,-0.23
+United States,2005,-0.06
+United States,2006,0.49
+United States,2007,0.37
+United States,2008,0.58
+United States,2009,0.45
+United States,2010,0.44
+United States,2011,0.59
+United States,2012,0.63
+United States,2013,0.64
+United States,2014,0.58
+United States,2015,0.66
+United States,2016,0.39
+United States,2017,0.26
+United States,2018,0.39
+United States,2019,0.12
+United States,2020,-0.03
+United States,2021,-0.01
+United States,2022,0.01
+United States,2023,0.03
+United States,2024,0.23
+United States,2025,0.18
+United States,2026,0.45
+United States,2027,0.36
+United States,2028,0.01
+United States,2029,0.43
+United States,2030,0.16
+United States,2031,0.31
+United States,2032,0.59
+United States,2033,0.02
+Uruguay,2004,0.59
+Uruguay,2005,0.78
+Uruguay,2006,0.9
+Uruguay,2007,0.84
+Uruguay,2008,0.85
+Uruguay,2009,0.79
+Uruguay,2010,0.82
+Uruguay,2011,0.96
+Uruguay,2012,0.71
+Uruguay,2013,0.8
+Uruguay,2014,0.99
+Uruguay,2015,0.99
+Uruguay,2016,1.05
+Uruguay,2017,1.04
+Uruguay,2018,1.02
+Uruguay,2019,1.03
+Uruguay,2020,1.05
+Uruguay,2021,1.05
+Uruguay,2022,1.09
+Uruguay,2023,0.96
+Uruguay,2024,0.83
+Uruguay,2025,1.06
+Uruguay,2026,0.99
+Uruguay,2027,1.08
+Uruguay,2028,0.82
+Uruguay,2029,0.69
+Uruguay,2030,1.17
+Uruguay,2031,1.09
+Uruguay,2032,1.06
+Uruguay,2033,0.88
+Vanuatu,2004,0.62
+Vanuatu,2005,1.38
+Vanuatu,2006,1.35
+Vanuatu,2007,1.23
+Vanuatu,2008,1.19
+Vanuatu,2009,1.23
+Vanuatu,2010,1.28
+Vanuatu,2011,1.11
+Vanuatu,2012,1.2
+Vanuatu,2013,1.16
+Vanuatu,2014,0.64
+Vanuatu,2015,0.46
+Vanuatu,2016,0.49
+Vanuatu,2017,0.68
+Vanuatu,2018,0.8
+Vanuatu,2019,1.01
+Vanuatu,2020,0.88
+Vanuatu,2021,0.9
+Vanuatu,2022,0.96
+Vanuatu,2023,0.93
+Vanuatu,2024,0.57
+Vanuatu,2025,0.8
+Vanuatu,2026,0.84
+Vanuatu,2027,1.17
+Vanuatu,2028,0.83
+Vanuatu,2029,1.03
+Vanuatu,2030,0.5
+Vanuatu,2031,0.98
+Vanuatu,2032,0.69
+Vanuatu,2033,0.88
+Venezuela,2004,-1.39
+Venezuela,2005,-1.24
+Venezuela,2006,-1.25
+Venezuela,2007,-1.23
+Venezuela,2008,-1.31
+Venezuela,2009,-1.28
+Venezuela,2010,-1.26
+Venezuela,2011,-1.09
+Venezuela,2012,-1.03
+Venezuela,2013,-1.08
+Venezuela,2014,-0.85
+Venezuela,2015,-0.97
+Venezuela,2016,-1.02
+Venezuela,2017,-1.25
+Venezuela,2018,-1.35
+Venezuela,2019,-1.54
+Venezuela,2020,-1.55
+Venezuela,2021,-1.45
+Venezuela,2022,-1.25
+Venezuela,2023,-1.19
+Venezuela,2024,-1.19
+Venezuela,2025,-1.08
+Venezuela,2026,-1.42
+Venezuela,2027,-1.28
+Venezuela,2028,-1.47
+Venezuela,2029,-1.44
+Venezuela,2030,-1.5
+Venezuela,2031,-1.19
+Venezuela,2032,-1.13
+Venezuela,2033,-0.97
+Viet Nam,2004,0.15
+Viet Nam,2005,0.48
+Viet Nam,2006,0.41
+Viet Nam,2007,0.25
+Viet Nam,2008,0.17
+Viet Nam,2009,0.27
+Viet Nam,2010,0.15
+Viet Nam,2011,0.19
+Viet Nam,2012,0.27
+Viet Nam,2013,0.25
+Viet Nam,2014,-0.02
+Viet Nam,2015,0.06
+Viet Nam,2016,0.23
+Viet Nam,2017,0.21
+Viet Nam,2018,0.03
+Viet Nam,2019,0.04
+Viet Nam,2020,-0.04
+Viet Nam,2021,-0.12
+Viet Nam,2022,-0.05
+Viet Nam,2023,-0.04
+Viet Nam,2024,0.25
+Viet Nam,2025,0.33
+Viet Nam,2026,0.19
+Viet Nam,2027,0.26
+Viet Nam,2028,0.32
+Viet Nam,2029,0.3
+Viet Nam,2030,0.24
+Viet Nam,2031,0.12
+Viet Nam,2032,0.34
+Viet Nam,2033,0.1
+West Bank and Gaza,2004,-1.17
+West Bank and Gaza,2005,-1.54
+West Bank and Gaza,2006,-1.77
+West Bank and Gaza,2007,-1.87
+West Bank and Gaza,2008,-1.99
+West Bank and Gaza,2009,-2.04
+West Bank and Gaza,2010,-1.97
+West Bank and Gaza,2011,-1.94
+West Bank and Gaza,2012,-1.96
+West Bank and Gaza,2013,-1.78
+West Bank and Gaza,2014,-1.99
+West Bank and Gaza,2015,-2.15
+West Bank and Gaza,2016,-1.97
+West Bank and Gaza,2017,-1.65
+West Bank and Gaza,2018,-1.8
+West Bank and Gaza,2019,-1.89
+West Bank and Gaza,2020,-2.02
+West Bank and Gaza,2021,-1.84
+West Bank and Gaza,2022,-1.7
+West Bank and Gaza,2023,-1.87
+West Bank and Gaza,2024,-1.86
+West Bank and Gaza,2025,-1.73
+West Bank and Gaza,2026,-1.58
+West Bank and Gaza,2027,-1.78
+West Bank and Gaza,2028,-1.83
+West Bank and Gaza,2029,-2.19
+West Bank and Gaza,2030,-1.58
+West Bank and Gaza,2031,-1.74
+West Bank and Gaza,2032,-1.8
+West Bank and Gaza,2033,-1.73
+Yemen,2004,-1.55
+Yemen,2005,-1.44
+Yemen,2006,-1.35
+Yemen,2007,-1.59
+Yemen,2008,-2.01
+Yemen,2009,-2.33
+Yemen,2010,-2.42
+Yemen,2011,-2.43
+Yemen,2012,-2.43
+Yemen,2013,-2.37
+Yemen,2014,-2.67
+Yemen,2015,-2.67
+Yemen,2016,-2.78
+Yemen,2017,-2.93
+Yemen,2018,-3.0
+Yemen,2019,-2.77
+Yemen,2020,-2.65
+Yemen,2021,-2.58
+Yemen,2022,-2.46
+Yemen,2023,-2.56
+Yemen,2024,-2.05
+Yemen,2025,-1.63
+Yemen,2026,-2.12
+Yemen,2027,-1.58
+Yemen,2028,-2.54
+Yemen,2029,-2.79
+Yemen,2030,-3.07
+Yemen,2031,-2.3
+Yemen,2032,-2.78
+Yemen,2033,-2.72
+Zambia,2004,0.19
+Zambia,2005,0.11
+Zambia,2006,0.36
+Zambia,2007,0.36
+Zambia,2008,0.47
+Zambia,2009,0.57
+Zambia,2010,0.52
+Zambia,2011,0.51
+Zambia,2012,0.66
+Zambia,2013,0.44
+Zambia,2014,0.16
+Zambia,2015,0.14
+Zambia,2016,0.13
+Zambia,2017,0.14
+Zambia,2018,0.08
+Zambia,2019,-0.12
+Zambia,2020,-0.13
+Zambia,2021,0.05
+Zambia,2022,0.16
+Zambia,2023,0.2
+Zambia,2024,0.15
+Zambia,2025,0.48
+Zambia,2026,0.28
+Zambia,2027,0.27
+Zambia,2028,0.51
+Zambia,2029,0.25
+Zambia,2030,0.36
+Zambia,2031,0.22
+Zambia,2032,0.35
+Zambia,2033,0.17
+Zimbabwe,2004,-1.2
+Zimbabwe,2005,-1.27
+Zimbabwe,2006,-0.93
+Zimbabwe,2007,-1.11
+Zimbabwe,2008,-1.21
+Zimbabwe,2009,-1.17
+Zimbabwe,2010,-1.1
+Zimbabwe,2011,-0.95
+Zimbabwe,2012,-0.78
+Zimbabwe,2013,-0.67
+Zimbabwe,2014,-0.71
+Zimbabwe,2015,-0.62
+Zimbabwe,2016,-0.62
+Zimbabwe,2017,-0.71
+Zimbabwe,2018,-0.72
+Zimbabwe,2019,-0.94
+Zimbabwe,2020,-1.05
+Zimbabwe,2021,-0.95
+Zimbabwe,2022,-0.89
+Zimbabwe,2023,-0.93
+Zimbabwe,2024,-1.07
+Zimbabwe,2025,-1.09
+Zimbabwe,2026,-0.96
+Zimbabwe,2027,-0.8
+Zimbabwe,2028,-0.67
+Zimbabwe,2029,-1.11
+Zimbabwe,2030,-1.12
+Zimbabwe,2031,-0.96
+Zimbabwe,2032,-0.86
+Zimbabwe,2033,-1.04
